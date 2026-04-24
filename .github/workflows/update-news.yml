@@ -2,9 +2,9 @@ name: 毎朝ニュース更新
 
 on:
   schedule:
-    # 毎朝7:30 JST（= UTC 22:30 前日）に実行
+    # 毎朝7:30 JST（= UTC 22:30 前日）
     - cron: '30 22 * * *'
-  workflow_dispatch:  # 手動実行ボタンも使えるようにする
+  workflow_dispatch:  # 手動実行ボタン
 
 jobs:
   update:
@@ -13,20 +13,16 @@ jobs:
       contents: write
 
     steps:
-      - name: リポジトリをチェックアウト
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Python セットアップ
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
       - name: 依存パッケージをインストール
-        run: pip install anthropic requests beautifulsoup4
+        run: pip install requests beautifulsoup4
 
-      - name: ニュースを取得してnews.jsonを更新
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: ニュースを取得
         run: python fetch_news.py
 
       - name: news.jsonをコミット＆プッシュ
@@ -34,5 +30,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add news.json
-          git diff --cached --quiet || git commit -m "🗞️ ニュース更新 $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M JST')"
+          git diff --cached --quiet || git commit -m "🗞️ $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M JST')"
           git push
