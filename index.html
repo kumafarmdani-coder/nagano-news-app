@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="長野日報">
+  <meta name="theme-color" content="#1a1a2e">
+  <title>長野日報 朝のニュース</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --admin-color: #2563eb;
+      --admin-bg: #eff6ff;
+      --tourism-color: #16a34a;
+      --tourism-bg: #f0fdf4;
+      --education-color: #d97706;
+      --education-bg: #fffbeb;
+      --general-color: #6b7280;
+      --general-bg: #f9fafb;
+      --header-bg: #1a1a2e;
+      --card-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN", sans-serif;
+      background: #f0f2f5;
+      min-height: 100vh;
+      padding-bottom: env(safe-area-inset-bottom);
+    }
+
+    header {
+      background: var(--header-bg);
+      color: white;
+      padding: 16px 20px;
+      padding-top: calc(16px + env(safe-area-inset-top));
+      padding-left: calc(20px + env(safe-area-inset-left));
+      padding-right: calc(20px + env(safe-area-inset-right));
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .header-icon { font-size: 24px; }
+
+    .header-text h1 {
+      font-size: 17px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    }
+
+    .header-text .date {
+      font-size: 12px;
+      opacity: 0.7;
+      margin-top: 2px;
+    }
+
+    .refresh-btn {
+      margin-left: auto;
+      background: rgba(255,255,255,0.15);
+      border: none;
+      color: white;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      font-size: 16px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .refresh-btn:active { background: rgba(255,255,255,0.3); }
+    .refresh-btn.spinning { animation: spin 1s linear infinite; }
+
+    @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+
+    .content {
+      padding: 16px;
+      padding-left: calc(16px + env(safe-area-inset-left));
+      padding-right: calc(16px + env(safe-area-inset-right));
+      max-width: 640px;
+      margin: 0 auto;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 60px 20px;
+      color: #888;
+    }
+    .loading .spinner {
+      width: 40px; height: 40px;
+      border: 3px solid #e0e0e0;
+      border-top-color: var(--admin-color);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 16px;
+    }
+
+    .error-box {
+      background: #fef2f2;
+      border: 1px solid #fca5a5;
+      border-radius: 12px;
+      padding: 20px;
+      text-align: center;
+      color: #dc2626;
+      margin: 20px 0;
+    }
+
+    .card {
+      background: white;
+      border-radius: 16px;
+      padding: 16px;
+      margin-bottom: 12px;
+      box-shadow: var(--card-shadow);
+      transition: transform 0.15s, box-shadow 0.15s;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .card:active { transform: scale(0.98); box-shadow: 0 1px 6px rgba(0,0,0,0.08); }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+
+    .number {
+      font-size: 11px;
+      font-weight: 700;
+      color: #aaa;
+      min-width: 20px;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 20px;
+      white-space: nowrap;
+    }
+    .tag.admin    { background: var(--admin-bg);    color: var(--admin-color); }
+    .tag.tourism  { background: var(--tourism-bg);  color: var(--tourism-color); }
+    .tag.education{ background: var(--education-bg);color: var(--education-color); }
+    .tag.general  { background: var(--general-bg);  color: var(--general-color); }
+
+    .card-title {
+      font-size: 15px;
+      font-weight: 700;
+      line-height: 1.4;
+      margin-bottom: 6px;
+    }
+    .card-title a {
+      color: #1a1a2e;
+      text-decoration: none;
+    }
+    .card-title a:visited { color: #555; }
+
+    .card-summary {
+      font-size: 13px;
+      color: #555;
+      line-height: 1.6;
+    }
+
+    .card-link-row {
+      margin-top: 10px;
+      display: flex;
+      justify-content: flex-end;
+    }
+    .card-link-row a {
+      font-size: 12px;
+      color: var(--admin-color);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 3px;
+    }
+
+    .footer {
+      text-align: center;
+      padding: 20px 16px;
+      font-size: 11px;
+      color: #aaa;
+    }
+    .footer a { color: #aaa; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-icon">📰</div>
+    <div class="header-text">
+      <h1>長野日報 朝のニュース</h1>
+      <div class="date" id="headerDate">読み込み中…</div>
+    </div>
+    <button class="refresh-btn" id="refreshBtn" onclick="loadNews(true)" title="更新">↻</button>
+  </header>
+
+  <div class="content">
+    <div id="newsContainer">
+      <div class="loading">
+        <div class="spinner"></div>
+        <div>ニュースを読み込んでいます…</div>
+      </div>
+    </div>
+    <div class="footer" id="footer"></div>
+  </div>
+
+  <script>
+    const TAG_CLASS = { admin: 'admin', tourism: 'tourism', education: 'education', general: 'general' };
+
+    function formatDate(dateStr) {
+      if (!dateStr) return '';
+      const d = new Date(dateStr.replace(/年|月/g, '-').replace('日', ''));
+      if (isNaN(d)) return dateStr;
+      return d.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric', weekday: 'short' });
+    }
+
+    function renderNews(data) {
+      const container = document.getElementById('newsContainer');
+      const footer = document.getElementById('footer');
+      const headerDate = document.getElementById('headerDate');
+
+      if (!data || !data.articles || data.articles.length === 0) {
+        container.innerHTML = '<div class="error-box">記事が見つかりませんでした</div>';
+        return;
+      }
+
+      headerDate.textContent = data.date || '';
+
+      const html = data.articles.map(a => {
+        const tagClass = TAG_CLASS[a.tag] || 'general';
+        const titleHtml = a.url
+          ? `<a href="${a.url}" target="_blank" rel="noopener">${escHtml(a.title)}</a>`
+          : escHtml(a.title);
+        const linkRow = a.url
+          ? `<div class="card-link-row"><a href="${a.url}" target="_blank" rel="noopener">記事を読む →</a></div>`
+          : '';
+        return `
+          <div class="card">
+            <div class="card-header">
+              <span class="number">${a.number}</span>
+              <span class="tag ${tagClass}">${escHtml(a.tag_label)}</span>
+            </div>
+            <div class="card-title">${titleHtml}</div>
+            <div class="card-summary">${escHtml(a.summary)}</div>
+            ${linkRow}
+          </div>`;
+      }).join('');
+
+      container.innerHTML = html;
+
+      if (data.updated_at) {
+        const d = new Date(data.updated_at);
+        const ts = isNaN(d) ? data.updated_at : d.toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' });
+        footer.innerHTML = `最終更新: ${ts}<br><a href="https://www.nagano-np.co.jp/" target="_blank">長野日報公式サイト</a>`;
+      }
+    }
+
+    function escHtml(str) {
+      if (!str) return '';
+      return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    async function loadNews(forceRefresh = false) {
+      const btn = document.getElementById('refreshBtn');
+      btn.classList.add('spinning');
+
+      try {
+        const url = forceRefresh
+          ? `news.json?v=${Date.now()}`
+          : 'news.json';
+        const res = await fetch(url);
+        if (!res.ok) throw new Error('fetch failed');
+        const data = await res.json();
+        renderNews(data);
+      } catch (e) {
+        document.getElementById('newsContainer').innerHTML =
+          '<div class="error-box">⚠️ ニュースの読み込みに失敗しました。<br>ネットワークを確認してください。</div>';
+      } finally {
+        btn.classList.remove('spinning');
+      }
+    }
+
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('sw.js').catch(() => {});
+    }
+
+    loadNews();
+  </script>
+</body>
+</html>
