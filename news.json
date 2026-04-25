@@ -1,86 +1,86 @@
 {
-  "date": "2026年4月24日（木）",
-  "updated_at": "2026-04-24T08:00:00+09:00",
+  "date": "2026年4月25日（土）",
+  "updated_at": "2026-04-25T09:08:51.460972+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "駒ケ根駅前にコワーキングスペース　試験運用開始",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5672",
-      "summary": "駒ケ根市がJR駒ケ根駅前「駒ケ根テレワークオフィスKoto」に共有オフィス機能を追加し試験運用を開始。在宅勤務の普及を受けてビジネス客に広く開放する方針に転換した。市の施設活用の新たな取り組み。"
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "御座石神社どぶろく祭り27日　御朱印やお守り制作",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5673",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "霧ケ峰キャンプ場　今季営業本日開始",
+      "title": "霧ケ峰キャンプ場　今季営業あす開始",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5669",
-      "summary": "霧ケ峰キャンプ場が4月24日から今シーズンの営業を開始。指定管理者制度へ移行し、湖上アクティビティ運営のアポルタが新たに管理。営業期間を従来の夏季から春〜10月末に大幅延長。"
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "新たな交流・観光拠点へ　中川に新施設「SAKADONE」オープン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5666",
-      "summary": "中川村大草の旧坂戸旅館を改修した複合施設「SAKADONE」が4月24日オープン。キッズスペース・カフェ・直売所・宿泊機能を備え、国重要文化財・坂戸橋近くの村の観光拠点として整備。"
+      "title": "諏訪湖ラグビースクール　１９日岡谷で体験会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5575",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "御座石神社どぶろく祭り27日　御朱印やお守り制作",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5673",
-      "summary": "茅野市の御座石神社で4月27日にどぶろく祭りを開催。氏子有志が神社由来の御朱印と鹿の角を使ったお守りを制作。各30体限定で当日のみ販売予定。"
+      "title": "諏訪湖マラソン　主会場は諏訪湖イベントひろばに",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5661",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "御宿場印プロジェクト　下諏訪宿、あす発売",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5675",
-      "summary": "諏訪信用金庫が参加する「御宿場印プロジェクト」で下諏訪宿の御宿場印を4月25日から発売。県内4信金が同日一斉にプロジェクトを本格始動。中山道の宿場町観光を支援する取り組み。"
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "民間感覚で市政変革　退任の白鳥伊那市長",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5681",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
-      "tag": "education",
-      "tag_label": "📚教育",
-      "title": "伊澤修二音楽フェスへ　東京芸大生招き吹奏楽講座",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5665",
-      "summary": "10月に伊那市で開催の「伊澤修二記念音楽フェスティバル」第40回を前に、6月6日に吹奏楽スキルアップ講座を開催。東京芸大生が中南信地域の中学生にトランペット・クラリネットなど4パートを指導。"
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "新頭取に樋代氏内定　八十二長野銀行",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5680",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "守り継がれた手仕事　原田泰治美術館で企画展",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5674",
-      "summary": "諏訪市の原田泰治美術館で企画展「日本の手仕事と暮らし」が開幕。各地の伝統工芸を題材にした原田泰治の作品と実物工芸品を同時展示。会期は8月30日まで。"
+      "title": "初のオリジナル土産発売　八ケ岳農業大学校",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5679",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "村内神社の建築的特徴書籍に　宮田村教委",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5671",
-      "summary": "宮田村教育委員会が村内の明治以前の神社7社を紹介する調査報告書を刊行。写真付きで建築的特徴・信仰の歴史・境内社5社を解説。著者は県文化財保護指導委員の丸山日出夫氏。"
+      "title": "使用料改定案を答申　諏訪市のすわっこランド",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5678",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "ジビエで地方創生　茅野・富士見でセミナー",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5667",
-      "summary": "日本ジビエ振興協会主催のセミナーが茅野市・富士見町で開催。県外の地域おこし協力隊4人が参加し、2日間で座学・解体処理・食体験を通じてジビエ利活用を一貫して学ぶ初の取り組み。"
+      "title": "ワークプレイス認定　上伊那福祉協会１２拠点",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5677",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "塚間川沿いの八重桜並木見頃　岡谷市役所近く",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5668",
-      "summary": "岡谷市役所近くの塚間川沿いで八重桜の並木が見頃を迎えている。ソメイヨシノの後を引き継ぐ遅咲きの桜が川沿いを彩り、市民の目を楽しませている。"
+      "title": "守り継がれた手仕事　原田泰治美術館で企画展",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5674",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
 }
