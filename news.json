@@ -1,9 +1,17 @@
 {
-  "date": "2026年4月26日（日）",
-  "updated_at": "2026-04-26T09:07:18.930611+09:00",
+  "date": "2026年4月27日（月）",
+  "updated_at": "2026-04-27T09:09:02.962791+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "「怪物」ロケ地の旧城北小　解体前にさよならフェス",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5693",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "茅野駅前ビルに交流拠点　公民連携施設オープン",
@@ -11,7 +19,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "諏訪湖ラグビースクール　１９日岡谷で体験会",
@@ -19,7 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "諏訪湖マラソン　主会場は諏訪湖イベントひろばに",
@@ -27,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "塚間川沿いの八重桜並木見頃　岡谷市役所近く",
@@ -35,51 +43,43 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "絶えず進化する街へ　岡谷市制施行90周年式典",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5686",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "御柱曳行路の現地確認　下諏訪町・岡谷市木遣保存会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5685",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "御座石神社どぶろく祭り27日　御朱印やお守り制作",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5673",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "人工衛星てるてる観測　確認できずも「希望はある」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5684",
+      "title": "幕岩にモミジ植樹　子どもら遊歩道の景観整備",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5692",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "南ア林道バス運行開始　安全と活性化願う",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5683",
+      "title": "諏訪の神の謎ひもとく　日本画家の川崎さん講演",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5691",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "民間感覚で市政変革　退任の白鳥伊那市長",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5681",
+      "title": "駒ケ根ソースかつ丼の日　あすまで割引サービス",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5690",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "新頭取に樋代氏内定　八十二長野銀行",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5680",
+      "title": "駒ケ根「本町テラス」　５月25日しゅん工",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5689",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
