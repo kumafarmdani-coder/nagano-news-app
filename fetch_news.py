@@ -11,10 +11,25 @@ from bs4 import BeautifulSoup
 
 JST = timezone(timedelta(hours=9))
 
-# 分類キーワード
+# ── エリア定義 ──────────────────────────────────────────
+# 上伊那地域（優先）
+KAMI_INA_AREAS = [
+    "伊那市", "伊那", "箕輪町", "箕輪", "南箕輪村", "南箕輪",
+    "辰野町", "辰野", "駒ケ根市", "駒ヶ根市", "駒ケ根", "駒ヶ根",
+    "中川村", "中川", "宮田村", "宮田", "飯島町", "飯島",
+]
+# 諏訪地域（最大3件まで）
+SUWA_AREAS = [
+    "諏訪市", "諏訪", "岡谷市", "岡谷", "茅野市", "茅野",
+    "下諏訪町", "下諏訪", "富士見町", "富士見", "原村",
+    "霧ケ峰", "霧が峰", "諏訪湖",
+]
+SUWA_LIMIT = 3
+
+# ── 分類キーワード ────────────────────────────────────────
 ADMIN_KEYWORDS   = ["箕輪町", "箕輪村"]
 ADMIN_EXTRAS     = ["役場", "議会", "行政", "条例", "予算", "町長", "村長", "定例会", "委員会"]
-TOURISM_AREAS    = ["伊那市", "伊那", "箕輪", "南箕輪", "辰野", "駒ケ根", "駒ヶ根", "中川村", "中川"]
+TOURISM_AREAS    = KAMI_INA_AREAS
 TOURISM_KEYWORDS = ["観光", "イベント", "祭り", "まつり", "フェス", "キャンプ", "登山", "山", "花",
                     "桜", "紅葉", "開山", "オープン", "公園", "名所", "温泉", "体験", "ハイキング"]
 EDUCATION_AREAS  = ["伊那市", "伊那"]
@@ -57,23 +72,35 @@ def fetch_articles():
     return articles[:40]
 
 
+def is_suwa(title):
+    """諏訪地域の記事かどうか判定"""
+    return any(k in title for k in SUWA_AREAS)
+
+
+def is_kami_ina(title):
+    """上伊那地域の記事かどうか判定"""
+    return any(k in title for k in KAMI_INA_AREAS)
+
+
 def classify(title):
     """記事タイトルからカテゴリを判定"""
     # 優先1: 箕輪町の行政ニュース
     if any(k in title for k in ADMIN_KEYWORDS):
-        if any(k in title for k in ADMIN_EXTRAS + TOURISM_KEYWORDS + EDUCATION_KEYWORDS):
-            return "admin", "🏛行政"
-        return "admin", "🏛行政"  # 箕輪町というだけで行政扱い
+        return "admin", "🏛行政"
 
-    # 優先2: 対象エリアの観光
-    if any(k in title for k in TOURISM_AREAS) and any(k in title for k in TOURISM_KEYWORDS):
+    # 優先2: 上伊那エリアの観光
+    if is_kami_ina(title) and any(k in title for k in TOURISM_KEYWORDS):
         return "tourism", "🌿観光"
 
     # 優先3: 伊那市の教育
     if any(k in title for k in EDUCATION_AREAS) and any(k in title for k in EDUCATION_KEYWORDS):
         return "education", "📚教育"
 
-    # 観光キーワードだけでも観光扱い（エリア問わず）
+    # 上伊那エリアの一般（諏訪より優先）
+    if is_kami_ina(title):
+        return "general", "📰一般"
+
+    # 諏訪・その他の観光
     if any(k in title for k in TOURISM_KEYWORDS):
         return "tourism", "🌿観光"
 
@@ -81,28 +108,41 @@ def classify(title):
 
 
 def prioritize(articles):
-    """優先順位でソートして10件選ぶ"""
-    ORDER = {"admin": 0, "tourism": 1, "education": 2, "general": 3}
+    """優先順位でソートして10件選ぶ（諏訪はSUWA_LIMIT件まで）"""
     tagged = []
     for a in articles:
         tag, tag_label = classify(a["title"])
-        tagged.append({**a, "tag": tag, "tag_label": tag_label, "_order": ORDER[tag]})
+        suwa = is_suwa(a["title"])
+        kami = is_kami_ina(a["title"])
+
+        if tag == "admin":
+            order = 0
+        elif tag == "tourism" and kami:
+            order = 1
+        elif tag == "education":
+            order = 2
+        elif tag == "general" and kami:
+            order = 3
+        elif suwa:
+            order = 4   # 諏訪は後回し
+        else:
+            order = 5
+
+        tagged.append({**a, "tag": tag, "tag_label": tag_label,
+                        "_order": order, "_suwa": suwa})
 
     tagged.sort(key=lambda x: x["_order"])
 
-    # 各カテゴリから重複なく選ぶ（adminを優先しつつ計10件）
     result = []
+    suwa_count = 0
     for item in tagged:
         if len(result) >= 10:
             break
+        if item["_suwa"]:
+            if suwa_count >= SUWA_LIMIT:
+                continue  # 諏訪は上限を超えたらスキップ
+            suwa_count += 1
         result.append(item)
-
-    # 10件に満たない場合は残りで補完
-    for item in tagged:
-        if len(result) >= 10:
-            break
-        if item not in result:
-            result.append(item)
 
     return result[:10]
 
