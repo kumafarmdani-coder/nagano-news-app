@@ -1,65 +1,17 @@
 {
-  "date": "2026年4月29日（水）",
-  "updated_at": "2026-04-29T16:35:25.664239+09:00",
+  "date": "2026年4月30日（木）",
+  "updated_at": "2026-04-30T16:39:05.381422+09:00",
   "articles": [
     {
       "number": 1,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "大型連休中の立石公園　混雑時は山側へ誘導",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5704",
+      "title": "「ローメン春まつり」にぎわう　伊那",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5707",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「怪物」ロケ地の旧城北小　解体前にさよならフェス",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5693",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "諏訪湖ラグビースクール　１９日岡谷で体験会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5575",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "茅野駅前ビルに交流拠点　公民連携施設オープン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5687",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "諏訪湖マラソン　主会場は諏訪湖イベントひろばに",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5661",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "御座石神社どぶろく祭り27日　御朱印やお守り制作",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5673",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "塚間川沿いの八重桜並木見頃　岡谷市役所近く",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5668",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
       "tag": "education",
       "tag_label": "📚教育",
       "title": "２０２９年度から男女共学へ　伊那西高校",
@@ -67,7 +19,39 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "「誇りと勇気大切に」　白鳥伊那市長退任",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5701",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "民間感覚で市政変革　退任の白鳥伊那市長",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5681",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "”シルク岡谷”未来へ継承　節目の30回記念フェア",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5710",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "諏訪湖花火有料席券　先行販売申し込みあすから",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5709",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "旧市役所庁舎巡るバーチャルツアー　岡谷市",
@@ -75,11 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 10,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "生糸商標カード配布10万枚　７月からキャンペーン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5703",
+      "title": "ハナモモ節目の1000本植樹　大和二区青壮年会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5711",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "圧巻の十八番「弁慶」　中尾歌舞伎春公演",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5708",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 10,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "大型連休中の立石公園　混雑時は山側へ誘導",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5704",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
