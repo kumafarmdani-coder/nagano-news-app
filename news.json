@@ -1,6 +1,6 @@
 {
-  "date": "2026年4月30日（木）",
-  "updated_at": "2026-04-30T16:39:05.381422+09:00",
+  "date": "2026年5月1日（金）",
+  "updated_at": "2026-05-01T16:37:15.584250+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,12 +22,20 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "初の飯島町内産ワイン誕生　３日発売開始",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5713",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "「誇りと勇気大切に」　白鳥伊那市長退任",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5701",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "民間感覚で市政変革　退任の白鳥伊那市長",
@@ -35,7 +43,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "大相撲荒汐部屋　下諏訪合宿６月８～24日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5716",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "”シルク岡谷”未来へ継承　節目の30回記念フェア",
@@ -43,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 8,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "諏訪湖花火有料席券　先行販売申し込みあすから",
@@ -51,35 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "旧市役所庁舎巡るバーチャルツアー　岡谷市",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5705",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ハナモモ節目の1000本植樹　大和二区青壮年会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5711",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "圧巻の十八番「弁慶」　中尾歌舞伎春公演",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5708",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "純白のヤマシャクヤク見頃　八ケ岳山野草園",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5717",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "大型連休中の立石公園　混雑時は山側へ誘導",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5704",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "地図とドライブ動画連動　「ドライブシンク」開始",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5715",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
