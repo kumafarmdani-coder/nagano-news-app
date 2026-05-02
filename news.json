@@ -1,13 +1,13 @@
 {
-  "date": "2026年5月1日（金）",
-  "updated_at": "2026-05-01T16:37:15.584250+09:00",
+  "date": "2026年5月2日（土）",
+  "updated_at": "2026-05-02T15:21:13.047925+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「ローメン春まつり」にぎわう　伊那",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5707",
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "通学路など安全点検　クマと人のゾーニング確認　長野県箕輪町",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5723",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -30,20 +30,28 @@
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「誇りと勇気大切に」　白鳥伊那市長退任",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5701",
+      "title": "民間感覚で市政変革　退任の白鳥伊那市長",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5681",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "民間感覚で市政変革　退任の白鳥伊那市長",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5681",
+      "title": "「誇りと勇気大切に」　白鳥伊那市長退任",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5701",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "現職の動き注目　諏訪、茅野市長選まで１年",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5721",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "大相撲荒汐部屋　下諏訪合宿６月８～24日",
@@ -51,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "”シルク岡谷”未来へ継承　節目の30回記念フェア",
@@ -59,27 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "諏訪湖花火有料席券　先行販売申し込みあすから",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5709",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "純白のヤマシャクヤク見頃　八ケ岳山野草園",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5717",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "自転車の青切符導入　スマホ注視など検挙３４件",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5722",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "地図とドライブ動画連動　「ドライブシンク」開始",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5715",
+      "title": "資材調達に遅れ改修工事２カ月延期　大芝の湯",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5720",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
