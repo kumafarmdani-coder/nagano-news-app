@@ -1,6 +1,6 @@
 {
-  "date": "2026年5月2日（土）",
-  "updated_at": "2026-05-02T15:21:13.047925+09:00",
+  "date": "2026年5月3日（日）",
+  "updated_at": "2026-05-03T16:22:54.426679+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,12 +22,20 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "初の飯島町内産ワイン誕生　３日発売開始",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5713",
+      "title": "駒ケ根駅前改革企画書完成　若者有志が市に提案",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5726",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "初の飯島産ワイン試飲会　きょうから販売開始",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5725",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "民間感覚で市政変革　退任の白鳥伊那市長",
@@ -35,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「誇りと勇気大切に」　白鳥伊那市長退任",
@@ -43,43 +51,35 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "現職の動き注目　諏訪、茅野市長選まで１年",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5721",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "大相撲荒汐部屋　下諏訪合宿６月８～24日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5716",
+      "title": "駒ケ根「本町テラス」　５月25日しゅん工",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5689",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "”シルク岡谷”未来へ継承　節目の30回記念フェア",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5710",
+      "title": "区、自治会課題把握へ住民の声収集　原村",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5728",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "自転車の青切符導入　スマホ注視など検挙３４件",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5722",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "華やか、つつじ祭り　岡谷の鶴峯公園",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5727",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "資材調達に遅れ改修工事２カ月延期　大芝の湯",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5720",
+      "title": "現職の動き注目　諏訪、茅野市長選まで１年",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5721",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
