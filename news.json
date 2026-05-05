@@ -1,17 +1,9 @@
 {
-  "date": "2026年5月4日（月）",
-  "updated_at": "2026-05-04T17:07:26.434477+09:00",
+  "date": "2026年5月5日（火）",
+  "updated_at": "2026-05-05T15:32:08.080595+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "通学路など安全点検　クマと人のゾーニング確認　長野県箕輪町",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5723",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
       "tag": "education",
       "tag_label": "📚教育",
       "title": "２０２９年度から男女共学へ　伊那西高校",
@@ -19,31 +11,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "駒ケ根駅前改革企画書完成　若者有志が市に提案",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5726",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "初の飯島産ワイン試飲会　きょうから販売開始",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5725",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "民間感覚で市政変革　退任の白鳥伊那市長",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5681",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
+      "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「誇りと勇気大切に」　白鳥伊那市長退任",
@@ -51,15 +19,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "駒ケ根「本町テラス」　５月25日しゅん工",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5689",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "初の飯島町内産ワイン誕生　３日発売開始",
@@ -67,19 +27,59 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "民家に熊１頭出没、捕獲　原村中新田",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5741",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "諏訪湖望む古里で新たな決意　諏訪市二十歳のつどい",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5740",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "都庁で岡谷の産業ＰＲ　特産品などの物販も",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5737",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "農福連携「ニンニクの芽」初出荷　伊南桜木園",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5739",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "太陽系外縁の小天体に大気　国立天文台が発表",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5738",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "諏訪に合宿施設オープン　ミクロスプリングHD",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5730",
+      "title": "”あつ森”とコラボイベント好評　東急リゾート",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5734",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "区、自治会課題把握へ住民の声収集　原村",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5728",
+      "title": "さえずり聴き、姿追う　塩嶺小鳥バス運行開始",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5735",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
