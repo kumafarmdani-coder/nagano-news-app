@@ -1,25 +1,33 @@
 {
-  "date": "2026年5月5日（火）",
-  "updated_at": "2026-05-05T15:32:08.080595+09:00",
+  "date": "2026年5月7日（木）",
+  "updated_at": "2026-05-07T17:04:54.709185+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "education",
-      "tag_label": "📚教育",
-      "title": "２０２９年度から男女共学へ　伊那西高校",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5696",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "宮田村の暮らし体験　良品計画が協力し住宅完成",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5751",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "「誇りと勇気大切に」　白鳥伊那市長退任",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5701",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "宮田ワイン「紫輝」　２３日解禁に合わせイベント",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5746",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "日本酒とブドウのリキュール９、１０日に販売　辰野高生考案の酒かす料理も",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5744",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "初の飯島町内産ワイン誕生　３日発売開始",
@@ -27,59 +35,51 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "民家に熊１頭出没、捕獲　原村中新田",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5741",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪湖望む古里で新たな決意　諏訪市二十歳のつどい",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5740",
+      "title": "岡谷で親子向けオペラ上演　武井武雄作品の投影も",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5750",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "都庁で岡谷の産業ＰＲ　特産品などの物販も",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5737",
+      "title": "「人形浄瑠璃文楽」触れて体感　下諏訪町でワークショップ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5747",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "農福連携「ニンニクの芽」初出荷　伊南桜木園",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5739",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "原村全住民が交通災害共済に加入　公費で全額負担",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5745",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "太陽系外縁の小天体に大気　国立天文台が発表",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5738",
+      "title": "母の日に華やかな贈り物を　フラワーギフト出荷ピーク",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5753",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "”あつ森”とコラボイベント好評　東急リゾート",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5734",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "駆除の鹿から革製品　猟師の新たな収入源に",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5752",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "さえずり聴き、姿追う　塩嶺小鳥バス運行開始",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5735",
+      "title": "挑戦や可能性支える基盤を　県看護大新学長インタビュー",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5749",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
