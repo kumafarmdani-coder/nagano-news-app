@@ -1,21 +1,21 @@
 {
-  "date": "2026年5月9日（土）",
-  "updated_at": "2026-05-09T15:30:35.297465+09:00",
+  "date": "2026年5月10日（日）",
+  "updated_at": "2026-05-10T16:34:10.570002+09:00",
   "articles": [
     {
       "number": 1,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "パルクール楽しむ拠点に　箕輪にジムがオープン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5756",
+      "title": "宮田村の暮らし体験　良品計画が協力し住宅完成",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5751",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "宮田村の暮らし体験　良品計画が協力し住宅完成",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5751",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "駒ケ根にゲストハウス開業へ　協力隊の岡田さん",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5768",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -60,26 +60,26 @@
     },
     {
       "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "親族の遺骨いまだ戻らず　県内外の遺族が思い共有",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5764",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "農家育成へ摘花実習　りんご生産アカデミー",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5771",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "ＡＩができない「おもてなし」を　親湯温泉が人材育成に注力",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5763",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "地域に若者呼び込め　八ケ岳泉野編集部",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5770",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "８１歳今なお現役　３Ｂ体操「名誉指導者」認定",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5762",
+      "title": "昔の暮らし、かるたに　県福祉大学校",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5769",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
