@@ -1,6 +1,6 @@
 {
-  "date": "2026年5月10日（日）",
-  "updated_at": "2026-05-10T16:34:10.570002+09:00",
+  "date": "2026年5月11日（月）",
+  "updated_at": "2026-05-11T19:47:32.834766+09:00",
   "articles": [
     {
       "number": 1,
@@ -30,20 +30,12 @@
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "初の飯島産ワイン試飲会　きょうから販売開始",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5725",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
       "title": "諏訪地域の戦争の痕跡　諏訪清陵高生が調査し冊子に",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5765",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 5,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "諏訪湖ラグビースクール　１９日岡谷で体験会",
@@ -51,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "民家に熊１頭出没、捕獲　原村中新田",
@@ -59,7 +51,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 7,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "農家育成へ摘花実習　りんご生産アカデミー",
@@ -67,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "地域に若者呼び込め　八ケ岳泉野編集部",
@@ -75,11 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 10,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "昔の暮らし、かるたに　県福祉大学校",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5769",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 10,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "芝平そばの食感再現　期間限定で提供",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5767",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
