@@ -1,13 +1,13 @@
 {
-  "date": "2026年5月11日（月）",
-  "updated_at": "2026-05-11T19:47:32.834766+09:00",
+  "date": "2026年5月12日（火）",
+  "updated_at": "2026-05-12T17:12:33.279746+09:00",
   "articles": [
     {
       "number": 1,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "宮田村の暮らし体験　良品計画が協力し住宅完成",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5751",
+      "title": "ぼたん祭り始まる　伊那市高遠町の遠照寺",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5773",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -22,8 +22,8 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "上伊那から８人が入賞・入選　国展の絵画部門",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5761",
+      "title": "築１１０年の古民家改装　茅野市笹原に交流拠点",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5775",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -44,14 +44,30 @@
     },
     {
       "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "民家に熊１頭出没、捕獲　原村中新田",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5741",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "応援で最後まで力強く　山田梨央選手が母校で交流",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5777",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "「早太郎温泉郷」活性化を　プロジェクト始動",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5776",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "観察と撮影マナー徹底を　アカモズ保護へ呼び掛け",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5774",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "農家育成へ摘花実習　りんご生産アカデミー",
@@ -59,27 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "地域に若者呼び込め　八ケ岳泉野編集部",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5770",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "昔の暮らし、かるたに　県福祉大学校",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5769",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "芝平そばの食感再現　期間限定で提供",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5767",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
