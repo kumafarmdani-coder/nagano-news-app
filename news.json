@@ -1,6 +1,6 @@
 {
-  "date": "2026年5月12日（火）",
-  "updated_at": "2026-05-12T17:12:33.279746+09:00",
+  "date": "2026年5月13日（水）",
+  "updated_at": "2026-05-13T17:26:32.264406+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,12 +14,36 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "「飯沼の棚田」で田植え　中川",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5779",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "駒ケ根の農業法人「雅」　集荷配送事業立ち上げ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5780",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "駒ケ根にゲストハウス開業へ　協力隊の岡田さん",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5768",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 5,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "諏訪湖花火大会　湖上ディナー観覧席、今年も",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5782",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "築１１０年の古民家改装　茅野市笹原に交流拠点",
@@ -27,15 +51,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "諏訪地域の戦争の痕跡　諏訪清陵高生が調査し冊子に",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5765",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
+      "number": 7,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "諏訪湖ラグビースクール　１９日岡谷で体験会",
@@ -43,43 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "応援で最後まで力強く　山田梨央選手が母校で交流",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5777",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「早太郎温泉郷」活性化を　プロジェクト始動",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5776",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "観察と撮影マナー徹底を　アカモズ保護へ呼び掛け",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5774",
+      "title": "土産菓子の認定制度新設　八ケ岳西麓地域共生会議",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5783",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "農家育成へ摘花実習　りんご生産アカデミー",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5771",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "カネイチビルで「モルック」プレー　18日初開催",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5781",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "地域に若者呼び込め　八ケ岳泉野編集部",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5770",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "応援で最後まで力強く　山田梨央選手が母校で交流",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5777",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
