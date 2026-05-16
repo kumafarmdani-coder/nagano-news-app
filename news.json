@@ -1,6 +1,6 @@
 {
-  "date": "2026年5月15日（金）",
-  "updated_at": "2026-05-15T18:34:48.505296+09:00",
+  "date": "2026年5月16日（土）",
+  "updated_at": "2026-05-16T15:40:05.346049+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,24 +14,24 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "一世紀の伝統「一芯三葉」　中川西小茶摘み",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5791",
+      "title": "夏日に輝く水鏡　伊那で７月上旬並みの気温",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5799",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "初の区誌、来月刊行　駒ケ根市東伊那区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5787",
+      "title": "名古屋線開業から半世紀　伊那バスが記念式典",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5797",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「飯沼の棚田」で田植え　中川",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5779",
+      "title": "一世紀の伝統「一芯三葉」　中川西小茶摘み",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5791",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -44,6 +44,22 @@
     },
     {
       "number": 6,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "ネット申し込みをサポート　諏訪湖花火大会市民枠チケット",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5800",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "４９億円の不足見込み　茅野市の中期財政",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5798",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "多様性生かす「共有」　岡谷たる産業考えるWS",
@@ -51,35 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「お諏訪祭り」14年ぶり復活　23日サブカル発信",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5789",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "上諏訪街道呑みあるき　今年は10月3日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5207",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "大型連休中の立石公園　渋滞の影響は解消",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5795",
+      "title": "視覚障がいがあっても前向きに　大道芸人「Ｓｈｏｇｏ」として活動",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5801",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "平胴大太鼓「飛龍2000」　革張り替えへ支援募る",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5793",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "大型連休中の立石公園　渋滞の影響は解消",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5795",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
