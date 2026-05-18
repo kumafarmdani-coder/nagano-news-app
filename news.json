@@ -1,9 +1,25 @@
 {
-  "date": "2026年5月17日（日）",
-  "updated_at": "2026-05-17T16:45:46.413452+09:00",
+  "date": "2026年5月18日（月）",
+  "updated_at": "2026-05-18T21:00:20.894874+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "伊那まつりポスター原画とＴシャツデザイン決まる",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5810",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "マルス駒ケ岳蒸溜所で「祭り」にぎわう　宮田",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5809",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "ぼたん祭り始まる　伊那市高遠町の遠照寺",
@@ -11,55 +27,31 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "夏日に輝く水鏡　伊那で７月上旬並みの気温",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5799",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "名古屋線開業から半世紀　伊那バスが記念式典",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5797",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "駒ケ根にゲストハウス開業へ　協力隊の岡田さん",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5768",
+      "title": "野明選手、地元下諏訪で祝福　パレードとお祝い会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5813",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "歩いて走ってごみ拾い　諏訪湖プロギング",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5805",
+      "title": "学ぼう「シルク岡谷」　岡谷北部中生が桑畑整備",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5812",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "ネット申し込みをサポート　諏訪湖花火大会市民枠チケット",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5800",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "「戦争当時の原村」先輩から学ぶ　移住者ら座談会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5811",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "４９億円の不足見込み　茅野市の中期財政",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5798",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "慌てず騒がず正しい行動を　クマ出没対策講座",
@@ -67,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 8,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "国産キハダの里山整備　有賀林野と長野県製薬",
@@ -75,11 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 10,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "故伴さんの証言放映　登戸研究所調査研究会が総会",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5804",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 10,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "地元店舗に飾る絵画制作　春富中美術部３年生",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5803",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
