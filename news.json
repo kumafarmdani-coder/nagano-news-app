@@ -1,6 +1,6 @@
 {
-  "date": "2026年5月19日（火）",
-  "updated_at": "2026-05-19T19:48:14.896924+09:00",
+  "date": "2026年5月20日（水）",
+  "updated_at": "2026-05-20T08:38:15.761034+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,24 +14,24 @@
       "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "伊那まつりポスター原画とＴシャツデザイン決まる",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5810",
+      "title": "野生動物とゾーニング　飯島の坊主平キャンプ場",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5821",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "マルス駒ケ岳蒸溜所で「祭り」にぎわう　宮田",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5809",
+      "title": "ぼたん祭り始まる　伊那市高遠町の遠照寺",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5773",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "ぼたん祭り始まる　伊那市高遠町の遠照寺",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5773",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "上伊那の小麦病害虫防除　ドロ－ンに切り替え",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5822",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -44,6 +44,14 @@
     },
     {
       "number": 6,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "立石公園、駐車場増設へ　諏訪市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5825",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "御柱祭の候補木決まる　諏訪大社上社仮見立て",
@@ -51,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "野明選手、地元下諏訪で祝福　パレードとお祝い会",
@@ -59,27 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "学ぼう「シルク岡谷」　岡谷北部中生が桑畑整備",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5812",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "地域の美味をヤツマで　高校生コンビニで弁当販売",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5818",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "太鼓まつり踊りパレード　ダンスフェスに改称",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5824",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "全職員の意識改革　県庁で「かえプロ」スタート",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5816",
+      "title": "課題や悩み語らう場　交差点ラボ立ち上げ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5823",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
