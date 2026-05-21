@@ -1,9 +1,17 @@
 {
-  "date": "2026年5月21日（木）",
-  "updated_at": "2026-05-21T08:45:46.403233+09:00",
+  "date": "2026年5月22日（金）",
+  "updated_at": "2026-05-22T08:33:10.293072+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "濃紫の花と新緑のコントラスト　箕輪町上古田のアヤメ見頃",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5815",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "ハッチョウトンボ羽化始まる　駒ケ根市南割公園",
@@ -11,23 +19,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "野生動物とゾーニング　飯島の坊主平キャンプ場",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5821",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 3,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "ぼたん祭り始まる　伊那市高遠町の遠照寺",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5773",
+      "tag": "education",
+      "tag_label": "📚教育",
+      "title": "地域クラブと指導者つなぐ　伊那市が情報サイト",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5834",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "満開ポピー、真っ赤なカーペット　飯島",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5833",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "上伊那の小麦病害虫防除　ドロ－ンに切り替え",
@@ -35,7 +43,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "茅野市移住相談、最多626件　25年度",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5836",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "長野道・岡谷高架橋改良　光や音で注意喚起",
@@ -43,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "不登校の家庭支援　諏訪市がＮＰＯと新事業",
@@ -51,35 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "新井戸尻考古館、基本設計が完成　富士見町",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5829",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "乳房ケア指導でネパールへ　助産師の川手さん",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5828",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "太鼓まつり踊りパレード　ダンスフェスに改称",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5824",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "野明選手に県スポーツ特別栄誉賞",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5837",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "課題や悩み語らう場　交差点ラボ立ち上げ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5823",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "来月７日八ケ岳開山祭　記念バッジとお札袋詰め",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5835",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
