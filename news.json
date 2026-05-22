@@ -1,6 +1,6 @@
 {
-  "date": "2026年5月22日（金）",
-  "updated_at": "2026-05-22T08:33:10.293072+09:00",
+  "date": "2026年5月23日（土）",
+  "updated_at": "2026-05-23T08:37:05.605743+09:00",
   "articles": [
     {
       "number": 1,
@@ -12,18 +12,18 @@
     },
     {
       "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "ハッチョウトンボ羽化始まる　駒ケ根市南割公園",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5827",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
       "tag": "education",
       "tag_label": "📚教育",
       "title": "地域クラブと指導者つなぐ　伊那市が情報サイト",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5834",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "中川村と大鹿村が連携　地域生活圏を構築へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5840",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -36,34 +36,34 @@
     },
     {
       "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "上伊那の小麦病害虫防除　ドロ－ンに切り替え",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5822",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "貴重な釜無ホテイアツモリソウも　富士見町で山野草展",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5843",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "茅野市移住相談、最多626件　25年度",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5836",
+      "title": "「イオンスタイル諏訪」今秋開店　関係者ら上棟式",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5842",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "長野道・岡谷高架橋改良　光や音で注意喚起",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5831",
+      "title": "古里就職の参考に　岡谷工高で合同企業研究会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5839",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "不登校の家庭支援　諏訪市がＮＰＯと新事業",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5830",
+      "title": "新ルートに好感　経ケ岳ラウンドトレイルの参加者数回復",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5841",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
