@@ -1,6 +1,6 @@
 {
-  "date": "2026年5月23日（土）",
-  "updated_at": "2026-05-23T08:37:05.605743+09:00",
+  "date": "2026年5月24日（日）",
+  "updated_at": "2026-05-24T08:27:33.474502+09:00",
   "articles": [
     {
       "number": 1,
@@ -12,14 +12,6 @@
     },
     {
       "number": 2,
-      "tag": "education",
-      "tag_label": "📚教育",
-      "title": "地域クラブと指導者つなぐ　伊那市が情報サイト",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5834",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "中川村と大鹿村が連携　地域生活圏を構築へ",
@@ -27,11 +19,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "満開ポピー、真っ赤なカーペット　飯島",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5833",
+      "title": "諏訪湖環境モニターに37人　座学と実地で事前学習",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5849",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "「お諏訪まつり」令和の装い　新たな形で再興",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5847",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -46,20 +46,28 @@
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「イオンスタイル諏訪」今秋開店　関係者ら上棟式",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5842",
+      "title": "身近な戦争遺構に興味を　清陵高生２人研究発表",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5848",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "古里就職の参考に　岡谷工高で合同企業研究会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5839",
+      "title": "旧高遠町閉町記念のタイムカプセル開封",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5846",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "バラ270種3000本咲き始め　高遠しんわの丘",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5845",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "新ルートに好感　経ケ岳ラウンドトレイルの参加者数回復",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "野明選手に県スポーツ特別栄誉賞",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5837",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "来月７日八ケ岳開山祭　記念バッジとお札袋詰め",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5835",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
