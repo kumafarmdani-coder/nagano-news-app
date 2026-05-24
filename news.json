@@ -1,6 +1,6 @@
 {
-  "date": "2026年5月24日（日）",
-  "updated_at": "2026-05-24T08:27:33.474502+09:00",
+  "date": "2026年5月25日（月）",
+  "updated_at": "2026-05-25T08:31:21.018031+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,12 +14,28 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "節目の「ハイジ」に拍手　駒ケ根市民ミュージカル",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5851",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "中川村と大鹿村が連携　地域生活圏を構築へ",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5840",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "７月豪雨災害から20年　岡谷で広域防災講演会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5855",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "諏訪湖環境モニターに37人　座学と実地で事前学習",
@@ -27,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 6,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "「お諏訪まつり」令和の装い　新たな形で再興",
@@ -35,51 +51,35 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 7,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "貴重な釜無ホテイアツモリソウも　富士見町で山野草展",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5843",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "身近な戦争遺構に興味を　清陵高生２人研究発表",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5848",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "旧高遠町閉町記念のタイムカプセル開封",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5846",
+      "title": "大人と「学び」語り合う　山ん家フェス",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5854",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "バラ270種3000本咲き始め　高遠しんわの丘",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5845",
+      "title": "未来アクション始動　初回はカヤックでごみ拾い",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5853",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "新ルートに好感　経ケ岳ラウンドトレイルの参加者数回復",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5841",
+      "title": "くらすわの森　一部休止に地元「残念」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5852",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "野明選手に県スポーツ特別栄誉賞",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5837",
+      "title": "身近な戦争遺構に興味を　清陵高生２人研究発表",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5848",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
