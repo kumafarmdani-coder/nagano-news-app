@@ -1,6 +1,6 @@
 {
-  "date": "2026年5月25日（月）",
-  "updated_at": "2026-05-25T08:31:21.018031+09:00",
+  "date": "2026年5月26日（火）",
+  "updated_at": "2026-05-26T08:36:23.070050+09:00",
   "articles": [
     {
       "number": 1,
@@ -12,18 +12,18 @@
     },
     {
       "number": 2,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "節目の「ハイジ」に拍手　駒ケ根市民ミュージカル",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5851",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "車いすバスケに挑戦　南箕輪で体験会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5857",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "中川村と大鹿村が連携　地域生活圏を構築へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5840",
+      "title": "節目の「ハイジ」に拍手　駒ケ根市民ミュージカル",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5851",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -46,40 +46,40 @@
       "number": 6,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "「お諏訪まつり」令和の装い　新たな形で再興",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5847",
+      "title": "「お諏訪祭り」14年ぶり復活　23日サブカル発信",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5789",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "大人と「学び」語り合う　山ん家フェス",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5854",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "御柱祭下社御用材８本決まる　東俣で本見立て",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5861",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "未来アクション始動　初回はカヤックでごみ拾い",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5853",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "窓口と情報一元化　御柱祭観光情報センター１０月開設",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5860",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "くらすわの森　一部休止に地元「残念」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5852",
+      "title": "胸高鳴る氏子の思い　次へつなぐ御柱祭に",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5859",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "身近な戦争遺構に興味を　清陵高生２人研究発表",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5848",
+      "title": "故郷・高遠の思い出一冊に　赤羽さん自費出版",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5858",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
