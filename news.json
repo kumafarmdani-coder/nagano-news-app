@@ -1,6 +1,6 @@
 {
-  "date": "2026年5月26日（火）",
-  "updated_at": "2026-05-26T08:36:23.070050+09:00",
+  "date": "2026年5月27日（水）",
+  "updated_at": "2026-05-27T08:37:34.480352+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,12 +22,36 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "節目の「ハイジ」に拍手　駒ケ根市民ミュージカル",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5851",
+      "title": "メモリアルグッズを制作　伊那弥生高同窓会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5864",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "伊那美術協会員が園児と巨大絵画制作",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5863",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "駒ケ根「本町テラス」　５月25日しゅん工",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5689",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "「万治の石仏」前で田植え　下諏訪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5865",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "７月豪雨災害から20年　岡谷で広域防災講演会",
@@ -35,15 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "諏訪湖環境モニターに37人　座学と実地で事前学習",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5849",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
+      "number": 8,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "「お諏訪祭り」14年ぶり復活　23日サブカル発信",
@@ -51,35 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "御柱祭下社御用材８本決まる　東俣で本見立て",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5861",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "窓口と情報一元化　御柱祭観光情報センター１０月開設",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5860",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "胸高鳴る氏子の思い　次へつなぐ御柱祭に",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5859",
+      "title": "特殊詐欺　被害者の９割「自分はだまされない」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5866",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "故郷・高遠の思い出一冊に　赤羽さん自費出版",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5858",
+      "title": "御柱祭下社御用材８本決まる　東俣で本見立て",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5861",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
