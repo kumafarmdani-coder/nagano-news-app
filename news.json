@@ -1,21 +1,21 @@
 {
-  "date": "2026年5月27日（水）",
-  "updated_at": "2026-05-27T08:37:34.480352+09:00",
+  "date": "2026年5月28日（木）",
+  "updated_at": "2026-05-28T08:42:11.299824+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "濃紫の花と新緑のコントラスト　箕輪町上古田のアヤメ見頃",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5815",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "蛍幼虫3164匹の上陸確認　辰野町ほたる祭り企画会議",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5868",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "車いすバスケに挑戦　南箕輪で体験会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5857",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "販売高24年ぶり180億円台　ＪＡ上伊那",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5870",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -46,40 +46,40 @@
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「万治の石仏」前で田植え　下諏訪",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5865",
+      "title": "満開ポピー、真っ赤なカーペット　飯島",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5833",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "７月豪雨災害から20年　岡谷で広域防災講演会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5855",
+      "title": "ＪＡ信州諏訪のブロッコリー　農水省指定野菜入り",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5873",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「お諏訪祭り」14年ぶり復活　23日サブカル発信",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5789",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "バラの庭、今年も一般公開　茅野のマザーツリー",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5872",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "特殊詐欺　被害者の９割「自分はだまされない」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5866",
+      "title": "荒汐部屋下諏訪合宿へ　歓迎準備始まる",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5867",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "御柱祭下社御用材８本決まる　東俣で本見立て",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5861",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "釜無ホテイアツモリソウ　原種の株初開花",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5871",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
