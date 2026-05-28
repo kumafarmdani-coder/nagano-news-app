@@ -1,9 +1,17 @@
 {
-  "date": "2026年5月28日（木）",
-  "updated_at": "2026-05-28T08:42:11.299824+09:00",
+  "date": "2026年5月29日（金）",
+  "updated_at": "2026-05-29T08:47:44.930189+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "スズタケ開花の年にクロチクも　伊那の春日さん宅",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5876",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "蛍幼虫3164匹の上陸確認　辰野町ほたる祭り企画会議",
@@ -11,7 +19,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
+      "tag": "education",
+      "tag_label": "📚教育",
+      "title": "地域クラブ　伊那ジュニアコーラス発足へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5875",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "販売高24年ぶり180億円台　ＪＡ上伊那",
@@ -19,15 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "メモリアルグッズを制作　伊那弥生高同窓会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5864",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那美術協会員が園児と巨大絵画制作",
@@ -35,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "駒ケ根「本町テラス」　５月25日しゅん工",
@@ -43,7 +51,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "満開ポピー、真っ赤なカーペット　飯島",
@@ -51,35 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ＪＡ信州諏訪のブロッコリー　農水省指定野菜入り",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5873",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "バラの庭、今年も一般公開　茅野のマザーツリー",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5872",
+      "title": "諏訪平地区農地整備　農作業効率化へ「第一歩」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5879",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "荒汐部屋下諏訪合宿へ　歓迎準備始まる",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5867",
+      "title": "諏訪湖に違法「釣り用台座」　原状回復求める",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5878",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "釜無ホテイアツモリソウ　原種の株初開花",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5871",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "環境改善へ連携　諏訪湖創生ビジョン推進会議",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5877",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
