@@ -1,6 +1,6 @@
 {
-  "date": "2026年5月29日（金）",
-  "updated_at": "2026-05-29T08:47:44.930189+09:00",
+  "date": "2026年5月30日（土）",
+  "updated_at": "2026-05-30T08:46:48.763080+09:00",
   "articles": [
     {
       "number": 1,
@@ -12,14 +12,6 @@
     },
     {
       "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "蛍幼虫3164匹の上陸確認　辰野町ほたる祭り企画会議",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5868",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
       "tag": "education",
       "tag_label": "📚教育",
       "title": "地域クラブ　伊那ジュニアコーラス発足へ",
@@ -27,11 +19,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "出合えれば幸運　伊那北駅前にキッチンカー",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5883",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "販売高24年ぶり180億円台　ＪＡ上伊那",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5870",
+      "title": "着物を洋服や小物に再生　箕輪で展示会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5881",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -54,12 +54,20 @@
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "満開ポピー、真っ赤なカーペット　飯島",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5833",
+      "title": "３年ぶり目標数値達成　諏訪湖の水質",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5885",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "今春の採卵量６割強　諏訪湖のワカサギ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5882",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "諏訪平地区農地整備　農作業効率化へ「第一歩」",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "諏訪湖に違法「釣り用台座」　原状回復求める",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5878",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "環境改善へ連携　諏訪湖創生ビジョン推進会議",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5877",
+      "title": "県知事選へ出馬表明　元参院議員の武田良介氏",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5884",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
