@@ -1,25 +1,9 @@
 {
-  "date": "2026年5月30日（土）",
-  "updated_at": "2026-05-30T08:46:48.763080+09:00",
+  "date": "2026年5月31日（日）",
+  "updated_at": "2026-05-31T08:32:08.566136+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "スズタケ開花の年にクロチクも　伊那の春日さん宅",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5876",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
-      "tag": "education",
-      "tag_label": "📚教育",
-      "title": "地域クラブ　伊那ジュニアコーラス発足へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5875",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "出合えれば幸運　伊那北駅前にキッチンカー",
@@ -27,7 +11,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "着物を洋服や小物に再生　箕輪で展示会",
@@ -35,15 +19,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "伊那美術協会員が園児と巨大絵画制作",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5863",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "駒ケ根「本町テラス」　５月25日しゅん工",
@@ -51,7 +27,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "神仏習合、諏訪信仰を未来へ　平福寺で報恩法要",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5891",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "３年ぶり目標数値達成　諏訪湖の水質",
@@ -59,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "今春の採卵量６割強　諏訪湖のワカサギ",
@@ -67,19 +51,35 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "張り切って成果披露　元気いっぱい運動会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5890",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "観光振興推進へ連携　県、あすから宿泊税導入",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5889",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪平地区農地整備　農作業効率化へ「第一歩」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5879",
+      "title": "経ケ岳ラウンドトレイル　新ルートで健脚競う",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5888",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "県知事選へ出馬表明　元参院議員の武田良介氏",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5884",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "アイデアをかたちに　創業期体験プログラム",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5887",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
