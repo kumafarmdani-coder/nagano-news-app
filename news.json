@@ -1,9 +1,25 @@
 {
-  "date": "2026年6月1日（月）",
-  "updated_at": "2026-06-01T08:35:58.428744+09:00",
+  "date": "2026年6月2日（火）",
+  "updated_at": "2026-06-02T08:48:53.200350+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "今季の無事故とにぎわい祈願　宮田高原で開山式",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5899",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "中川えびす舞を初演　人形保存会７日に公演",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5902",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "上伊那医師会付属准看護学院　移転新築の校舎完成",
@@ -11,7 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "駒ケ根「本町テラス」　５月25日しゅん工",
@@ -19,7 +35,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "今夏の提灯飾りともせず　会員減で継続困難　諏訪市中浜町区",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5903",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "盗撮未遂で教員逮捕　岡谷市教育委が謝罪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5901",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「牛首紬」テーマに企画展　岡谷蚕糸博物館",
@@ -27,23 +59,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪大社上社御田植祭　早乙女23人決まる",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5896",
+      "title": "武井武雄の西堀灯篭戯画１２点　原画を寄託",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5900",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "神仏習合、諏訪信仰を未来へ　平福寺で報恩法要",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5891",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
+      "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "初夏訪れ高原彩り　入笠山、スズラン見頃",
@@ -51,35 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 10,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "木工体験や販売　「もくせいしゃ」新体制で再出発",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5893",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "張り切って成果披露　元気いっぱい運動会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5890",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "観光振興推進へ連携　県、あすから宿泊税導入",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5889",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "経ケ岳ラウンドトレイル　新ルートで健脚競う",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5888",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
