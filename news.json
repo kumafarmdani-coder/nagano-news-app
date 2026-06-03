@@ -1,6 +1,6 @@
 {
-  "date": "2026年6月2日（火）",
-  "updated_at": "2026-06-02T08:48:53.200350+09:00",
+  "date": "2026年6月3日（水）",
+  "updated_at": "2026-06-03T09:09:18.773309+09:00",
   "articles": [
     {
       "number": 1,
@@ -12,6 +12,30 @@
     },
     {
       "number": 2,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "蛍幼虫3164匹の上陸確認　辰野町ほたる祭り企画会議",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5868",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "駒ケ根市立博物館「昭和100年記念展」が優秀企画展賞",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5906",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "飯島町の持続可能な地域づくり　県が紹介動画",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5905",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "中川えびす舞を初演　人形保存会７日に公演",
@@ -19,23 +43,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "上伊那医師会付属准看護学院　移転新築の校舎完成",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5894",
+      "title": "荒汐部屋下諏訪合宿へ　赤砂崎に相撲のぼり",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5909",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "駒ケ根「本町テラス」　５月25日しゅん工",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5689",
+      "title": "子どもたちへ春蚕配布始まる　岡谷蚕糸博物館",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5907",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "今夏の提灯飾りともせず　会員減で継続困難　諏訪市中浜町区",
@@ -43,43 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "盗撮未遂で教員逮捕　岡谷市教育委が謝罪",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5901",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "「牛首紬」テーマに企画展　岡谷蚕糸博物館",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5897",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "武井武雄の西堀灯篭戯画１２点　原画を寄託",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5900",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "初夏訪れ高原彩り　入笠山、スズラン見頃",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5895",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "中高大生がつくるユースセンター　９月開設へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5908",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "木工体験や販売　「もくせいしゃ」新体制で再出発",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5893",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "武井武雄の西堀灯篭戯画１２点　原画を寄託",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5900",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
