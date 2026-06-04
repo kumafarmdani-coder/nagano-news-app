@@ -1,21 +1,21 @@
 {
-  "date": "2026年6月3日（水）",
-  "updated_at": "2026-06-03T09:09:18.773309+09:00",
+  "date": "2026年6月4日（木）",
+  "updated_at": "2026-06-04T09:12:13.425915+09:00",
   "articles": [
     {
       "number": 1,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "今季の無事故とにぎわい祈願　宮田高原で開山式",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5899",
+      "title": "蛍幼虫3164匹の上陸確認　辰野町ほたる祭り企画会議",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5868",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "蛍幼虫3164匹の上陸確認　辰野町ほたる祭り企画会議",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5868",
+      "tag": "education",
+      "tag_label": "📚教育",
+      "title": "運動会練習中の児童へ給食準備　伊那東小保護者有志",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5911",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -38,12 +38,20 @@
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "中川えびす舞を初演　人形保存会７日に公演",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5902",
+      "title": "「ＪＡ農園」交流の場に　信州諏訪女性部富士見",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5915",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "諏訪の５月平均最高気温23.5度　戦後２番目の暑さ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5913",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "荒汐部屋下諏訪合宿へ　赤砂崎に相撲のぼり",
@@ -51,35 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "子どもたちへ春蚕配布始まる　岡谷蚕糸博物館",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5907",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "今夏の提灯飾りともせず　会員減で継続困難　諏訪市中浜町区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5903",
+      "title": "英国園芸の祭典開幕　バラクラフラワーショー",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5914",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "中高大生がつくるユースセンター　９月開設へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5908",
+      "title": "熊対策で市町村協力　広域連携推進協発足",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5912",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "武井武雄の西堀灯篭戯画１２点　原画を寄託",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5900",
+      "title": "中高大生がつくるユースセンター　９月開設へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5908",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
