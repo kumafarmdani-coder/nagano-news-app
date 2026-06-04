@@ -1,17 +1,9 @@
 {
-  "date": "2026年6月4日（木）",
-  "updated_at": "2026-06-04T09:12:13.425915+09:00",
+  "date": "2026年6月5日（金）",
+  "updated_at": "2026-06-05T08:43:24.575916+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "蛍幼虫3164匹の上陸確認　辰野町ほたる祭り企画会議",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5868",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
       "tag": "education",
       "tag_label": "📚教育",
       "title": "運動会練習中の児童へ給食準備　伊那東小保護者有志",
@@ -19,19 +11,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 2,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "「劇団歩」３年ぶり舞台　箕輪で13、14日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5917",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "駒ケ根市立博物館「昭和100年記念展」が優秀企画展賞",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5906",
+      "title": "岡谷高架橋工事の地元説明会　理解、協力求める",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5920",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "飯島町の持続可能な地域づくり　県が紹介動画",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5905",
+      "title": "元諏訪市民の男性生活保護廃止処分　県が不当の裁決",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5919",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -46,16 +46,16 @@
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪の５月平均最高気温23.5度　戦後２番目の暑さ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5913",
+      "title": "小口太郎顕彰碑等保存会　38年の活動に幕",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5921",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "荒汐部屋下諏訪合宿へ　赤砂崎に相撲のぼり",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5909",
+      "title": "リハビリの日々を詠む　久保田さん俳句集",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5918",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -76,10 +76,10 @@
     },
     {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "中高大生がつくるユースセンター　９月開設へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5908",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "木工体験や販売　「もくせいしゃ」新体制で再出発",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5893",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
