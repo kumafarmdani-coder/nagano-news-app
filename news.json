@@ -1,13 +1,13 @@
 {
-  "date": "2026年6月5日（金）",
-  "updated_at": "2026-06-05T08:43:24.575916+09:00",
+  "date": "2026年6月6日（土）",
+  "updated_at": "2026-06-06T08:44:06.484495+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "education",
-      "tag_label": "📚教育",
-      "title": "運動会練習中の児童へ給食準備　伊那東小保護者有志",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5911",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "にぎわい創出へ実証事業　伊那北駅から伊那市駅一帯",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5924",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -22,12 +22,20 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "施設名称の最終案示す　岡谷市の川岸学園構想",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5925",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "岡谷高架橋工事の地元説明会　理解、協力求める",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5920",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "元諏訪市民の男性生活保護廃止処分　県が不当の裁決",
@@ -35,15 +43,31 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「ＪＡ農園」交流の場に　信州諏訪女性部富士見",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5915",
+      "title": "甘く華やかな香り　しんわの丘ローズガーデンのバラ見頃",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5927",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "超伝導集積回路技術で「電波のカメラ」実現目指す",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5926",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "廃棄消防ホースで「ありがとうバッグ」　おかやＰＢＬが開発",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5923",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "小口太郎顕彰碑等保存会　38年の活動に幕",
@@ -51,35 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "リハビリの日々を詠む　久保田さん俳句集",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5918",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "英国園芸の祭典開幕　バラクラフラワーショー",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5914",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "熊対策で市町村協力　広域連携推進協発足",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5912",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "木工体験や販売　「もくせいしゃ」新体制で再出発",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5893",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
