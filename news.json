@@ -1,9 +1,17 @@
 {
-  "date": "2026年6月6日（土）",
-  "updated_at": "2026-06-06T08:44:06.484495+09:00",
+  "date": "2026年6月7日（日）",
+  "updated_at": "2026-06-07T08:34:03.232807+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "レンゲツツジ一気に色づき　宮田高原で見頃",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5929",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "にぎわい創出へ実証事業　伊那北駅から伊那市駅一帯",
@@ -11,15 +19,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「劇団歩」３年ぶり舞台　箕輪で13、14日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5917",
+      "title": "高原染める「キャットミント」見頃　茅野",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5933",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "廃部危機乗り越え２年ぶり定演　岡谷南高吹奏楽部",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5932",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "施設名称の最終案示す　岡谷市の川岸学園構想",
@@ -27,23 +43,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "岡谷高架橋工事の地元説明会　理解、協力求める",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5920",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "元諏訪市民の男性生活保護廃止処分　県が不当の裁決",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5919",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "ＶＣ長野の選手招き　女性向けバレー教室",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5931",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "県内外作家45人の力作　信州高遠美術館で交流展",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5930",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "甘く華やかな香り　しんわの丘ローズガーデンのバラ見頃",
@@ -51,7 +67,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "超伝導集積回路技術で「電波のカメラ」実現目指す",
@@ -59,27 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "廃棄消防ホースで「ありがとうバッグ」　おかやＰＢＬが開発",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5923",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "小口太郎顕彰碑等保存会　38年の活動に幕",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5921",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "リハビリの日々を詠む　久保田さん俳句集",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5918",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
