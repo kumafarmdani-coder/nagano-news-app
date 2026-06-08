@@ -1,9 +1,17 @@
 {
-  "date": "2026年6月8日（月）",
-  "updated_at": "2026-06-08T08:34:33.499623+09:00",
+  "date": "2026年6月9日（火）",
+  "updated_at": "2026-06-09T08:43:14.314236+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "麦秋に大麦の収穫　飯島小６年が体験学習",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5941",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "伊那市手良中坪で里山づくり　山育結の会",
@@ -11,7 +19,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "中尾歌舞伎「弁慶」でお祝い　伊那市２０年式典で上演",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5943",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "自然再興目指す　飯島町がネイチャーポジティブ宣言",
@@ -19,15 +35,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "レンゲツツジ一気に色づき　宮田高原で見頃",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5929",
+      "title": "諏訪圏ＦＣが２０周年　ロケ撮影１２７３作品",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5942",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "荒汐部屋の力士が下諏訪入り　２２日まで合宿",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5945",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「四季島」運行開始　下諏訪駅で歓迎セレモニー",
@@ -35,23 +59,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "高原染める「キャットミント」見頃　茅野",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5933",
+      "title": "心の防波堤に相談増える　チャイルドラインすわ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5944",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "廃部危機乗り越え２年ぶり定演　岡谷南高吹奏楽部",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5932",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
+      "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "夏山シーズン到来　南北２会場で八ケ岳開山祭",
@@ -59,27 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "早乙女、五穀豊穣願い　上社御田植祭",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5938",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ＶＣ長野の選手招き　女性向けバレー教室",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5931",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "県内外作家45人の力作　信州高遠美術館で交流展",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5930",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
