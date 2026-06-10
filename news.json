@@ -1,25 +1,17 @@
 {
-  "date": "2026年6月10日（水）",
-  "updated_at": "2026-06-10T08:49:00.397655+09:00",
+  "date": "2026年6月11日（木）",
+  "updated_at": "2026-06-11T08:54:00.009083+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "麦秋に大麦の収穫　飯島小６年が体験学習",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5941",
+      "tag": "education",
+      "tag_label": "📚教育",
+      "title": "元プロバスケ選手招き夢授業　伊那市西春近北小",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5953",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "中尾歌舞伎「弁慶」でお祝い　伊那市２０年式典で上演",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5943",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "自然再興目指す　飯島町がネイチャーポジティブ宣言",
@@ -27,7 +19,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "合宿中の荒汐部屋力士ら　下諏訪南小で交流",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5955",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 4,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "諏訪湖花火大会に「akippa」を　迷惑駐車防止へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5956",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "児童発達支援・放課後等デイ　来月茅野にオープン",
@@ -35,23 +43,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "諏訪圏ＦＣが２０周年　ロケ撮影１２７３作品",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5942",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "荒汐部屋の力士が下諏訪入り　２２日まで合宿",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5945",
+      "title": "アートで交流　20日から「このまちのアトリエ」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5957",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "とざ和農商のごま油　新・地域の味ベスト賞に",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5954",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "荒汐部屋合宿、朝稽古始まる　ファンら熱視線",
@@ -59,7 +67,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "生徒主体のボランティアカード　広がる連携",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "赤穂高三部合同定演　半世紀の歴史に幕",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5948",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "熊駆除強化へ県警がＰＴ　相次ぐ市街地出没受け",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5947",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
