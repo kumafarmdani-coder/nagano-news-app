@@ -1,6 +1,6 @@
 {
-  "date": "2026年6月11日（木）",
-  "updated_at": "2026-06-11T08:54:00.009083+09:00",
+  "date": "2026年6月12日（金）",
+  "updated_at": "2026-06-12T08:58:36.724292+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,12 +14,20 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "伊那への移住最多　昨年度371人、40代以下８割",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5960",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "自然再興目指す　飯島町がネイチャーポジティブ宣言",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5936",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "合宿中の荒汐部屋力士ら　下諏訪南小で交流",
@@ -27,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "諏訪湖花火大会に「akippa」を　迷惑駐車防止へ",
@@ -35,51 +43,43 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "児童発達支援・放課後等デイ　来月茅野にオープン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5949",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "アートで交流　20日から「このまちのアトリエ」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5957",
+      "title": "盗撮未遂で教員逮捕　岡谷市教育委が謝罪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5901",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "とざ和農商のごま油　新・地域の味ベスト賞に",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5954",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "しもすわ産業まつり　10月10日開催",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5963",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "荒汐部屋合宿、朝稽古始まる　ファンら熱視線",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5951",
+      "title": "ＡＩ用いた土壌分析　３者連携で実証着手",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5962",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "生徒主体のボランティアカード　広がる連携",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5950",
+      "title": "トラックに挟まれ隊員死亡　県警本部機動隊敷地内",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5961",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "赤穂高三部合同定演　半世紀の歴史に幕",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5948",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "登山者協力金、初年度190万円　収受率は１割弱",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5959",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
