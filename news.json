@@ -1,17 +1,25 @@
 {
-  "date": "2026年6月12日（金）",
-  "updated_at": "2026-06-12T08:58:36.724292+09:00",
+  "date": "2026年6月13日（土）",
+  "updated_at": "2026-06-13T08:58:13.295639+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "education",
-      "tag_label": "📚教育",
-      "title": "元プロバスケ選手招き夢授業　伊那市西春近北小",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5953",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "２００６年７月豪雨２０年　節目に伊那で講演",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5966",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "大芝高原周辺で熊の目撃相次ぐ　南箕輪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5964",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那への移住最多　昨年度371人、40代以下８割",
@@ -19,7 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "自然再興目指す　飯島町がネイチャーポジティブ宣言",
@@ -27,31 +35,31 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "合宿中の荒汐部屋力士ら　下諏訪南小で交流",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5955",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "諏訪湖花火大会に「akippa」を　迷惑駐車防止へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5956",
+      "title": "伝統産業　養蚕継承に協力　岡谷北部中３年",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5967",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "盗撮未遂で教員逮捕　岡谷市教育委が謝罪",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5901",
+      "title": "諏訪湖剣道クラブ　昇段審査１１人が合格",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5969",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "長野道岡谷ＪＣＴ付近の事故減少",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5968",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "しもすわ産業まつり　10月10日開催",
@@ -59,7 +67,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "ＡＩ用いた土壌分析　３者連携で実証着手",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "トラックに挟まれ隊員死亡　県警本部機動隊敷地内",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5961",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "登山者協力金、初年度190万円　収受率は１割弱",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5959",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
