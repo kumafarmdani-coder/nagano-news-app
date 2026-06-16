@@ -1,9 +1,17 @@
 {
-  "date": "2026年6月16日（火）",
-  "updated_at": "2026-06-16T09:07:58.272508+09:00",
+  "date": "2026年6月17日（水）",
+  "updated_at": "2026-06-17T08:53:31.406197+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "箕輪町長選　白鳥氏が不出馬、引退表明",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5984",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "消防団活動を身近に　駒ケ根ではっぴ隊祭り",
@@ -11,19 +19,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "ほたる祭り開幕、初日にぎわい　辰野",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5971",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "伊那市モバイルクリニック７年目　医師ら重要性指摘",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5972",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -38,12 +38,20 @@
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "子育て中のママ元気に　下諏訪に支援施設「ミモザ」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5985",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "「ドアからドアへ」補助サービス実装へ　原村のオンデマンド交通",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5980",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "岡谷のスポーツカフェでサポーター熱い声援　Ｗ杯日本初戦",
@@ -51,35 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "前兆？備えの必要性は　諏訪地域で２日連続の地震",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5974",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "バイクコース大幅修正　スワコエイトピークストライアスロン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5981",
+      "title": "地元企業の魅力、肌で　岡工３年見学バスツアー",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5987",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "中学生が大学の学びに触れる　信大農学部で特別講義",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5979",
+      "title": "「Ｘ」5000人突破記念でグッズ　井戸尻考古館",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5986",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "荒汐部屋合宿　初の週末、観客500人",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5975",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "山ぶどうジュース販売開始　信大農学部",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5983",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
