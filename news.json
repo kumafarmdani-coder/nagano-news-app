@@ -1,9 +1,17 @@
 {
-  "date": "2026年6月15日（月）",
-  "updated_at": "2026-06-15T08:43:25.579115+09:00",
+  "date": "2026年6月16日（火）",
+  "updated_at": "2026-06-16T09:07:58.272508+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "消防団活動を身近に　駒ケ根ではっぴ隊祭り",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5977",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "ほたる祭り開幕、初日にぎわい　辰野",
@@ -11,19 +19,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那市モバイルクリニック７年目　医師ら重要性指摘",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5972",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "２００６年７月豪雨２０年　節目に伊那で講演",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5966",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -38,12 +38,20 @@
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "自然再興目指す　飯島町がネイチャーポジティブ宣言",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5936",
+      "title": "「ドアからドアへ」補助サービス実装へ　原村のオンデマンド交通",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5980",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "岡谷のスポーツカフェでサポーター熱い声援　Ｗ杯日本初戦",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5978",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "前兆？備えの必要性は　諏訪地域で２日連続の地震",
@@ -51,35 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "幅広いモチーフ87点　きょうから諏訪美術展",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5973",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "伝統産業　養蚕継承に協力　岡谷北部中３年",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5967",
+      "title": "バイクコース大幅修正　スワコエイトピークストライアスロン",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5981",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "荒汐部屋合宿　初の週末、観客500人",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5975",
+      "title": "中学生が大学の学びに触れる　信大農学部で特別講義",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5979",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "しもすわ産業まつり　10月10日開催",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5963",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "荒汐部屋合宿　初の週末、観客500人",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5975",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
