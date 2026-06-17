@@ -1,6 +1,6 @@
 {
-  "date": "2026年6月17日（水）",
-  "updated_at": "2026-06-17T08:53:31.406197+09:00",
+  "date": "2026年6月18日（木）",
+  "updated_at": "2026-06-18T08:54:41.054494+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,16 +14,16 @@
       "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "消防団活動を身近に　駒ケ根ではっぴ隊祭り",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5977",
+      "title": "ほたる祭り開幕、初日にぎわい　辰野",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5971",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "ほたる祭り開幕、初日にぎわい　辰野",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5971",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "駒ケ根・宮田産二条大麦使用　地ビール仕込み始まる",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5989",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -36,6 +36,14 @@
     },
     {
       "number": 5,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "岡谷湖畔公園の未整備区域　民間活力導入調査実施へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5992",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "子育て中のママ元気に　下諏訪に支援施設「ミモザ」",
@@ -43,43 +51,35 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "「ドアからドアへ」補助サービス実装へ　原村のオンデマンド交通",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5980",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "岡谷のスポーツカフェでサポーター熱い声援　Ｗ杯日本初戦",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5978",
+      "title": "幅広いモチーフ87点　きょうから諏訪美術展",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5973",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "地元企業の魅力、肌で　岡工３年見学バスツアー",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5987",
+      "title": "旧城北小のピアノ　ミクロ発條のカフェに移設",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5993",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「Ｘ」5000人突破記念でグッズ　井戸尻考古館",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5986",
+      "title": "「ソナエル」非常食　僧侶の藤田さんプロジェクト",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5991",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "山ぶどうジュース販売開始　信大農学部",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5983",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "日本酒新ブランド「祥穂姫」立ち上げ　水緑里七久保",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5990",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
