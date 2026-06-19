@@ -1,6 +1,6 @@
 {
-  "date": "2026年6月19日（金）",
-  "updated_at": "2026-06-19T09:07:25.057519+09:00",
+  "date": "2026年6月20日（土）",
+  "updated_at": "2026-06-20T08:33:52.172452+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,16 +14,16 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "日本野鳥の会　伊那谷支部が解散へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5995",
+      "title": "上伊那の松くい虫被害　２４年度比３０％増加",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6002",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "駒ケ根・宮田産二条大麦使用　地ビール仕込み始まる",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5989",
+      "title": "日本野鳥の会　伊那谷支部が解散へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5995",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -36,6 +36,14 @@
     },
     {
       "number": 5,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "上古田の火とぼし威勢よく　茅野市の小泉山",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6004",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「のらざあ」運行概要を公表　富士見町",
@@ -43,7 +51,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 7,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "諏訪湖花火大会　来月から「Ｃゲート観覧席」販売",
@@ -51,35 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "諏訪湖マラソン10月25日　ゲストランナーを発表",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5997",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "養命酒製造が上場廃止　ツムラグループに",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5996",
+      "title": "優れた近代建築の一つに「八ケ岳美術館」選定　村野藤吾氏晩年の傑作",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6005",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "旧城北小のピアノ　ミクロ発條のカフェに移設",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5993",
+      "title": "ミャンマー出身職員が国家試験合格　ケアの質向上へ意気込み",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6003",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「ソナエル」非常食　僧侶の藤田さんプロジェクト",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5991",
+      "title": "細部のこだわり評価　全国木工コンクで吉田さん農水大臣賞",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6001",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
