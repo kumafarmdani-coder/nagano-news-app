@@ -1,21 +1,21 @@
 {
-  "date": "2026年6月18日（木）",
-  "updated_at": "2026-06-18T08:54:41.054494+09:00",
+  "date": "2026年6月19日（金）",
+  "updated_at": "2026-06-19T09:07:25.057519+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "箕輪町長選　白鳥氏が不出馬、引退表明",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5984",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "ほたる祭り開幕、初日にぎわい　辰野",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5971",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "日本野鳥の会　伊那谷支部が解散へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5995",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -36,30 +36,38 @@
     },
     {
       "number": 5,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "岡谷湖畔公園の未整備区域　民間活力導入調査実施へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5992",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "「のらざあ」運行概要を公表　富士見町",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5999",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "子育て中のママ元気に　下諏訪に支援施設「ミモザ」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5985",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "諏訪湖花火大会　来月から「Ｃゲート観覧席」販売",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5998",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "幅広いモチーフ87点　きょうから諏訪美術展",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5973",
+      "title": "諏訪湖マラソン10月25日　ゲストランナーを発表",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5997",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "養命酒製造が上場廃止　ツムラグループに",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5996",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "旧城北小のピアノ　ミクロ発條のカフェに移設",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「ソナエル」非常食　僧侶の藤田さんプロジェクト",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5991",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "日本酒新ブランド「祥穂姫」立ち上げ　水緑里七久保",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5990",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
