@@ -1,9 +1,17 @@
 {
-  "date": "2026年6月20日（土）",
-  "updated_at": "2026-06-20T08:33:52.172452+09:00",
+  "date": "2026年6月21日（日）",
+  "updated_at": "2026-06-21T08:41:50.331106+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "お多福豆スイーツ２品開発　だるまと南箕輪村公社",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6008",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "ほたる祭り開幕、初日にぎわい　辰野",
@@ -11,7 +19,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "商店街に軽快な音楽　伊那まちバラジャズストリート",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6007",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "上伊那の松くい虫被害　２４年度比３０％増加",
@@ -19,15 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "日本野鳥の会　伊那谷支部が解散へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5995",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "大芝高原周辺で熊の目撃相次ぐ　南箕輪",
@@ -35,7 +43,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "荒汐部屋下諏訪合宿　若隆景関が参加",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6010",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "上古田の火とぼし威勢よく　茅野市の小泉山",
@@ -43,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「のらざあ」運行概要を公表　富士見町",
@@ -51,35 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "諏訪湖花火大会　来月から「Ｃゲート観覧席」販売",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5998",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "優れた近代建築の一つに「八ケ岳美術館」選定　村野藤吾氏晩年の傑作",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6005",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ミャンマー出身職員が国家試験合格　ケアの質向上へ意気込み",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6003",
+      "title": "岡工ラグビー部60周年　記念イベント７月11日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6011",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "細部のこだわり評価　全国木工コンクで吉田さん農水大臣賞",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6001",
+      "title": "自作の衣装でランウエー　諏実高服飾科",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6009",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
