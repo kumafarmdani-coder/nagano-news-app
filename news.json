@@ -1,21 +1,21 @@
 {
-  "date": "2026年6月22日（月）",
-  "updated_at": "2026-06-22T08:49:30.004775+09:00",
+  "date": "2026年6月23日（火）",
+  "updated_at": "2026-06-23T08:48:24.978000+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "お多福豆スイーツ２品開発　だるまと南箕輪村公社",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6008",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "瀬戸内レモンの生ドーナツ　伊那弥生高文化祭で販売",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6021",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "ほたる祭り開幕、初日にぎわい　辰野",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5971",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "リゾート施設で合宿免許　駒ケ根の自動車教習所",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6019",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -30,20 +30,28 @@
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "商店街に軽快な音楽　伊那まちバラジャズストリート",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6007",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
       "title": "日本野鳥の会　伊那谷支部が解散へ",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=5995",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 5,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "「諏訪湖の花火」商標登録　地域の共有ブランドに",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6022",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "荒汐部屋の力士活躍に期待　下諏訪合宿朝稽古が終了",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6020",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "健康マージャンで交流　諏訪市本町２丁目区",
@@ -51,19 +59,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "荒汐部屋下諏訪合宿　若隆景関が参加",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6010",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「のらざあ」運行概要を公表　富士見町",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5999",
+      "title": "現新一騎打ちの公算大　知事選告示まで１カ月",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6023",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
