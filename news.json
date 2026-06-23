@@ -1,6 +1,6 @@
 {
-  "date": "2026年6月23日（火）",
-  "updated_at": "2026-06-23T08:48:24.978000+09:00",
+  "date": "2026年6月24日（水）",
+  "updated_at": "2026-06-24T08:34:02.667199+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,44 +22,52 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "迫力の伊那北サウンド　吹奏楽部が最後の単独定演",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6013",
+      "title": "日本野鳥の会　伊那谷支部が解散へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5995",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "日本野鳥の会　伊那谷支部が解散へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5995",
+      "title": "諏訪湖の魅力再発見　来月４日「水辺で乾杯」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6029",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「諏訪湖の花火」商標登録　地域の共有ブランドに",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6022",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "蓼科野菜と信州そば　茅野でコラボキャンペーン",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6028",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "荒汐部屋の力士活躍に期待　下諏訪合宿朝稽古が終了",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6020",
+      "title": "劇作家・藤森成吉　孫の研さん諏訪市に作品寄贈",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6027",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "健康マージャンで交流　諏訪市本町２丁目区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6016",
+      "title": "早産で生まれた三男の成長記録　高橋さん出版",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6026",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "登戸研究所調査研究会　沖縄視察の成果冊子に",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6025",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "現新一騎打ちの公算大　知事選告示まで１カ月",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "荒汐部屋、住民とふれあい　県内外から1200人",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6017",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "姿消す天然ガス遺産　豊田文出のタンク撤去",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6015",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
