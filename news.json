@@ -1,6 +1,6 @@
 {
-  "date": "2026年6月25日（木）",
-  "updated_at": "2026-06-25T08:39:18.495890+09:00",
+  "date": "2026年6月26日（金）",
+  "updated_at": "2026-06-26T08:49:40.205563+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,28 +22,44 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪湖の定期観測50年目　臨湖実験所、来月一般公開",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6035",
+      "title": "アツモリソウ保護へ連携協定　富士見、礼文、住田",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6041",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪ノ湖芸術祭　９月26日から10月25日まで",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6034",
+      "title": "上諏訪街道呑みあるき　来月１日からチケット販売",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6040",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "コンビニと防犯でタッグ　岡谷署アシストポリス",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6033",
+      "title": "世界和太鼓打ち比べコンテスト27、28日　岡谷",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6039",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "子どもたちに活躍の場を　８月22日棚田まつり",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6037",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "収益を自然保護に　長谷の道の駅でグッズ販売",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6038",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "ＶＣ長野トライデンツ　「信州松本」に名称変更",
@@ -51,35 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "早産で生まれた三男の成長記録　高橋さん出版",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6026",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "登戸研究所調査研究会　沖縄視察の成果冊子に",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6025",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "現新一騎打ちの公算大　知事選告示まで１カ月",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6023",
+      "title": "東日本大震災15年　報道写真家樋口さん福島へ・下",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5435",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "東日本大震災15年　報道写真家樋口さん福島へ・下",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5435",
+      "title": "くらすわの森　一部休止に地元「残念」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5852",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
