@@ -1,13 +1,13 @@
 {
-  "date": "2026年6月26日（金）",
-  "updated_at": "2026-06-26T08:49:40.205563+09:00",
+  "date": "2026年6月27日（土）",
+  "updated_at": "2026-06-27T08:40:58.876265+09:00",
   "articles": [
     {
       "number": 1,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "統合へ関心を　伊那北、弥生高が文化祭で合同企画",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6031",
+      "title": "新たな試みで人材確保を　駒ケ根で意見交換",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6044",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -22,12 +22,28 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "リゾート施設で合宿免許　駒ケ根の自動車教習所",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6019",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "昔の思い出を読み札に　諏訪の暮らし題材にかるた製作",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6045",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "アツモリソウ保護へ連携協定　富士見、礼文、住田",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6041",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "上諏訪街道呑みあるき　来月１日からチケット販売",
@@ -35,51 +51,35 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "世界和太鼓打ち比べコンテスト27、28日　岡谷",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6039",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "子どもたちに活躍の場を　８月22日棚田まつり",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6037",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "収益を自然保護に　長谷の道の駅でグッズ販売",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6038",
+      "title": "地域で子ども育む　里親フォーラム７月１１日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6047",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "ＶＣ長野トライデンツ　「信州松本」に名称変更",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6032",
+      "title": "オジギソウ研究で世界２位　清陵高３年の小松さん",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6046",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "東日本大震災15年　報道写真家樋口さん福島へ・下",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5435",
+      "title": "図書館の本を書店で返却　読書環境充実に期待",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6043",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "くらすわの森　一部休止に地元「残念」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5852",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "子どもたちに活躍の場を　８月22日棚田まつり",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6037",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
