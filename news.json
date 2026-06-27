@@ -1,6 +1,6 @@
 {
-  "date": "2026年6月27日（土）",
-  "updated_at": "2026-06-27T08:40:58.876265+09:00",
+  "date": "2026年6月28日（日）",
+  "updated_at": "2026-06-28T08:32:47.645065+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,12 +22,28 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "統合へ関心を　伊那北、弥生高が文化祭で合同企画",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6031",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "リゾート施設で合宿免許　駒ケ根の自動車教習所",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6019",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "和太鼓打ち比べ　岡谷で世界コンテスト開幕",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6051",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "昔の思い出を読み札に　諏訪の暮らし題材にかるた製作",
@@ -35,51 +51,35 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "アツモリソウ保護へ連携協定　富士見、礼文、住田",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6041",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "上諏訪街道呑みあるき　来月１日からチケット販売",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6040",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "地域で子ども育む　里親フォーラム７月１１日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6047",
+      "title": "諏訪ノ湖芸術祭　９月26日から10月25日まで",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6034",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "オジギソウ研究で世界２位　清陵高３年の小松さん",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6046",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "すずらんの湯再スタート　「灯湯」オープン",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6053",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "図書館の本を書店で返却　読書環境充実に期待",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6043",
+      "title": "トライアスロン大会　きょう号砲",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6052",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "子どもたちに活躍の場を　８月22日棚田まつり",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6037",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "「チョイソコなかがわ」利用　２年連続１万人超",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6050",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
