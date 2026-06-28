@@ -1,29 +1,29 @@
 {
-  "date": "2026年6月28日（日）",
-  "updated_at": "2026-06-28T08:32:47.645065+09:00",
+  "date": "2026年6月29日（月）",
+  "updated_at": "2026-06-29T08:35:49.535778+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "新たな試みで人材確保を　駒ケ根で意見交換",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6044",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "土佐礼子さん走り方指導　高校伊那駅伝フェス",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6055",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "日本野鳥の会　伊那谷支部が解散へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5995",
+      "title": "統合へ関心を　伊那北、弥生高が文化祭で合同企画",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6031",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "統合へ関心を　伊那北、弥生高が文化祭で合同企画",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6031",
+      "title": "日本野鳥の会　伊那谷支部が解散へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5995",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -60,26 +60,26 @@
     },
     {
       "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "すずらんの湯再スタート　「灯湯」オープン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6053",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "”鉄人”白熱、力強く　スワコトライアスロン大会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6059",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "トライアスロン大会　きょう号砲",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6052",
+      "title": "奥村さん、大元組、最優秀賞　世界和太鼓打ち比べ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6058",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「チョイソコなかがわ」利用　２年連続１万人超",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6050",
+      "title": "旧城北小校舎きょうから解体　最後の”お別れ”",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6057",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
