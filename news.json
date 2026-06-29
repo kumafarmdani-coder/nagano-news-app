@@ -1,6 +1,6 @@
 {
-  "date": "2026年6月29日（月）",
-  "updated_at": "2026-06-29T08:35:49.535778+09:00",
+  "date": "2026年6月30日（火）",
+  "updated_at": "2026-06-30T08:32:14.922151+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,20 +14,28 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "統合へ関心を　伊那北、弥生高が文化祭で合同企画",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6031",
+      "title": "旧羽広荘活用した生ハム工房が開所　伊那市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6064",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "日本野鳥の会　伊那谷支部が解散へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=5995",
+      "title": "７月半ばにも再開へ　駒ケ根ファームスの２階レストラン",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6061",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "統合へ関心を　伊那北、弥生高が文化祭で合同企画",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6031",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "リゾート施設で合宿免許　駒ケ根の自動車教習所",
@@ -35,31 +43,31 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "和太鼓打ち比べ　岡谷で世界コンテスト開幕",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6051",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "昔の思い出を読み札に　諏訪の暮らし題材にかるた製作",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6045",
+      "title": "７０年の歴史に幕　諏訪市末広の七夕飾り",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6065",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪ノ湖芸術祭　９月26日から10月25日まで",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6034",
+      "title": "目標５１０トン回収　諏訪湖のヒシ除去開始",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6063",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "立地生かしアートギャラリー　上諏訪駅東口の洋服店",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6062",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "”鉄人”白熱、力強く　スワコトライアスロン大会",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "奥村さん、大元組、最優秀賞　世界和太鼓打ち比べ",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6058",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "旧城北小校舎きょうから解体　最後の”お別れ”",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6057",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
