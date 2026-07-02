@@ -1,9 +1,17 @@
 {
-  "date": "2026年7月2日（木）",
-  "updated_at": "2026-07-02T08:49:59.091058+09:00",
+  "date": "2026年7月3日（金）",
+  "updated_at": "2026-07-03T08:34:16.503376+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "陣馬形山トレイルラン11月初開催へ　中川",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6080",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "駒ケ岳学校登山、今夏も　上下伊那12校",
@@ -11,7 +19,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "駒ケ根の暮らし体験　移住希望者ワーキングホリデー",
@@ -19,7 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "旧羽広荘活用した生ハム工房が開所　伊那市",
@@ -27,15 +35,31 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "統合へ関心を　伊那北、弥生高が文化祭で合同企画",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6031",
+      "title": "７月半ばにも再開へ　駒ケ根ファームスの２階レストラン",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6061",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "茅野駅東口の渋滞問題　市営駐車場の利用促す",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6083",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "「成田山のご利益」梅きょう販売　岡谷市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6081",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "来る半年、多幸願う　諏訪大社で夏越し大祓",
@@ -43,43 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "７０年の歴史に幕　諏訪市末広の七夕飾り",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6065",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "上諏訪街道呑みあるき　来月１日からチケット販売",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6040",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ふるさと納税返礼に４市町共通感謝券",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6077",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "カメラ接点に合同発表の場　杉田さん赤沼さん",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6076",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "国道20号バイパスアクセス道路　赤砂東山田線、今月着工",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6082",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "お舟祭り打ち合わせ会　曳行はちの・宮川地区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6075",
+      "title": "道の駅田切の里　見駒亭きょう再オープン",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6079",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
