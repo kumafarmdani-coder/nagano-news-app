@@ -1,6 +1,6 @@
 {
-  "date": "2026年7月3日（金）",
-  "updated_at": "2026-07-03T08:34:16.503376+09:00",
+  "date": "2026年7月4日（土）",
+  "updated_at": "2026-07-04T08:32:22.325790+09:00",
   "articles": [
     {
       "number": 1,
@@ -20,10 +20,10 @@
     },
     {
       "number": 3,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "駒ケ根の暮らし体験　移住希望者ワーキングホリデー",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6073",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "塚越寛さん死去　８８歳「年輪経営」で注目　伊那食品工業最高顧問",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6087",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -46,12 +46,20 @@
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "極軟水「蓼科天然水」販売へ　茅野市の水道原水をリブランディング",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6088",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "茅野駅東口の渋滞問題　市営駐車場の利用促す",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6083",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 8,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "「成田山のご利益」梅きょう販売　岡谷市",
@@ -59,27 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "来る半年、多幸願う　諏訪大社で夏越し大祓",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6071",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "国道20号バイパスアクセス道路　赤砂東山田線、今月着工",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6082",
+      "title": "華やかに名残惜しむ　最後の末広七夕祭り",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6089",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "道の駅田切の里　見駒亭きょう再オープン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6079",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "メタンガス減らす水稲栽培学ぶ　高遠高３年生",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6086",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
