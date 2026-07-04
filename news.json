@@ -1,6 +1,6 @@
 {
-  "date": "2026年7月4日（土）",
-  "updated_at": "2026-07-04T08:32:22.325790+09:00",
+  "date": "2026年7月5日（日）",
+  "updated_at": "2026-07-05T08:28:48.067542+09:00",
   "articles": [
     {
       "number": 1,
@@ -12,10 +12,10 @@
     },
     {
       "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "駒ケ岳学校登山、今夏も　上下伊那12校",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6074",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "伊那北駅ににぎわいの場　上農高生ら「あさひろば」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6092",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -54,32 +54,32 @@
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "茅野駅東口の渋滞問題　市営駐車場の利用促す",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6083",
+      "title": "７０年の歴史に幕　諏訪市末広の七夕飾り",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6065",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「成田山のご利益」梅きょう販売　岡谷市",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6081",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "茅の輪くぐり心身清め　諏訪大社で夏越し大祓",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=1817",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "華やかに名残惜しむ　最後の末広七夕祭り",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6089",
+      "title": "創造性や想像力膨らませ　しもすわ人形劇まつり",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6095",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "メタンガス減らす水稲栽培学ぶ　高遠高３年生",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6086",
+      "title": "ハーモニーの家芸術祭が40周年　20日記念演奏会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6094",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
