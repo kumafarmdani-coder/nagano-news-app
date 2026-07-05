@@ -1,29 +1,29 @@
 {
-  "date": "2026年7月5日（日）",
-  "updated_at": "2026-07-05T08:28:48.067542+09:00",
+  "date": "2026年7月6日（月）",
+  "updated_at": "2026-07-06T08:32:56.375209+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "陣馬形山トレイルラン11月初開催へ　中川",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6080",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "飯島町「地域商社」設立へ　町の資源活用探る",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6098",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "伊那北駅ににぎわいの場　上農高生ら「あさひろば」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6092",
+      "title": "箕輪フェニックスV　日報旗争奪上伊那少年野球",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6097",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "塚越寛さん死去　８８歳「年輪経営」で注目　伊那食品工業最高顧問",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6087",
+      "title": "伊那北駅ににぎわいの場　上農高生ら「あさひろば」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6092",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -38,48 +38,48 @@
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "７月半ばにも再開へ　駒ケ根ファームスの２階レストラン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6061",
+      "title": "塚越寛さん死去　８８歳「年輪経営」で注目　伊那食品工業最高顧問",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6087",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "極軟水「蓼科天然水」販売へ　茅野市の水道原水をリブランディング",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6088",
+      "title": "７月半ばにも再開へ　駒ケ根ファームスの２階レストラン",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6061",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "７０年の歴史に幕　諏訪市末広の七夕飾り",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6065",
+      "title": "名校教育日本語学校　諏訪市豊田に移転開校",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6101",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "茅の輪くぐり心身清め　諏訪大社で夏越し大祓",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=1817",
+      "title": "収量最多、品質上々　岡谷で春蚕の収繭作業",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6100",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "創造性や想像力膨らませ　しもすわ人形劇まつり",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6095",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "大ちょうちんでまちを元気に　諏訪の並木通り",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6099",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ハーモニーの家芸術祭が40周年　20日記念演奏会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6094",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "創造性や想像力膨らませ　しもすわ人形劇まつり",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6095",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
