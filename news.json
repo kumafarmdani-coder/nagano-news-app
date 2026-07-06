@@ -1,9 +1,25 @@
 {
-  "date": "2026年7月6日（月）",
-  "updated_at": "2026-07-06T08:32:56.375209+09:00",
+  "date": "2026年7月7日（火）",
+  "updated_at": "2026-07-07T08:34:54.725137+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "クラファンで支援呼び掛け　駒ケ根花火大会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6105",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "生態や被害に遭わない方法学ぶ　伊那西小で学習会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6103",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "飯島町「地域商社」設立へ　町の資源活用探る",
@@ -11,27 +27,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "箕輪フェニックスV　日報旗争奪上伊那少年野球",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6097",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "伊那北駅ににぎわいの場　上農高生ら「あさひろば」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6092",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "旧羽広荘活用した生ハム工房が開所　伊那市",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6064",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -46,12 +46,20 @@
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "旧羽広荘活用した生ハム工房が開所　伊那市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6064",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "７月半ばにも再開へ　駒ケ根ファームスの２階レストラン",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6061",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "名校教育日本語学校　諏訪市豊田に移転開校",
@@ -59,7 +67,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "収量最多、品質上々　岡谷で春蚕の収繭作業",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "大ちょうちんでまちを元気に　諏訪の並木通り",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6099",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "創造性や想像力膨らませ　しもすわ人形劇まつり",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6095",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
