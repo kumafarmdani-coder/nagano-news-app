@@ -1,9 +1,17 @@
 {
-  "date": "2026年7月8日（水）",
-  "updated_at": "2026-07-08T08:27:16.218638+09:00",
+  "date": "2026年7月9日（木）",
+  "updated_at": "2026-07-09T08:33:55.029247+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "”天空の花園”ササユリ見頃　南箕輪経ケ岳",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6116",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "祭りの華「みこし」完成　宮田・津島神社祇園祭",
@@ -11,7 +19,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "駒ケ岳学校登山始まる　上伊那中学生",
@@ -19,27 +27,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "クラファンで支援呼び掛け　駒ケ根花火大会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6105",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "生態や被害に遭わない方法学ぶ　伊那西小で学習会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6103",
+      "title": "駒ケ岳学校登山、今夏も　上下伊那12校",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6074",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "飯島町「地域商社」設立へ　町の資源活用探る",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6098",
+      "title": "伊那ＶＡＬＬＥＹ映画祭２４日から",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6115",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -70,16 +70,16 @@
       "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "諏訪湖畔にバス専用駐車場　きょうオープン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6113",
+      "title": "アジサイ涼しげ　岡谷の小坂公園",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6119",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "保育園集約化検討を明記　茅野市公共施設再編計画",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6112",
+      "title": "ヒシ除去用に自作小型船　セーリング協会と諏訪LC",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6118",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
