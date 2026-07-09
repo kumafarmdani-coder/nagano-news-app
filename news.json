@@ -1,6 +1,6 @@
 {
-  "date": "2026年7月9日（木）",
-  "updated_at": "2026-07-09T08:33:55.029247+09:00",
+  "date": "2026年7月10日（金）",
+  "updated_at": "2026-07-10T08:43:23.787480+09:00",
   "articles": [
     {
       "number": 1,
@@ -12,30 +12,22 @@
     },
     {
       "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "祭りの華「みこし」完成　宮田・津島神社祇園祭",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6110",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "「ポケふた」お目見え　岡谷、伊那などに設置",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6123",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "駒ケ岳学校登山始まる　上伊那中学生",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6109",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "伊那市ぐるっとタクシー好調　年間利用３万人超え",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6122",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "駒ケ岳学校登山、今夏も　上下伊那12校",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6074",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那ＶＡＬＬＥＹ映画祭２４日から",
@@ -43,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "箕輪フェニックスV　日報旗争奪上伊那少年野球",
@@ -51,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "塚越寛さん死去　８８歳「年輪経営」で注目　伊那食品工業最高顧問",
@@ -59,27 +51,35 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "旧羽広荘活用した生ハム工房が開所　伊那市",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6064",
+      "title": "布橋に風鈴1300個飾り付け　諏訪大社上社本宮",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6125",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "諏訪湖花火大会　スマートＩＣ周辺を規制強化",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6124",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "アジサイ涼しげ　岡谷の小坂公園",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6119",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "鈴なりの実摘み取り　年長児がブルーベリー狩り",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6121",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "ヒシ除去用に自作小型船　セーリング協会と諏訪LC",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6118",
+      "title": "高校生運営コンビニ　カフェでモーニング提供",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6117",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
