@@ -1,25 +1,17 @@
 {
-  "date": "2026年7月11日（土）",
-  "updated_at": "2026-07-11T08:26:05.619406+09:00",
+  "date": "2026年7月12日（日）",
+  "updated_at": "2026-07-12T08:22:14.655206+09:00",
   "articles": [
     {
       "number": 1,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「ポケふた」お目見え　岡谷、伊那などに設置",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6123",
+      "title": "信大×電通大アメフト交流戦　伊那ローズボウル19日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6133",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "伊那市ぐるっとタクシー好調　年間利用３万人超え",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6122",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那ＶＡＬＬＥＹ映画祭２４日から",
@@ -27,15 +19,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "箕輪フェニックスV　日報旗争奪上伊那少年野球",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6097",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "塚越寛さん死去　８８歳「年輪経営」で注目　伊那食品工業最高顧問",
@@ -43,23 +27,47 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "「ポケふた」お目見え　岡谷、伊那などに設置",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6123",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "豪雨災害の教訓次代に伝える　18日岡谷市消防団",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6137",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 6,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "諏訪湖のヒシ堆肥で山林育成　セブン財団が１０年間支援",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6129",
+      "title": "輝く大輪、ハス見頃　富士見の井戸尻史跡公園",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6136",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "地域のにぎわいと未来創造　茅野市泉野に複合施設",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6131",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "岡工ラグビー部　創部60周年の記念イベント",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6135",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "昔の暮らし取材し書籍に　なかがわ聞き書きの会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6134",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "カプセルに入ったカラフル野菜　さっちゃん農園の下島さんが開発",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "高遠藩伝統の寒ざらしそば　１８日から提供開始",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6127",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "鈴なりの実摘み取り　年長児がブルーベリー狩り",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6121",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
