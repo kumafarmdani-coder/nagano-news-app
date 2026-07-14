@@ -1,6 +1,6 @@
 {
-  "date": "2026年7月14日（火）",
-  "updated_at": "2026-07-14T08:24:00.697184+09:00",
+  "date": "2026年7月15日（水）",
+  "updated_at": "2026-07-15T08:23:09.543167+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,16 +22,16 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "信大×電通大アメフト交流戦　伊那ローズボウル19日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6133",
+      "title": "伊那ＶＡＬＬＥＹ映画祭２４日から",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6115",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "伊那ＶＡＬＬＥＹ映画祭２４日から",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6115",
+      "title": "信大×電通大アメフト交流戦　伊那ローズボウル19日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6133",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -52,34 +52,34 @@
     },
     {
       "number": 7,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "茅野市をボドゲに　観光要素を盛り込みゲーム化",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6142",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "諏訪の最高気温34.1度　上諏訪駅に風鈴300個",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6149",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "漫画家の伊藤理佐さん作品集め「りさ文庫」　原村",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6141",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "諏訪湖の水に親しむ体験　来月２日イベント",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6148",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "カビの新たな植物侵入方法　信大農学部入枝准教授が発見",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6143",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "７月豪雨災害から20年　１、災害に強い里山づくり",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6147",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "岡工ラグビー部　創部60周年の記念イベント",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6135",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "愛犬と過ごす癒やしカフェ　古民家喫茶DeCo開業",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6146",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
