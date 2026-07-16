@@ -1,33 +1,9 @@
 {
-  "date": "2026年7月15日（水）",
-  "updated_at": "2026-07-15T08:23:09.543167+09:00",
+  "date": "2026年7月17日（金）",
+  "updated_at": "2026-07-17T08:22:41.668577+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "駒ケ岳学校登山始まる　上伊那中学生",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6109",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ミヤマシジミ羽化へ期待　さなぎや成虫放つ　飯島町",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6139",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "伊那ＶＡＬＬＥＹ映画祭２４日から",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6115",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "信大×電通大アメフト交流戦　伊那ローズボウル19日",
@@ -35,15 +11,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "塚越寛さん死去　８８歳「年輪経営」で注目　伊那食品工業最高顧問",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6087",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
+      "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「ポケふた」お目見え　岡谷、伊那などに設置",
@@ -51,7 +19,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "塚越寛さん死去　８８歳「年輪経営」で注目　伊那食品工業最高顧問",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6087",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "諏訪国際映画祭11月19～23日　岡谷と茅野で上映",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6161",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "諏訪の最高気温34.1度　上諏訪駅に風鈴300個",
@@ -59,27 +43,43 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "自慢の愛機で熱戦　駒工「自走ロボット大会」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6157",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "八ケ岳西麓の縄文遺産紹介　スポットマップ作成",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6160",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "諏訪湖の水に親しむ体験　来月２日イベント",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6148",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "７月豪雨災害から20年　３、神宮寺の「棚」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6159",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "７月豪雨災害から20年　１、災害に強い里山づくり",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6147",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "農産物や手仕事作品　「百職会」最終回18、19日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6158",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "愛犬と過ごす癒やしカフェ　古民家喫茶DeCo開業",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6146",
+      "title": "豪雨災害20年　上の原小で「命を守る学習」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6155",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
