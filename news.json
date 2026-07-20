@@ -1,21 +1,21 @@
 {
-  "date": "2026年7月18日（土）",
-  "updated_at": "2026-07-18T08:13:35.794075+09:00",
+  "date": "2026年7月20日（月）",
+  "updated_at": "2026-07-20T11:23:41.599668+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "７月豪雨災害から２０年　４、武居辰野町長 苦闘の記憶",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6164",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "辰野駅開業１２０周年　駅周辺で記念フェス",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6170",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "国の登録有形文化財へ　中川村の塩澤家住宅",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6163",
+      "title": "あばれみこし豪快に　宮田村津島神社祇園祭",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6175",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -30,12 +30,20 @@
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪国際映画祭11月19～23日　岡谷と茅野で上映",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6161",
+      "title": "記憶と教訓未来へ　７月豪雨災害20年、岡谷で伝承式",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6178",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "自然守る「学生」指導員　霧ケ峰パト３大学60人",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6179",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "地域のにぎわいと未来創造　茅野市泉野に複合施設",
@@ -43,43 +51,35 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "アジサイ涼しげ　岡谷の小坂公園",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6119",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "故市川一雄さん「と川子別れ」発刊　縁の深い人たちが１冊に",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6167",
+      "title": "７月豪雨災害から20年　６、災害アーカイブ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6177",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "立石公園周辺の安全確保へ迂回に理解を",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6166",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "乳房ケア施術・指導者育つ　川手助産師、現地指導が終了",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6176",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "みはらしファームに「ポケふた」　新たな観光スポットに",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6165",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "日本グライダーの父　藤原咲平先生をしのぶ会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6172",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "自慢の愛機で熱戦　駒工「自走ロボット大会」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6157",
+      "title": "”命のメッセンジャー”防災カルタ　湊小06年度４年生",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6173",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
