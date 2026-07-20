@@ -1,17 +1,9 @@
 {
-  "date": "2026年7月20日（月）",
-  "updated_at": "2026-07-20T11:23:41.599668+09:00",
+  "date": "2026年7月21日（火）",
+  "updated_at": "2026-07-21T08:28:09.544769+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "辰野駅開業１２０周年　駅周辺で記念フェス",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6170",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "あばれみこし豪快に　宮田村津島神社祇園祭",
@@ -19,15 +11,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "信大×電通大アメフト交流戦　伊那ローズボウル19日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6133",
+      "number": 2,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "お舟祭りへ柴舟組み立て　諏訪大社下社春宮",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6183",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "記憶と教訓未来へ　７月豪雨災害20年、岡谷で伝承式",
@@ -35,7 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "自然守る「学生」指導員　霧ケ峰パト３大学60人",
@@ -43,15 +35,39 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "着物工房　綸の荻原さん　来月豪州でショー",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6185",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "地域のにぎわいと未来創造　茅野市泉野に複合施設",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6131",
+      "title": "三澤照男さんしのぶ追悼コンサート８月２３日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6182",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "小学生ドッジ絆結　初の合同練習で技術学ぶ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6181",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "清陵高３年片山さん　国際ＡＩ五輪日本代表に",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6180",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "７月豪雨災害から20年　６、災害アーカイブ",
@@ -59,27 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "乳房ケア施術・指導者育つ　川手助産師、現地指導が終了",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6176",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "日本グライダーの父　藤原咲平先生をしのぶ会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6172",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "”命のメッセンジャー”防災カルタ　湊小06年度４年生",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6173",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
