@@ -1,6 +1,6 @@
 {
-  "date": "2026年7月22日（水）",
-  "updated_at": "2026-07-22T08:26:23.606572+09:00",
+  "date": "2026年7月23日（木）",
+  "updated_at": "2026-07-23T08:27:41.345098+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,12 +22,20 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "来月７日から夜の夏詣　諏訪大社下社秋宮",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6197",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "野良猫の困り事解決策を　下諏訪で共生プロジェクト",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6190",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "お舟祭りへ柴舟組み立て　諏訪大社下社春宮",
@@ -35,51 +43,43 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "記憶と教訓未来へ　７月豪雨災害20年、岡谷で伝承式",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6178",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "キツネのお面で踊って　きつね祭でＷＳ、販売",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6191",
+      "title": "熱中症対策ヘルメット試験導入　スワテック建設",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6196",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "美和小戸台分校の取り組み解説　長谷公民館講座",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6189",
+      "title": "ＮＨＫ朝ドラ・巡るスワン　ロゴと主な出演者決まる",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6195",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "現新「県政の転換」訴え　県知事選あす告示",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6188",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "創業期体験プログラム　参加の水野さんらアプリ開発",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6194",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "着物工房　綸の荻原さん　来月豪州でショー",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6185",
+      "title": "馬囲み「ざんざ節」　長谷中音楽部が合唱",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6193",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "三澤照男さんしのぶ追悼コンサート８月２３日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6182",
+      "title": "キツネのお面で踊って　きつね祭でＷＳ、販売",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6191",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
