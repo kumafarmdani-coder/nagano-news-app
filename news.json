@@ -1,6 +1,6 @@
 {
-  "date": "2026年7月23日（木）",
-  "updated_at": "2026-07-23T08:27:41.345098+09:00",
+  "date": "2026年7月24日（金）",
+  "updated_at": "2026-07-24T08:25:32.768949+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,24 +14,24 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "スズタケ研究調査発表　伊那で竹林ネットワーク",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6187",
+      "title": "伊那38.3度、飯島37.3度　観測史上最高を更新",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6200",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "来月７日から夜の夏詣　諏訪大社下社秋宮",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6197",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "「原村星まつりウィーク」あす開幕",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6201",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "野良猫の困り事解決策を　下諏訪で共生プロジェクト",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6190",
+      "title": "来月７日から夜の夏詣　諏訪大社下社秋宮",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6197",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -46,40 +46,40 @@
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "熱中症対策ヘルメット試験導入　スワテック建設",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6196",
+      "title": "ビールや映画楽しもう　９月に「ちのの休日」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6203",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "ＮＨＫ朝ドラ・巡るスワン　ロゴと主な出演者決まる",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6195",
+      "title": "県知事選、現新一騎打ち　阿部氏、武田氏が届け出",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6202",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "創業期体験プログラム　参加の水野さんらアプリ開発",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6194",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "夏休み思い切り楽しもう　小学校終業式",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6199",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "馬囲み「ざんざ節」　長谷中音楽部が合唱",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6193",
+      "title": "熱中症対策ヘルメット試験導入　スワテック建設",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6196",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "キツネのお面で踊って　きつね祭でＷＳ、販売",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6191",
+      "title": "ＮＨＫ朝ドラ・巡るスワン　ロゴと主な出演者決まる",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6195",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
