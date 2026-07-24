@@ -1,6 +1,6 @@
 {
-  "date": "2026年7月24日（金）",
-  "updated_at": "2026-07-24T08:25:32.768949+09:00",
+  "date": "2026年7月25日（土）",
+  "updated_at": "2026-07-25T08:30:05.457763+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,36 +14,52 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "伊那38.3度、飯島37.3度　観測史上最高を更新",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6200",
+      "title": "伊那バレー映画祭が開幕　映画監督のトークショーも",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6206",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「原村星まつりウィーク」あす開幕",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6201",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "成る成す池上秀畝の絵　県伊那文化会館で展示",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6205",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "来月７日から夜の夏詣　諏訪大社下社秋宮",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6197",
+      "title": "伊那38.3度、飯島37.3度　観測史上最高を更新",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6200",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "お舟祭りへ柴舟組み立て　諏訪大社下社春宮",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6183",
+      "title": "湖上彩る光と音のショー　諏訪湖サマーナイト花火始まる",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6209",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "初の１億円台突破　諏訪湖花火大会協賛金",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6208",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "顔面把手と竪穴式住居跡出土　岡谷市の海戸遺跡",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6207",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "ビールや映画楽しもう　９月に「ちのの休日」",
@@ -51,7 +67,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "県知事選、現新一騎打ち　阿部氏、武田氏が届け出",
@@ -59,27 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "夏休み思い切り楽しもう　小学校終業式",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6199",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "熱中症対策ヘルメット試験導入　スワテック建設",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6196",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ＮＨＫ朝ドラ・巡るスワン　ロゴと主な出演者決まる",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6195",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
