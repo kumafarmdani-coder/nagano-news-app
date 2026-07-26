@@ -1,37 +1,37 @@
 {
-  "date": "2026年7月25日（土）",
-  "updated_at": "2026-07-25T08:30:05.457763+09:00",
+  "date": "2026年7月27日（月）",
+  "updated_at": "2026-07-27T08:26:31.744665+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "辰野駅開業１２０周年　駅周辺で記念フェス",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6170",
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "高校総体フェンシング出場選手　箕輪町長を訪問",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6217",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "伊那バレー映画祭が開幕　映画監督のトークショーも",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6206",
+      "title": "伊那38.3度、飯島37.3度　観測史上最高を更新",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6200",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "成る成す池上秀畝の絵　県伊那文化会館で展示",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6205",
+      "title": "四つのエリアで熱く　諏訪よいてこ高島城祭",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6215",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "伊那38.3度、飯島37.3度　観測史上最高を更新",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6200",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "真夏の思い出、祭り盛況　富士見ＯＫＫＯＨ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6214",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -44,42 +44,42 @@
     },
     {
       "number": 6,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "初の１億円台突破　諏訪湖花火大会協賛金",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6208",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "二葉高バンド「生命力」　県大会で準最優秀賞、全国へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6221",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "顔面把手と竪穴式住居跡出土　岡谷市の海戸遺跡",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6207",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "留学経験生かし交流会　高校生２人がイベント",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6220",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "ビールや映画楽しもう　９月に「ちのの休日」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6203",
+      "title": "絵本作家西村敏雄さんの作品展　イルフ童画館",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6219",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "県知事選、現新一騎打ち　阿部氏、武田氏が届け出",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6202",
+      "title": "駒工電気科３年の中田さん　電験三種に一発合格",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6218",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "夏休み思い切り楽しもう　小学校終業式",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6199",
+      "title": "きょう「土用の丑の日」　料理店や川魚店大忙し",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6213",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
