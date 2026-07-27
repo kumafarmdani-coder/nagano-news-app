@@ -1,6 +1,6 @@
 {
-  "date": "2026年7月27日（月）",
-  "updated_at": "2026-07-27T08:26:31.744665+09:00",
+  "date": "2026年7月28日（火）",
+  "updated_at": "2026-07-28T08:31:57.458311+09:00",
   "articles": [
     {
       "number": 1,
@@ -12,38 +12,46 @@
     },
     {
       "number": 2,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "伊那38.3度、飯島37.3度　観測史上最高を更新",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6200",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "自生クロモジでせっけん　飯島で手作り体験",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6227",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "四つのエリアで熱く　諏訪よいてこ高島城祭",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6215",
+      "title": "公共ライドシェア「ミーモ駒ケ根」　８月１日から実証運行",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6224",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "真夏の思い出、祭り盛況　富士見ＯＫＫＯＨ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6214",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "旧岡谷市役所庁舎の２階後付け天井撤去へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6226",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "湖上彩る光と音のショー　諏訪湖サマーナイト花火始まる",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6209",
+      "title": "子ども・舞台・フェスタ＠八ケ岳　茅野と原で連続上演",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6225",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "岡谷を学ぼう　旧市役所庁舎でクイズラリー開催",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6223",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "二葉高バンド「生命力」　県大会で準最優秀賞、全国へ",
@@ -51,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 8,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "留学経験生かし交流会　高校生２人がイベント",
@@ -59,7 +67,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "絵本作家西村敏雄さんの作品展　イルフ童画館",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "駒工電気科３年の中田さん　電験三種に一発合格",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6218",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "きょう「土用の丑の日」　料理店や川魚店大忙し",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6213",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
