@@ -1,6 +1,6 @@
 {
-  "date": "2026年7月29日（水）",
-  "updated_at": "2026-07-29T08:27:27.309524+09:00",
+  "date": "2026年7月30日（木）",
+  "updated_at": "2026-07-30T08:28:51.384216+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,20 +22,28 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "公共ライドシェア「ミーモ駒ケ根」　８月１日から実証運行",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6224",
+      "title": "伊那38.3度、飯島37.3度　観測史上最高を更新",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6200",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "伊那38.3度、飯島37.3度　観測史上最高を更新",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6200",
+      "title": "原村でセロリ収穫本格化　未明の畑、香り広がる",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6238",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "霧ケ峰リフト８月１日オープン　諏訪市郊外",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6237",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "改修中の諏訪市文化センター　運営方針策定にめど",
@@ -43,43 +51,35 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "諏訪湖スマートＩＣ　11カ月間で３万1600台利用",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6232",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "旧岡谷市役所庁舎の２階後付け天井撤去へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6226",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "来年５月「ちのサブカル祭り」　公式キャラ決まる",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6239",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "湖明館通り商店街スタンプラリー　来月１日から",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6231",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "見得や衣装格好良く　小学生が中尾歌舞伎体験",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6236",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "高校生が企画運営「尻相撲」　22日棚田まつりで",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6230",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "ざざ虫研究で化学コンテスト入賞　上農ＧＬコース３年生",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6235",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "二葉高バンド「生命力」　県大会で準最優秀賞、全国へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6221",
+      "title": "湖明館通り商店街スタンプラリー　来月１日から",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6231",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
