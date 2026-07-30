@@ -1,25 +1,9 @@
 {
-  "date": "2026年7月30日（木）",
-  "updated_at": "2026-07-30T08:28:51.384216+09:00",
+  "date": "2026年7月31日（金）",
+  "updated_at": "2026-07-31T08:29:59.968787+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "自生クロモジでせっけん　飯島で手作り体験",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6227",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "飯島「りんりん祭」で英語ガイド　地元中高生準備",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6229",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那38.3度、飯島37.3度　観測史上最高を更新",
@@ -27,7 +11,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 2,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "御柱祭に向けボラガイド養成　諏訪市博物館友の会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6245",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "原村でセロリ収穫本格化　未明の畑、香り広がる",
@@ -35,7 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 4,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "霧ケ峰リフト８月１日オープン　諏訪市郊外",
@@ -43,15 +35,39 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "ぽけっと移転後の後利用は？　小中学生にアンケート",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6244",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "改修中の諏訪市文化センター　運営方針策定にめど",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6233",
+      "title": "ニムラ舞踊賞に足立さん　照明家で初",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6243",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "「みやさん」10周年で缶バッジに　デザイン募集",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6242",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "仕事体験、楽しさ実感　10歳からのテラスワーク",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6241",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "来年５月「ちのサブカル祭り」　公式キャラ決まる",
@@ -59,27 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 10,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "見得や衣装格好良く　小学生が中尾歌舞伎体験",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6236",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ざざ虫研究で化学コンテスト入賞　上農ＧＬコース３年生",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6235",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "湖明館通り商店街スタンプラリー　来月１日から",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6231",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
