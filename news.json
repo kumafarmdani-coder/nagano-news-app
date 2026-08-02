@@ -1,85 +1,85 @@
 {
-  "date": "2026年7月31日（金）",
-  "updated_at": "2026-07-31T08:29:59.968787+09:00",
+  "date": "2026年8月3日（月）",
+  "updated_at": "2026-08-03T08:26:44.589207+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "伊那38.3度、飯島37.3度　観測史上最高を更新",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6200",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "トライアスロンの魅力伝える　辰野東小で体験会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6259",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "御柱祭に向けボラガイド養成　諏訪市博物館友の会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6245",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "熱気の「市民おどり」　伊那まつり１日目",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6254",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "原村でセロリ収穫本格化　未明の畑、香り広がる",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6238",
+      "title": "伊那市と新宿区　友好提携２０周年の記念式典",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6260",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "霧ケ峰リフト８月１日オープン　諏訪市郊外",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6237",
+      "title": "１２００人柴舟曳行　諏訪大社下社お舟祭り",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6255",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "ぽけっと移転後の後利用は？　小中学生にアンケート",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6244",
+      "title": "「顔面把手」と住居跡公開　岡谷の海戸遺跡",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6256",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ニムラ舞踊賞に足立さん　照明家で初",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6243",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "長持ちにぎやか「お舟祭り」宵祭り　下諏訪町",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6251",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「みやさん」10周年で缶バッジに　デザイン募集",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6242",
+      "title": "蚕とシルクの魅力学ぶ　蚕糸博物館でサマーセミナー",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6263",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "仕事体験、楽しさ実感　10歳からのテラスワーク",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6241",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "風通し、保存状態確認　八剱神社で宝物虫干し",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6262",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "来年５月「ちのサブカル祭り」　公式キャラ決まる",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6239",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "県知事選　後半戦突入、訴え熱く",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6261",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "見得や衣装格好良く　小学生が中尾歌舞伎体験",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6236",
+      "title": "お舟祭り本祭り　南知多町の山車初参加",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6257",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
