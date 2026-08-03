@@ -1,9 +1,17 @@
 {
-  "date": "2026年8月3日（月）",
-  "updated_at": "2026-08-03T08:26:44.589207+09:00",
+  "date": "2026年8月4日（火）",
+  "updated_at": "2026-08-04T08:32:40.862054+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "防災意識ゲームで高める　飯島町社協が体験講座",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6266",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "トライアスロンの魅力伝える　辰野東小で体験会",
@@ -11,7 +19,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "熱気の「市民おどり」　伊那まつり１日目",
@@ -19,7 +27,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "女子中高生視点でよりよいトイレ　伊那北駅周辺を考えるＷＳ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6268",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那市と新宿区　友好提携２０周年の記念式典",
@@ -27,31 +43,31 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "１２００人柴舟曳行　諏訪大社下社お舟祭り",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6255",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「顔面把手」と住居跡公開　岡谷の海戸遺跡",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6256",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "長持ちにぎやか「お舟祭り」宵祭り　下諏訪町",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6251",
+      "title": "不妊治療外来を継続　諏訪マタニティークリニック",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6269",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "ジャンピンのおいしいパン　諏訪に店舗オープン",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6267",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "竹にわくわく　原村で自然環境学ぶ講座",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6265",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "蚕とシルクの魅力学ぶ　蚕糸博物館でサマーセミナー",
@@ -59,27 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "風通し、保存状態確認　八剱神社で宝物虫干し",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6262",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "県知事選　後半戦突入、訴え熱く",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6261",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "お舟祭り本祭り　南知多町の山車初参加",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6257",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
