@@ -1,21 +1,21 @@
 {
-  "date": "2026年8月4日（火）",
-  "updated_at": "2026-08-04T08:32:40.862054+09:00",
+  "date": "2026年8月5日（水）",
+  "updated_at": "2026-08-05T08:30:41.826435+09:00",
   "articles": [
     {
       "number": 1,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "防災意識ゲームで高める　飯島町社協が体験講座",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6266",
+      "title": "伊那谷の食と農未来へつなぐ　箕輪でイベント",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6271",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "トライアスロンの魅力伝える　辰野東小で体験会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6259",
+      "title": "防災意識ゲームで高める　飯島町社協が体験講座",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6266",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -28,6 +28,14 @@
     },
     {
       "number": 4,
+      "tag": "education",
+      "tag_label": "📚教育",
+      "title": "旧暦七夕飾り、地元児童が願い事　ＪＡ伊那支所",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6272",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "女子中高生視点でよりよいトイレ　伊那北駅周辺を考えるＷＳ",
@@ -35,15 +43,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "伊那市と新宿区　友好提携２０周年の記念式典",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6260",
+      "title": "茅野市スケートセンター　存続の方向性固まる",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6274",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "糸都・岡谷に「ポケふた」　市が設置式",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6273",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "不妊治療外来を継続　諏訪マタニティークリニック",
@@ -51,35 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "ジャンピンのおいしいパン　諏訪に店舗オープン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6267",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "竹にわくわく　原村で自然環境学ぶ講座",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6265",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "蚕とシルクの魅力学ぶ　蚕糸博物館でサマーセミナー",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6263",
+      "title": "盛夏に打ち水、ひとときの涼　柳並公園周辺",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6275",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "風通し、保存状態確認　八剱神社で宝物虫干し",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6262",
+      "title": "蚕とシルクの魅力学ぶ　蚕糸博物館でサマーセミナー",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6263",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
