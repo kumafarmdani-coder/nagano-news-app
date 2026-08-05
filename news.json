@@ -1,21 +1,21 @@
 {
-  "date": "2026年8月5日（水）",
-  "updated_at": "2026-08-05T08:30:41.826435+09:00",
+  "date": "2026年8月6日（木）",
+  "updated_at": "2026-08-06T08:27:14.869487+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "伊那谷の食と農未来へつなぐ　箕輪でイベント",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6271",
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "南箕輪村合葬式墓地、大きな反響　希望１００件超",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6278",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "防災意識ゲームで高める　飯島町社協が体験講座",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6266",
+      "title": "伊那谷の食と農未来へつなぐ　箕輪でイベント",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6271",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -38,8 +38,8 @@
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "女子中高生視点でよりよいトイレ　伊那北駅周辺を考えるＷＳ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6268",
+      "title": "諏訪湖畔の違法工作物　県が岡谷で撤去開始",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6279",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -60,26 +60,26 @@
     },
     {
       "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "不妊治療外来を継続　諏訪マタニティークリニック",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6269",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "ウナギロックフェスチケット　８日から一般販売",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6281",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "盛夏に打ち水、ひとときの涼　柳並公園周辺",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6275",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "きょう広島原爆の日　平和記念資料館石田館長に聞く",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6280",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "蚕とシルクの魅力学ぶ　蚕糸博物館でサマーセミナー",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6263",
+      "title": "紙飛行機作り滞空時間競う　児童と駒工生が製作",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6277",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
