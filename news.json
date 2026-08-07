@@ -1,6 +1,6 @@
 {
-  "date": "2026年8月6日（木）",
-  "updated_at": "2026-08-06T08:27:14.869487+09:00",
+  "date": "2026年8月7日（金）",
+  "updated_at": "2026-08-07T10:35:37.644327+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,28 +14,20 @@
       "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "伊那谷の食と農未来へつなぐ　箕輪でイベント",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6271",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
       "title": "熱気の「市民おどり」　伊那まつり１日目",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6254",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
-      "tag": "education",
-      "tag_label": "📚教育",
-      "title": "旧暦七夕飾り、地元児童が願い事　ＪＡ伊那支所",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6272",
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "戦争学び後世に引き継ぐ　茅野市平和祈念式",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6286",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "諏訪湖畔の違法工作物　県が岡谷で撤去開始",
@@ -43,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "茅野市スケートセンター　存続の方向性固まる",
@@ -51,35 +43,43 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "糸都・岡谷に「ポケふた」　市が設置式",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6273",
+      "title": "長野の中学生平和へ決意新た　広島でサミット",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6287",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "うまみ凝縮「ドライ玉ねぎ」販売　伊南桜木園",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6284",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "ウナギロックフェスチケット　８日から一般販売",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6281",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "小中高生と青春劇公演へ　劇団サムライナッツ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6283",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "きょう広島原爆の日　平和記念資料館石田館長に聞く",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6280",
+      "title": "核廃絶へ発信と実行を　広島平和式典",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6282",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "紙飛行機作り滞空時間競う　児童と駒工生が製作",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6277",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "ウナギロックフェスチケット　８日から一般販売",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6281",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
