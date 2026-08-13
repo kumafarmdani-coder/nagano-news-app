@@ -1,17 +1,25 @@
 {
-  "date": "2026年8月12日（水）",
-  "updated_at": "2026-08-12T08:09:44.250386+09:00",
+  "date": "2026年8月14日（金）",
+  "updated_at": "2026-08-14T08:10:08.804198+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "南箕輪村合葬式墓地、大きな反響　希望１００件超",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6278",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "夏を楽しむダンス・音楽・花火　伊那まつり２日目",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6313",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "戦争と平和問い掛ける　伊那市創造館で戦争画展",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6321",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "中川村議選　現新各５人が当選",
@@ -19,67 +27,59 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "伊那小６年謹組　地域住民へ感謝の演奏",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6299",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "朝カレーで活力を　ソンポップさん岡谷市湊に出店",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6308",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "大観衆魅了する力強い鼓動　岡谷太鼓まつり開幕",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6323",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "無人野菜直売所本格オープン　茅野の笹原",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6302",
+      "title": "あす諏訪湖祭湖上花火大会　例年以上の混雑予想",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6322",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "長野東女子陸上競技部　富士見高原で合同合宿",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6295",
+      "title": "「諏訪の龍神」幻想的に　諏訪大社下社秋宮で夜の夏詣",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6317",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「山の日」１０年　中央アルプスに多くの登山者",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6311",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "自身の創作残さず披露　内堀深朔さん初の個展",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6320",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "夏休みを「みやラボ」で　高校生が子どもの居場所開設",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6310",
+      "title": "障がい者や多世代の集いの場に　みのわ～れが移転",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6319",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "蓼科で音楽と野外活動　２９日、森ノ焚キ音楽祭",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6309",
+      "title": "地域に根差し映画作りを　土井康一監督",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6316",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "歴史語る茶道具と付属品の物語　サンリツ服部美術館",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6307",
+      "title": "日記でたどる戦争の記憶　高遠町歴史博物館",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6315",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
