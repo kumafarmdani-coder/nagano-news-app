@@ -1,6 +1,6 @@
 {
-  "date": "2026年8月14日（金）",
-  "updated_at": "2026-08-14T08:10:08.804198+09:00",
+  "date": "2026年8月15日（土）",
+  "updated_at": "2026-08-15T07:46:29.993680+09:00",
   "articles": [
     {
       "number": 1,
@@ -20,14 +20,6 @@
     },
     {
       "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "中川村議選　現新各５人が当選",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6304",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "大観衆魅了する力強い鼓動　岡谷太鼓まつり開幕",
@@ -35,7 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 4,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "あす諏訪湖祭湖上花火大会　例年以上の混雑予想",
@@ -43,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「諏訪の龍神」幻想的に　諏訪大社下社秋宮で夜の夏詣",
@@ -51,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "自身の創作残さず披露　内堀深朔さん初の個展",
@@ -59,7 +51,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "障がい者や多世代の集いの場に　みのわ～れが移転",
@@ -67,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "地域に根差し映画作りを　土井康一監督",
@@ -75,11 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 10,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "日記でたどる戦争の記憶　高遠町歴史博物館",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6315",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 10,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "「山の日」１０年　中央アルプスに多くの登山者",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6311",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
