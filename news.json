@@ -1,13 +1,13 @@
 {
-  "date": "2026年8月15日（土）",
-  "updated_at": "2026-08-15T07:46:29.993680+09:00",
+  "date": "2026年8月16日（日）",
+  "updated_at": "2026-08-16T07:44:20.782298+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "夏を楽しむダンス・音楽・花火　伊那まつり２日目",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6313",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "大人の自覚新たに　伊那市で二十歳のつどい",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6327",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -20,6 +20,22 @@
     },
     {
       "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "「コチャかまやせ」独特の節回し　原村の民謡多くの人に",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6329",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "諏訪湖マラソンの個人スポンサー募集　団体、企業でも可",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6328",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "大観衆魅了する力強い鼓動　岡谷太鼓まつり開幕",
@@ -27,23 +43,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 6,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "あす諏訪湖祭湖上花火大会　例年以上の混雑予想",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6322",
+      "title": "逃げ若作者招きトークショー　南北朝フェス９月２０日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6326",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「諏訪の龍神」幻想的に　諏訪大社下社秋宮で夜の夏詣",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6317",
+      "title": "つまづきに助言　赤穂東小に作業療法士配置",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6325",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "自身の創作残さず披露　内堀深朔さん初の個展",
@@ -51,7 +67,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "障がい者や多世代の集いの場に　みのわ～れが移転",
@@ -59,27 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "地域に根差し映画作りを　土井康一監督",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6316",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "日記でたどる戦争の記憶　高遠町歴史博物館",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6315",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「山の日」１０年　中央アルプスに多くの登山者",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6311",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "小中高生と青春劇公演へ　劇団サムライナッツ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6283",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
