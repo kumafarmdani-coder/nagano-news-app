@@ -1,9 +1,25 @@
 {
-  "date": "2026年8月16日（日）",
-  "updated_at": "2026-08-16T07:44:20.782298+09:00",
+  "date": "2026年8月17日（月）",
+  "updated_at": "2026-08-17T07:43:47.985875+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "天竜川の夜空彩る１２００発　信州駒ケ根花火大会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6331",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "上伊那６市町村で二十歳祝う催し",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6332",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "大人の自覚新たに　伊那市で二十歳のつどい",
@@ -11,15 +27,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "戦争と平和問い掛ける　伊那市創造館で戦争画展",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6321",
+      "title": "岡谷で住宅火災　焼け跡から１人の遺体",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6335",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 5,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "豪華絢爛、光と音のショー　諏訪湖花火大会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6334",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「コチャかまやせ」独特の節回し　原村の民謡多くの人に",
@@ -27,23 +51,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪湖マラソンの個人スポンサー募集　団体、企業でも可",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6328",
+      "title": "カノラで解説付きコンサート　22日クラシック探訪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6333",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "大観衆魅了する力強い鼓動　岡谷太鼓まつり開幕",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6323",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
+      "number": 8,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "逃げ若作者招きトークショー　南北朝フェス９月２０日",
@@ -51,7 +67,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "つまづきに助言　赤穂東小に作業療法士配置",
@@ -59,27 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "自身の創作残さず披露　内堀深朔さん初の個展",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6320",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "障がい者や多世代の集いの場に　みのわ～れが移転",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6319",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "小中高生と青春劇公演へ　劇団サムライナッツ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6283",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
