@@ -1,17 +1,25 @@
 {
-  "date": "2026年8月18日（火）",
-  "updated_at": "2026-08-18T07:47:07.176613+09:00",
+  "date": "2026年8月19日（水）",
+  "updated_at": "2026-08-19T07:47:20.792902+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "天竜川の夜空彩る１２００発　信州駒ケ根花火大会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6331",
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "盆休み延長求む　伝統行事の盆正月　南箕輪村田畑",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6347",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "子どものアイデアでまちづくり　箕輪町が取り組み",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6344",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那署管内の電話でお金詐欺　昨年１年間の被害額上回る",
@@ -19,7 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「駒ケ根でできます」市が募集　魅力発掘協力を",
@@ -27,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "上伊那６市町村で二十歳祝う催し",
@@ -35,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "大人の自覚新たに　伊那市で二十歳のつどい",
@@ -43,7 +51,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "やってみたいをカタチに　岡谷の公共空間の活用探る",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6346",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "１００回目の「こどもだるま食堂」　岡谷で23日",
@@ -51,35 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "岡谷で住宅火災　焼け跡から１人の遺体",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6335",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "豪華絢爛、光と音のショー　諏訪湖花火大会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6334",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "絹の郷の小屋に外壁アート　岡工高美術部",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6341",
+      "title": "ペットと楽しめる新施設完成　下諏訪のスワノワ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6314",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "保護者らと体験学習へ　「ラーケーション」試行中",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6340",
+      "title": "自分で選ぶ地球環境　ゲームでゼロカーボン戦略体験",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6345",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
