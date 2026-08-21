@@ -1,9 +1,17 @@
 {
-  "date": "2026年8月20日（木）",
-  "updated_at": "2026-08-20T07:48:09.475451+09:00",
+  "date": "2026年8月22日（土）",
+  "updated_at": "2026-08-22T07:47:38.717431+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "箕輪町長選まで３カ月　表立った動き見られず",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6355",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "admin",
       "tag_label": "🏛行政",
       "title": "盆休み延長求む　伝統行事の盆正月　南箕輪村田畑",
@@ -11,15 +19,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "子どものアイデアでまちづくり　箕輪町が取り組み",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6344",
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "「伊那路」33年分、終戦特集展示　発送所で13日まで",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6362",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "後藤監督追悼上映会　飯島町文化館で23日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6361",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "上伊那ご当地ナンバー見送り　反対過半数超え",
@@ -27,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "大人の自覚新たに　伊那市で二十歳のつどい",
@@ -35,7 +51,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "上伊那６市町村で二十歳祝う催し",
@@ -43,43 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "窓口の受付時間、10月から全庁短縮　諏訪市",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6353",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ＩｏＴで水田管理支援　茅野で新サービス実証実験",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6352",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "やってみたいをカタチに　岡谷の公共空間の活用探る",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6346",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "あす「ガミネフェス」　霧ケ峰で体験型ゲーム",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6365",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "武田信玄狼煙リレー29日　南信州－甲府300キロ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6351",
+      "title": "地域に根差した脱炭素推進　諏訪地域コンソ24日初会合",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6364",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「江戸末期の信州松島」一冊に　日野正紀さん",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6350",
+      "title": "地域元気付けるひまわり大作戦　富士見小３年２部",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6359",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
