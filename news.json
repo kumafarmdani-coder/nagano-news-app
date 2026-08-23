@@ -1,6 +1,6 @@
 {
-  "date": "2026年8月23日（日）",
-  "updated_at": "2026-08-23T07:45:00.825695+09:00",
+  "date": "2026年8月24日（月）",
+  "updated_at": "2026-08-24T07:44:55.775592+09:00",
   "articles": [
     {
       "number": 1,
@@ -12,6 +12,14 @@
     },
     {
       "number": 2,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "上伊那の夏締めくくる　大芝高原まつり",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6374",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「車中泊」避難考える　飯島町で防災講座",
@@ -19,23 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "「伊那路」33年分、終戦特集展示　発送所で13日まで",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6362",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "後藤監督追悼上映会　飯島町文化館で23日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6361",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "上伊那ご当地ナンバー見送り　反対過半数超え",
@@ -43,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "上伊那６市町村で二十歳祝う催し",
@@ -51,35 +43,43 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 6,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "諏訪の夏祭り最後飾る　原村よいしょまつり",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6377",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "大人の自覚新たに　伊那市で二十歳のつどい",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6327",
+      "title": "茅野市遺族会　役員選出できない場合は年度末解散",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6376",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "あす「ガミネフェス」　霧ケ峰で体験型ゲーム",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6365",
+      "title": "霧ケ峰満喫ガミネフェス　多彩イベントにぎわう",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6375",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "地域に根差した脱炭素推進　諏訪地域コンソ24日初会合",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6364",
+      "title": "登戸研究所・伴繁雄さん語る　講演会で渡辺さん",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6373",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "地域元気付けるひまわり大作戦　富士見小３年２部",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6359",
+      "title": "明るく豊かな未来に　長野県誕生１５０周年",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6371",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
