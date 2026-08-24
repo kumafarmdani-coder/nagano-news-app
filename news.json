@@ -1,6 +1,6 @@
 {
-  "date": "2026年8月24日（月）",
-  "updated_at": "2026-08-24T07:44:55.775592+09:00",
+  "date": "2026年8月25日（火）",
+  "updated_at": "2026-08-25T07:50:37.070635+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,8 +22,8 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「車中泊」避難考える　飯島町で防災講座",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6369",
+      "title": "小中一貫校校舎のタイル手作り　中川村民有志WS",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6380",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -36,14 +36,22 @@
     },
     {
       "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "上伊那６市町村で二十歳祝う催し",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6332",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "新作花火開催日に「おもいやり優先駐車場」　諏訪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6383",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "熱い歌声広がる笑顔　諏訪市田辺区「ドスコイのど自慢」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6382",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "諏訪の夏祭り最後飾る　原村よいしょまつり",
@@ -51,35 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "茅野市遺族会　役員選出できない場合は年度末解散",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6376",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "霧ケ峰満喫ガミネフェス　多彩イベントにぎわう",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6375",
+      "title": "報道カメラマン・石川文洋さん死去",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6381",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "登戸研究所・伴繁雄さん語る　講演会で渡辺さん",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6373",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "名物の尻相撲、熱戦　長谷中尾で棚田まつり",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6379",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "明るく豊かな未来に　長野県誕生１５０周年",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6371",
+      "title": "登戸研究所・伴繁雄さん語る　講演会で渡辺さん",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6373",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
