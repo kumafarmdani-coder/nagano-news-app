@@ -1,25 +1,9 @@
 {
-  "date": "2026年8月25日（火）",
-  "updated_at": "2026-08-25T07:50:37.070635+09:00",
+  "date": "2026年8月26日（水）",
+  "updated_at": "2026-08-26T07:51:47.320703+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "盆休み延長求む　伝統行事の盆正月　南箕輪村田畑",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6347",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "上伊那の夏締めくくる　大芝高原まつり",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6374",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "小中一貫校校舎のタイル手作り　中川村民有志WS",
@@ -27,7 +11,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "上伊那ご当地ナンバー見送り　反対過半数超え",
@@ -35,7 +19,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "ヘーゼルナッツ栽培で遊休農地解消へ　岡谷市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6387",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "新作花火開催日に「おもいやり優先駐車場」　諏訪",
@@ -43,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "熱い歌声広がる笑顔　諏訪市田辺区「ドスコイのど自慢」",
@@ -51,35 +43,43 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "今年も豊作　信州の伝統野菜「糸萱かぼちゃ」出荷始まる",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6389",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 7,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "諏訪の夏祭り最後飾る　原村よいしょまつり",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6377",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "備えの大切さ改めて実感　熊本の避難所支援で防災士の笠原さん",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6388",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "報道カメラマン・石川文洋さん死去",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6381",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "駐車場の事前予約で渋滞緩和　大芝高原まつり",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6386",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "名物の尻相撲、熱戦　長谷中尾で棚田まつり",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6379",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "ハチ博物館とはちみつ工房　一体化で誘客推進",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6385",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "登戸研究所・伴繁雄さん語る　講演会で渡辺さん",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6373",
+      "title": "報道カメラマン・石川文洋さん死去",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6381",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
