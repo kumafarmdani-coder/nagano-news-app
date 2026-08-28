@@ -1,6 +1,6 @@
 {
-  "date": "2026年8月27日（木）",
-  "updated_at": "2026-08-27T12:24:59.130909+09:00",
+  "date": "2026年8月28日（金）",
+  "updated_at": "2026-08-28T15:12:22.881075+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,28 +22,12 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "駒ケ根駅前ビル　飲食、キッズスペースなど整備",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6392",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "上伊那ご当地ナンバー見送り　反対過半数超え",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6349",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
       "title": "日没後の浸水被害備え　諏訪市小川区が夜間災害訓練",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6401",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 4,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "ドジョウ流し厄落とし　諏訪大社御射山社祭",
@@ -51,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "緊急銃猟マニュアルを策定　下諏訪町",
@@ -59,27 +43,43 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "ウナギを育てて命をいただく学習　長地小４年生",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6407",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "平和願い演武奉納　旧御射山神社例祭",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6406",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "ツリーハウス解体前に　二十歳の若者が最後の別れ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6398",
+      "title": "エイトピークスリビング拠点に　首都圏企業と事業開発",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6405",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "吉田さんＡＳＰ長野大会グランプリ　全国大会へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6395",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "花火＆ドローンショー　大芝高原で初開催へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6404",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "くらすわの森　「養生の森」として再オープン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6391",
+      "title": "高遠城下まつり９月５日　県内最大規模の阿波踊りも",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6403",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
