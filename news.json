@@ -1,9 +1,17 @@
 {
-  "date": "2026年9月1日（火）",
-  "updated_at": "2026-09-01T10:19:59.687913+09:00",
+  "date": "2026年9月2日（水）",
+  "updated_at": "2026-09-02T09:21:42.311732+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "ガイド付き自転車ツアー販売拡充　伊那谷観光局",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6434",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "南箕輪の”推し”　「街ガチャ」で販売開始",
@@ -11,7 +19,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "県縦断駅伝コース　来年から松本－伊那固定に",
@@ -19,7 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "駒ケ根駅前ビル　飲食、キッズスペースなど整備",
@@ -27,31 +35,39 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "「巡るスワン」見据え連携推進室開設　諏訪市",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6426",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "避難所運営、連携確認　諏訪、下諏訪で総合防災訓練",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6424",
+      "title": "「高木橋」来月１日開通式　下諏訪町",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6437",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「１学年２学級以上」望ましい　茅野市が学校再編方針",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6423",
+      "title": "諏訪日赤と助産院　嘱託医療機関契約",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6436",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "諏訪湖のワカサギ投網漁が解禁",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6435",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "養命酒製造の商業施設　新名称「養生の森」営業再開",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6433",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "静かに秋の気配　八島ケ原湿原",
@@ -59,27 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「デジとしょ信州」学びに活用　小井川小",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6431",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "中ア登山道保全へ今夏も整備　南部岳人ネット",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6430",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "郷土への思い熱く　「すわびとオペラ」公演",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6425",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
