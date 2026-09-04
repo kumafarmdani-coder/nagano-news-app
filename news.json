@@ -1,13 +1,13 @@
 {
-  "date": "2026年9月3日（木）",
-  "updated_at": "2026-09-03T09:24:54.968235+09:00",
+  "date": "2026年9月4日（金）",
+  "updated_at": "2026-09-04T09:13:13.606576+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "ガイド付き自転車ツアー販売拡充　伊那谷観光局",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6434",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "飯島駅建て替え、町主体で推進を　住民有志が提言書",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6446",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -30,28 +30,36 @@
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪市役所前の池再生へ　学生有志に協力依頼",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6443",
+      "title": "教室を蚕室に養蚕　岡谷北部中３年生",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6449",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "国スポ会場の諏訪湖PRへ　開催７５９日前企画",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6442",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "新作花火チャレンジカップあす開幕　諏訪湖",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6448",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「おしなそば」用上野大根種まき　諏訪商議所",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6441",
+      "title": "諏訪湖周の違法釣り台座　「撤去、原状回復」を",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6447",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "子どもや若者サポート　「はみんぐ」新事業",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6445",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "雑草イネの根絶へ協力を　県とＪＡ、市町村",
@@ -59,27 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "養命酒製造の商業施設　新名称「養生の森」営業再開",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6433",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "静かに秋の気配　八島ケ原湿原",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6427",
+      "title": "郷土への思い熱く　「すわびとオペラ」公演",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6425",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "郷土への思い熱く　「すわびとオペラ」公演",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6425",
+      "title": "７月豪雨災害から20年　６、災害アーカイブ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6177",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
