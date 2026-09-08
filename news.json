@@ -1,6 +1,6 @@
 {
-  "date": "2026年9月7日（月）",
-  "updated_at": "2026-09-07T09:07:14.095431+09:00",
+  "date": "2026年9月8日（火）",
+  "updated_at": "2026-09-08T09:34:02.323073+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,36 +14,44 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "塚越寛さん死去　８８歳「年輪経営」で注目　伊那食品工業最高顧問",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6087",
+      "title": "飯島でカシス特産に　富士見から移植、栽培へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6471",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "御柱祭へ上社曳行路で勉強会　諏訪市木遣保存会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6467",
+      "title": "塚越寛さん死去　８８歳「年輪経営」で注目　伊那食品工業最高顧問",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6087",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "下諏訪レガッタ　91クルー550人９種目で熱戦",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6466",
+      "title": "自然で過ごすフリースクール　茅野でスタート",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6469",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "出店３倍、秋祭りにぎわう　諏訪市湖明館通り",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6465",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "茅野市国際スケートセンター　存続へ方針",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6470",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "大芝高原内に旧レストラン活用し「漫喫」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6472",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "西駒んボッカ最多２３８人　まき担ぎ駆ける",
@@ -51,35 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "若き煙火師競演　新作花火チャレンジカップ開幕",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6460",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "リスの写真とボールペン画　マテーさんシンノさんコラボ展",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6459",
+      "title": "７月豪雨災害から20年　６、災害アーカイブ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6177",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "果物に触れる機会を　上農高生が「レスキュー隊」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6458",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "花火＆ドローンショー　大芝高原で初開催へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6404",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "阿波踊り200人高遠に舞う　城下まつり盛況",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6457",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "養命酒製造の商業施設　新名称「養生の森」営業再開",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6433",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
