@@ -1,13 +1,13 @@
 {
-  "date": "2026年9月8日（火）",
-  "updated_at": "2026-09-08T09:34:02.323073+09:00",
+  "date": "2026年9月9日（水）",
+  "updated_at": "2026-09-09T09:23:23.237857+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "こどもまんなか箕輪町　31個人・団体応援サポ宣言",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6463",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "芸術で反戦訴え　伊那市創造館で北一明特別展",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6475",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -30,20 +30,44 @@
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "自然で過ごすフリースクール　茅野でスタート",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6469",
+      "title": "「どっこいしょ喫茶」再開　茅野駅前ベルビア内",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6477",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "茅野市国際スケートセンター　存続へ方針",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6470",
+      "title": "自然で過ごすフリースクール　茅野でスタート",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6469",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "「大手町の花街と芸者さん」発刊　文化探索隊",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6479",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "立石公園へシャトルバス　渋滞対策へ今秋４日間",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6478",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "リニア中央新幹線長野県駅　駅舎外観３案示す",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6476",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "大芝高原内に旧レストラン活用し「漫喫」",
@@ -51,35 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "西駒んボッカ最多２３８人　まき担ぎ駆ける",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6464",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "７月豪雨災害から20年　６、災害アーカイブ",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6177",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "花火＆ドローンショー　大芝高原で初開催へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6404",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "養命酒製造の商業施設　新名称「養生の森」営業再開",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6433",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
