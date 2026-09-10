@@ -1,9 +1,25 @@
 {
-  "date": "2026年9月9日（水）",
-  "updated_at": "2026-09-09T09:23:23.237857+09:00",
+  "date": "2026年9月10日（木）",
+  "updated_at": "2026-09-10T09:22:15.611952+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "豊南短大留学生121人転入の辰野町　多文化共生へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6482",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "村の魅力に触れる　中川東小で「利き蜂蜜」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6481",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "芸術で反戦訴え　伊那市創造館で北一明特別展",
@@ -11,15 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "飯島でカシス特産に　富士見から移植、栽培へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6471",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "塚越寛さん死去　８８歳「年輪経営」で注目　伊那食品工業最高顧問",
@@ -27,7 +35,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "「ぽけっと」さよならイベント始まる　下諏訪町",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6485",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "地域と連携し空き家対策　茅野市中大塩地区",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6483",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「どっこいしょ喫茶」再開　茅野駅前ベルビア内",
@@ -35,15 +59,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "自然で過ごすフリースクール　茅野でスタート",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6469",
+      "title": "災害リスク、伝承に理解　諏理大でシンポ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6484",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "「大手町の花街と芸者さん」発刊　文化探索隊",
@@ -51,35 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 10,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "立石公園へシャトルバス　渋滞対策へ今秋４日間",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6478",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "リニア中央新幹線長野県駅　駅舎外観３案示す",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6476",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "大芝高原内に旧レストラン活用し「漫喫」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6472",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "７月豪雨災害から20年　６、災害アーカイブ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6177",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
