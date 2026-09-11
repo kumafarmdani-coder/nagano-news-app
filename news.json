@@ -1,6 +1,6 @@
 {
-  "date": "2026年9月10日（木）",
-  "updated_at": "2026-09-10T09:22:15.611952+09:00",
+  "date": "2026年9月11日（金）",
+  "updated_at": "2026-09-11T09:18:17.628368+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,20 +22,12 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "芸術で反戦訴え　伊那市創造館で北一明特別展",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6475",
+      "title": "岡谷市内のアカマツ林　松くい虫被害急拡大",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6491",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "塚越寛さん死去　８８歳「年輪経営」で注目　伊那食品工業最高顧問",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6087",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "「ぽけっと」さよならイベント始まる　下諏訪町",
@@ -43,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "地域と連携し空き家対策　茅野市中大塩地区",
@@ -51,35 +43,43 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "高木さんＴＪＡＲ完走　７日と14時間９分の激闘",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6490",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「どっこいしょ喫茶」再開　茅野駅前ベルビア内",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6477",
+      "title": "こどもカフェの運営支援　県がサポートセンター開設",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6489",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "災害リスク、伝承に理解　諏理大でシンポ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6484",
+      "title": "高遠燈籠祭19日開幕　高遠小児童が灯籠作り",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6488",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「大手町の花街と芸者さん」発刊　文化探索隊",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6479",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "手良小５年生製品アイデア発表　リクシルが遠隔授業",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6486",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "立石公園へシャトルバス　渋滞対策へ今秋４日間",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6478",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "災害リスク、伝承に理解　諏理大でシンポ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6484",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
