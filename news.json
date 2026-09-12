@@ -1,9 +1,25 @@
 {
-  "date": "2026年9月11日（金）",
-  "updated_at": "2026-09-11T09:18:17.628368+09:00",
+  "date": "2026年9月12日（土）",
+  "updated_at": "2026-09-12T09:25:15.686213+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "駒ケ根観光協会が「紅葉宣言」　魅力発信",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6494",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "複合施設「ＡＬＯ」２６日オープン　南箕輪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6492",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "豊南短大留学生121人転入の辰野町　多文化共生へ",
@@ -11,39 +27,31 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "村の魅力に触れる　中川東小で「利き蜂蜜」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6481",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "岡谷市内のアカマツ林　松くい虫被害急拡大",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6491",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 4,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「ぽけっと」さよならイベント始まる　下諏訪町",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6485",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "インバウンドに「シルク岡谷の旅」　市が企画",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6495",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "地域と連携し空き家対策　茅野市中大塩地区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6483",
+      "title": "ララオカヤ解体、来月１日から着手　岡谷市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6497",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "富士見町境地区　買い物の利便性向上へ活動",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6496",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "高木さんＴＪＡＲ完走　７日と14時間９分の激闘",
@@ -51,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "こどもカフェの運営支援　県がサポートセンター開設",
@@ -59,7 +67,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "高遠燈籠祭19日開幕　高遠小児童が灯籠作り",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "手良小５年生製品アイデア発表　リクシルが遠隔授業",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6486",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "災害リスク、伝承に理解　諏理大でシンポ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6484",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
