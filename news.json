@@ -1,21 +1,21 @@
 {
-  "date": "2026年9月14日（月）",
-  "updated_at": "2026-09-14T09:18:16.143258+09:00",
+  "date": "2026年9月15日（火）",
+  "updated_at": "2026-09-15T09:44:39.508125+09:00",
   "articles": [
     {
       "number": 1,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "駒ケ根観光協会が「紅葉宣言」　魅力発信",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6494",
+      "title": "敬老の日へ花の贈り物手作り　伊那でＷＳ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6507",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "複合施設「ＡＬＯ」２６日オープン　南箕輪",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6492",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "駒ケ根市とツムラ、養命酒製造が３者協定",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6504",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -38,28 +38,36 @@
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "霧ケ峰でＤＸシカ対策　リフト管理者と諏理大生連携",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6503",
+      "title": "下諏訪総文センターこけら落とし　栁澤さん公演",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6508",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "踊りに音楽、料理南国気分たっぷり　岡谷",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6502",
+      "title": "岡谷駅ハシノウエ市へ　２１日子ども参加ＷＳ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6505",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "インバウンドに「シルク岡谷の旅」　市が企画",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6495",
+      "title": "霧ケ峰でＤＸシカ対策　リフト管理者と諏理大生連携",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6503",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "「巡るスワン」撮影　主演森田さん意気込み",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6509",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "好タイムへ走法習得　長野日報社がランニング教室",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "樹種転換進める大芝高原　樹木医の案内で観察会",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6500",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「大手町の花街と芸者さん」発刊　文化探索隊",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6479",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
