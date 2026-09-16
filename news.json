@@ -1,6 +1,6 @@
 {
-  "date": "2026年9月15日（火）",
-  "updated_at": "2026-09-15T09:44:39.508125+09:00",
+  "date": "2026年9月16日（水）",
+  "updated_at": "2026-09-16T09:36:01.847894+09:00",
   "articles": [
     {
       "number": 1,
@@ -12,6 +12,22 @@
     },
     {
       "number": 2,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "複合施設「ＡＬＯ」２６日オープン　南箕輪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6492",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "マツタケ入荷本格化　伊那のグリーンファーム",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6512",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "駒ケ根市とツムラ、養命酒製造が３者協定",
@@ -19,15 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "伊那ＪＣが防災学ぶ催し来月25日　参加15世帯募集",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6499",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "豊南短大留学生121人転入の辰野町　多文化共生へ",
@@ -35,7 +43,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "諏訪地域１００歳以上２８３人　昨年度比10人減",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6514",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "下諏訪総文センターこけら落とし　栁澤さん公演",
@@ -43,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "岡谷駅ハシノウエ市へ　２１日子ども参加ＷＳ",
@@ -51,35 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "霧ケ峰でＤＸシカ対策　リフト管理者と諏理大生連携",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6503",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "「巡るスワン」撮影　主演森田さん意気込み",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6509",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "好タイムへ走法習得　長野日報社がランニング教室",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6501",
+      "title": "青年力士11人「胸たたき」　上社十五夜祭奉納相撲",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6515",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "樹種転換進める大芝高原　樹木医の案内で観察会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6500",
+      "title": "県内基準地価　住宅地、商業地とも２年連続上昇",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6513",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
