@@ -1,17 +1,9 @@
 {
-  "date": "2026年9月16日（水）",
-  "updated_at": "2026-09-16T09:36:01.847894+09:00",
+  "date": "2026年9月17日（木）",
+  "updated_at": "2026-09-17T09:43:37.249776+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "敬老の日へ花の贈り物手作り　伊那でＷＳ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6507",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "複合施設「ＡＬＯ」２６日オープン　南箕輪",
@@ -19,7 +11,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "マツタケ入荷本格化　伊那のグリーンファーム",
@@ -27,15 +19,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "駒ケ根市とツムラ、養命酒製造が３者協定",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6504",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "豊南短大留学生121人転入の辰野町　多文化共生へ",
@@ -43,7 +27,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "新選組と本陣岩波家　下諏訪で19日から特別展",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6521",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "諏訪地域１００歳以上２８３人　昨年度比10人減",
@@ -51,35 +43,43 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "ララオカヤ解体、来月１日から着手　岡谷市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6497",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "下諏訪総文センターこけら落とし　栁澤さん公演",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6508",
+      "title": "ＳＳＨ生徒研究発表会で全国２位　清陵高の３人",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6520",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "岡谷駅ハシノウエ市へ　２１日子ども参加ＷＳ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6505",
+      "title": "考古資料研究家・瀧沢益作の伝記　孫の敬三さん出版",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6519",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "青年力士11人「胸たたき」　上社十五夜祭奉納相撲",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6515",
+      "title": "真冬の中ア千畳敷　”純白のウエディング”復活へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6518",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "県内基準地価　住宅地、商業地とも２年連続上昇",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6513",
+      "title": "「高遠焼」など２品目　知事指定伝統的工芸品に",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6517",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
