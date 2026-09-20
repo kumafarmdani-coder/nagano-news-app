@@ -1,6 +1,6 @@
 {
-  "date": "2026年9月19日（土）",
-  "updated_at": "2026-09-19T09:27:04.582999+09:00",
+  "date": "2026年9月20日（日）",
+  "updated_at": "2026-09-20T09:12:01.895549+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,8 +14,8 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「レベル高い」701点　県書道展伊那地区展",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6523",
+      "title": "コメ概算金４割減　ＪＡ上伊那、26年産",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6536",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -30,12 +30,28 @@
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "駒ケ根市とツムラ、養命酒製造が３者協定",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6504",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "仏画の開眼法要一般公開　岡谷の照光寺で26日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6538",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "パッカー車を芸術作品に　諏訪ノ湖芸術祭でＷＳ",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6531",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "矢﨑さん夫婦の長寿祝う　諏訪市長が敬老訪問",
@@ -43,43 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "初のガイド付き自転車ツアー　諏訪湖周２コース",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6527",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "累計乗客１３００万人達成　中ア駒ケ岳ロープウェイ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6533",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "一房一粒、丁寧に　原中ワイン醸造へブドウ収穫",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6532",
+      "title": "千駄刈の森歩き学ぶ　蓼科・八ケ岳国際自然学校",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6539",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "高齢者施設に敬老祝い　長野日報社広告協賛１７社",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6529",
+      "title": "これからの蚕糸絹業考える　絹文化フォーラム",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6537",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "建物と食、芸能連携　旧料亭松喜で料藝祭22、23日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6524",
+      "title": "生きづらさ感じる若者たち　大人と語り合う",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6535",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
