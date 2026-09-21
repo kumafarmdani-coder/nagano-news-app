@@ -1,6 +1,6 @@
 {
-  "date": "2026年9月20日（日）",
-  "updated_at": "2026-09-20T09:12:01.895549+09:00",
+  "date": "2026年9月21日（月）",
+  "updated_at": "2026-09-21T09:20:41.745472+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,12 +14,20 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "豊かな大地、後世に　飯島町発足７０周年式典",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6542",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "コメ概算金４割減　ＪＡ上伊那、26年産",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6536",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "マツタケ入荷本格化　伊那のグリーンファーム",
@@ -27,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "駒ケ根市とツムラ、養命酒製造が３者協定",
@@ -35,7 +43,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "「逃げ若」作者の松井さんトーク　諏訪で南北朝フェス",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6545",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "仏画の開眼法要一般公開　岡谷の照光寺で26日",
@@ -43,43 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "パッカー車を芸術作品に　諏訪ノ湖芸術祭でＷＳ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6531",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "矢﨑さん夫婦の長寿祝う　諏訪市長が敬老訪問",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6530",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "千駄刈の森歩き学ぶ　蓼科・八ケ岳国際自然学校",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6539",
+      "title": "県の危ない交差点ワースト５　茅野から２カ所選出",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6525",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "これからの蚕糸絹業考える　絹文化フォーラム",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6537",
+      "title": "ローイングで姉妹連携協定　県協会とイタリアのクラブ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6544",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "生きづらさ感じる若者たち　大人と語り合う",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6535",
+      "title": "照光寺、大大黒の宮坂さん　100歳記念し句碑建立",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6543",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
