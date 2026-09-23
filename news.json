@@ -1,6 +1,6 @@
 {
-  "date": "2026年9月22日（火）",
-  "updated_at": "2026-09-22T09:57:57.098032+09:00",
+  "date": "2026年9月23日（水）",
+  "updated_at": "2026-09-23T09:47:16.315320+09:00",
   "articles": [
     {
       "number": 1,
@@ -12,6 +12,22 @@
     },
     {
       "number": 2,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "天候に恵まれ盛大に　伊那市で音楽と食のイベント",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6555",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "夏の終わり告げるヒガンバナ　伊那市の三峰川堤防",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6554",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那で凱旋興行　女子プロレスラー網倉さん",
@@ -19,15 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "豊かな大地、後世に　飯島町発足７０周年式典",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6542",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "マツタケ入荷本格化　伊那のグリーンファーム",
@@ -35,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "コメ概算金４割減　ＪＡ上伊那、26年産",
@@ -43,35 +51,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "駒ケ根市とツムラ、養命酒製造が３者協定",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6504",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "ハシノウエ市に向け窓絵描く　岡谷駅の南北通路でＷＳ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6549",
+      "title": "手話の日に合わせブルーライトアップ　茅野市民館",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6557",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "「逃げ若」作者の松井さんトーク　諏訪で南北朝フェス",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6545",
+      "title": "住民と観光客がつながれる場に　諏訪に「ナリトヒト」オープン",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6556",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "仏画の開眼法要一般公開　岡谷の照光寺で26日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6538",
+      "title": "四半世紀の軌跡と展望　諏訪圏工業メッセ特別ウェブ企画",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6553",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
