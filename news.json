@@ -1,6 +1,6 @@
 {
-  "date": "2026年9月23日（水）",
-  "updated_at": "2026-09-23T09:47:16.315320+09:00",
+  "date": "2026年9月24日（木）",
+  "updated_at": "2026-09-24T09:38:50.845428+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,16 +22,16 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "夏の終わり告げるヒガンバナ　伊那市の三峰川堤防",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6554",
+      "title": "進む歩行者安全対策　長期の社会実験に住民理解　長野県駒ケ根市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6562",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "伊那で凱旋興行　女子プロレスラー網倉さん",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6548",
+      "title": "夏の終わり告げるヒガンバナ　伊那市の三峰川堤防",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6554",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -54,32 +54,32 @@
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "手話の日に合わせブルーライトアップ　茅野市民館",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6557",
+      "title": "長期滞在で味わう下諏訪　築６４年の古民家で宿泊",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6560",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "住民と観光客がつながれる場に　諏訪に「ナリトヒト」オープン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6556",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "諏訪湖で自転車ロゲイニング　スマホでミッションに挑戦",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6559",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "四半世紀の軌跡と展望　諏訪圏工業メッセ特別ウェブ企画",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6553",
+      "title": "手話の日に合わせブルーライトアップ　茅野市民館",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6557",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "２８年の時を経て「思い出」発見　永明小卒業生ら開封式",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6551",
+      "title": "笛や鼓の音色響くご城下通り　高遠ばやしが巡行",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6563",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
