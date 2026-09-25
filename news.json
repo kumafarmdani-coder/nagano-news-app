@@ -1,6 +1,6 @@
 {
-  "date": "2026年9月24日（木）",
-  "updated_at": "2026-09-24T09:38:50.845428+09:00",
+  "date": "2026年9月25日（金）",
+  "updated_at": "2026-09-25T09:38:27.163172+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,12 +14,20 @@
       "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
+      "title": "伊那上等夜空フェス　大芝高原で来月２４日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6566",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
       "title": "天候に恵まれ盛大に　伊那市で音楽と食のイベント",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6555",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "進む歩行者安全対策　長期の社会実験に住民理解　長野県駒ケ根市",
@@ -27,23 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "夏の終わり告げるヒガンバナ　伊那市の三峰川堤防",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6554",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "マツタケ入荷本格化　伊那のグリーンファーム",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6512",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "コメ概算金４割減　ＪＡ上伊那、26年産",
@@ -51,35 +43,43 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "マツタケ入荷本格化　伊那のグリーンファーム",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6512",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "長期滞在で味わう下諏訪　築６４年の古民家で宿泊",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6560",
+      "title": "伊那で凱旋興行　女子プロレスラー網倉さん",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6548",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪湖で自転車ロゲイニング　スマホでミッションに挑戦",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6559",
+      "title": "「諏訪ノ湖芸術祭」あす開幕　ＷＳや制作展示",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6569",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "手話の日に合わせブルーライトアップ　茅野市民館",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6557",
+      "title": "茅野での女性起業支援　空きテナント情報発信",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6568",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "笛や鼓の音色響くご城下通り　高遠ばやしが巡行",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6563",
+      "title": "育てた秋蚕の繭収穫　岡谷北部中３年生",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6567",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
