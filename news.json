@@ -1,13 +1,13 @@
 {
-  "date": "2026年9月25日（金）",
-  "updated_at": "2026-09-25T09:38:27.163172+09:00",
+  "date": "2026年9月26日（土）",
+  "updated_at": "2026-09-26T09:43:39.823722+09:00",
   "articles": [
     {
       "number": 1,
       "tag": "admin",
       "tag_label": "🏛行政",
-      "title": "社協会費の納入激減で活動停滞懸念　南箕輪村",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6550",
+      "title": "寺平氏が出馬表明　箕輪町長選",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6574",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -30,20 +30,12 @@
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "進む歩行者安全対策　長期の社会実験に住民理解　長野県駒ケ根市",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6562",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
       "title": "コメ概算金４割減　ＪＡ上伊那、26年産",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6536",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "マツタケ入荷本格化　伊那のグリーンファーム",
@@ -51,11 +43,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 6,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "自由に過ごして　下諏訪町に「帰帰」プレオープン",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6572",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "伊那で凱旋興行　女子プロレスラー網倉さん",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6548",
+      "title": "みんなで楽しくフラダンス　茅野市に地域クラブが発足",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6571",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -70,16 +70,16 @@
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "茅野での女性起業支援　空きテナント情報発信",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6568",
+      "title": "食用ホオズキ食べて　児童栽培の果実をマフィンに",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6575",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "育てた秋蚕の繭収穫　岡谷北部中３年生",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6567",
+      "title": "北川製菓「かわいい牛乳パン」がブックカバーに",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6573",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
