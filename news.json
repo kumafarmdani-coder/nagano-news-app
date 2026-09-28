@@ -1,6 +1,6 @@
 {
-  "date": "2026年9月27日（日）",
-  "updated_at": "2026-09-27T09:44:25.745477+09:00",
+  "date": "2026年9月28日（月）",
+  "updated_at": "2026-09-28T09:58:24.027297+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,12 +22,28 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "伊那北駅周辺、未来デザイン　まちづくり協ＷＳ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6584",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "陸上・伊藤選手ら講師に　駒ケ根でランニング教室",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6583",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "ボッチャの魅力発信　伊那市スポ協に専門部",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6580",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那谷の地酒や名物味わう　秋の呑みあるき",
@@ -35,7 +51,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "コメ概算金４割減　ＪＡ上伊那、26年産",
@@ -43,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "マツタケ入荷本格化　伊那のグリーンファーム",
@@ -51,7 +67,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那で凱旋興行　女子プロレスラー網倉さん",
@@ -59,27 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "自由に過ごして　下諏訪町に「帰帰」プレオープン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6572",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "みんなで楽しくフラダンス　茅野市に地域クラブが発足",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6571",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「諏訪ノ湖芸術祭」あす開幕　ＷＳや制作展示",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6569",
+      "title": "”秋一女綱”稲刈り取り　下諏訪町四王藁の会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6585",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
