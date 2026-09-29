@@ -1,13 +1,13 @@
 {
-  "date": "2026年9月28日（月）",
-  "updated_at": "2026-09-28T09:58:24.027297+09:00",
+  "date": "2026年9月29日（火）",
+  "updated_at": "2026-09-29T11:07:39.138049+09:00",
   "articles": [
     {
       "number": 1,
       "tag": "admin",
       "tag_label": "🏛行政",
-      "title": "寺平氏が出馬表明　箕輪町長選",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6574",
+      "title": "森の漫喫「パル大芝」プレオープン　南箕輪村",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6589",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -20,6 +20,22 @@
     },
     {
       "number": 3,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "伊那上等夜空フェス　大芝高原で来月２４日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6566",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "ふるさと納税返礼品「ラブクロム」取り下げ　駒ケ根市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6592",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那北駅周辺、未来デザイン　まちづくり協ＷＳ",
@@ -27,27 +43,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "陸上・伊藤選手ら講師に　駒ケ根でランニング教室",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6583",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ボッチャの魅力発信　伊那市スポ協に専門部",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6580",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "伊那谷の地酒や名物味わう　秋の呑みあるき",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6578",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -78,8 +78,8 @@
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "”秋一女綱”稲刈り取り　下諏訪町四王藁の会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6585",
+      "title": "やりたいこと形に　茅野市金沢に社会参加型のデイサービス",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6590",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
