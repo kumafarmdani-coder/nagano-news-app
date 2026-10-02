@@ -1,21 +1,21 @@
 {
-  "date": "2026年9月30日（水）",
-  "updated_at": "2026-09-30T10:22:42.752775+09:00",
+  "date": "2026年10月2日（金）",
+  "updated_at": "2026-10-02T10:44:13.161651+09:00",
   "articles": [
     {
       "number": 1,
       "tag": "admin",
       "tag_label": "🏛行政",
-      "title": "森の漫喫「パル大芝」プレオープン　南箕輪村",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6589",
+      "title": "イルミフェス３日開幕　南箕輪村大芝高原",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6600",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "”東伊那愛”満載　150周年フェスタ11月１日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6596",
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "森の漫喫「パル大芝」プレオープン　南箕輪村",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6589",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -28,10 +28,10 @@
     },
     {
       "number": 4,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "天候に恵まれ盛大に　伊那市で音楽と食のイベント",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6555",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "秋の風情「赤そばの里」見頃　箕輪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6602",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -54,32 +54,32 @@
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "コメ概算金４割減　ＪＡ上伊那、26年産",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6536",
+      "title": "マツタケ入荷本格化　伊那のグリーンファーム",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6512",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "マツタケ入荷本格化　伊那のグリーンファーム",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6512",
+      "title": "コメ概算金４割減　ＪＡ上伊那、26年産",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6536",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪湖ヨットハーバー　あすから利用制限",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6598",
+      "title": "「高木橋」開通、渡り初め　下諏訪町",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6610",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "やりたいこと形に　茅野市金沢に社会参加型のデイサービス",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6590",
+      "title": "「ご当地ドラマ連携推進室」始動　諏訪市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6609",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
