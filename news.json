@@ -1,17 +1,9 @@
 {
-  "date": "2026年10月2日（金）",
-  "updated_at": "2026-10-02T10:44:13.161651+09:00",
+  "date": "2026年10月3日（土）",
+  "updated_at": "2026-10-03T10:15:44.949988+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "イルミフェス３日開幕　南箕輪村大芝高原",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6600",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
       "tag": "admin",
       "tag_label": "🏛行政",
       "title": "森の漫喫「パル大芝」プレオープン　南箕輪村",
@@ -19,15 +11,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "伊那上等夜空フェス　大芝高原で来月２４日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6566",
+      "number": 2,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "宮田中の新しい制服　２年かけ検討し文化祭でお披露目",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6616",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "秋の風情「赤そばの里」見頃　箕輪",
@@ -35,15 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "地元産マツタケ続々　駒ケ根の農産物直売所",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6595",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "ふるさと納税返礼品「ラブクロム」取り下げ　駒ケ根市",
@@ -51,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "マツタケ入荷本格化　伊那のグリーンファーム",
@@ -59,15 +43,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "コメ概算金４割減　ＪＡ上伊那、26年産",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6536",
+      "title": "地元産マツタケ続々　駒ケ根の農産物直売所",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6595",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 7,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "新たな価値提供したい　イオンスタイル諏訪２１日オープン",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6617",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「高木橋」開通、渡り初め　下諏訪町",
@@ -75,11 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 10,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「ご当地ドラマ連携推進室」始動　諏訪市",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6609",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 10,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "池や滝を備えた庭園の存在が判明　高遠城跡の南曲輪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6615",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
