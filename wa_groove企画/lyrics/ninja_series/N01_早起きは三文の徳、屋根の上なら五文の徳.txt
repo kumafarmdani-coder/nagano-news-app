@@ -1,0 +1,61 @@
+﻿曲タイトル：早起きは三文の徳、屋根の上なら五文の徳
+場面：朝｜夜明けの屋根から修行に出発
+元ネタ：ことわざ「早起きは三文の徳」。屋根の上ならもっと得、という洒落
+歌／100 BPM
+
+【Suno Style】
+Japanese groove pop, upbeat, bright and refreshing, 100 BPM, punchy drums, funky bassline, Japanese shakuhachi, Japanese shamisen, light taiko drums, sunrise feeling, energetic male vocal, Japanese lyrics, Japanese call-and-response chants, male group chorus, head nod
+
+【Exclude Styles】
+dark, horror, scary, English lyrics, rap, epic, cinematic
+
+【歌詞】
+[Intro]
+（そーれ）
+
+[Verse]
+あさひが　かわらを　そめていく
+とりより　はやく　めを　さませ
+ずきんを　きゅっと　むすんだら
+きょうの　しゅぎょうの　はじまりだ
+
+[Pre-Chorus]
+まちは　まだ　ねむってる
+いまのうちに　かけだそう
+
+[Chorus]
+はやおき（はっ）　さんもん（それ）　とくを　する
+やねの　うえなら　ごもんの　とく
+とんで　はねて　あさひへ　とどけ
+きょうも　いちばん　のりで　いこう
+
+[Instrumental Break]
+
+[Verse]
+みそしる　におう　まちかどを
+かぜより　はやく　すりぬける
+さかなやさんが　てを　ふって
+いってらっしゃいと　わらってる
+
+[Pre-Chorus]
+まちが　すこし　めを　さます
+いまのうちに　かけだそう
+
+[Chorus]
+はやおき（はっ）　さんもん（それ）　とくを　する
+やねの　うえなら　ごもんの　とく
+とんで　はねて　あさひへ　とどけ
+きょうも　いちばん　のりで　いこう
+
+[Bridge]
+いよっ（いよっ）　そーれ（そーれ）
+こえを　あわせて　もういっかい
+
+[Chorus]
+はやおき（はっ）　さんもん（それ）　とくを　する
+やねの　うえなら　ごもんの　とく
+とんで　はねて　あさひへ　とどけ
+きょうも　いちばん　のりで　いこう
+
+[Outro]
+（そーれ）
