@@ -1,0 +1,16 @@
+﻿区分,項目,内容
+共通スタイル文,画像プロンプト先頭に付ける文（英語）,"Chibi character with 2 to 2.5 head-tall proportions, thick bold outlines, slightly retro 1980s-90s Japanese anime style, flat cel shading with soft film grain, muted traditional Japanese color palette of indigo, vermilion, mustard yellow and matcha green on a warm washi-paper toned background, cozy and wholesome mood, simple readable shapes, single still illustration in 16:9, no text, no logo."
+共通スタイル文,ネガティブ指定（必要に応じて末尾に）,"Avoid: realistic style, 3D render, thin lines, neon colors, sexy or revealing outfits, blood, weapons drawn, text, watermark."
+絵柄をそろえるコツ,1. 設定画を先に作る,各キャラの正面・横・後ろの三面図（白背景）を最初に1枚作り、以後はその画像を毎回添付して「this character」と指定する。
+絵柄をそろえるコツ,2. 見本画像を渡す,気に入った1枚を「スタイル見本」として毎回添付し、“Match the art style of the attached image exactly” と添える。
+絵柄をそろえるコツ,3. 共通スタイル文を変えない,スタイル文は一字一句コピペで固定。変えるのはキャラ説明とシーン部分だけにする。
+絵柄をそろえるコツ,4. 配色を固定する,藍・朱・からし色・抹茶色の4色＋生成り背景を基本に。キャラごとの主色を決めておく（例：隊長＝藍、鬼＝朱）。
+絵柄をそろえるコツ,5. 同じ会話で続けて作る,ChatGPTでは同一チャット内で続けて生成すると絵柄がぶれにくい。崩れたら新しいチャットで見本画像から再スタート。
+絵柄をそろえるコツ,6. ループしやすい構図,動かす部分（頭・湯気・提灯・裾）を背景と重ならない位置に置き、余白を確保。動かす部品は別レイヤーで書き出すと編集が楽。
+絵柄をそろえるコツ,7. 16:9で生成しサムネも流用,本編用16:9で作り、サムネはキャラ部分を拡大トリミング＋文字入れで作るとシリーズ感が出る。
+Suno共通タグ,推奨タグ（ベース）,"instrumental, no vocals, Japanese jazzhop, lo-fi hip hop, boom bap, dusty drums, vinyl crackle, warm bass, mellow, laid-back, head-nod groove"
+Suno共通タグ,推奨タグ（和楽器）,"shamisen, koto, shakuhachi, shinobue, taiko, shime-daiko, tsuzumi, biwa, kagura bells, mokugyo"
+Suno共通タグ,推奨タグ（質感・場面）,"tape hiss, rain ambience, night, cozy, study, focus, chill, swing, jazzy chords, rhodes, upright bass"
+Suno共通タグ,避けるタグ（壮大系）,"epic, cinematic, orchestral, trailer, dramatic build, anthem, heroic, choir, EDM drop, dubstep"
+Suno共通タグ,避けるタグ（歌入り誘発）,"vocals, rap, singer, chant, lyrics, female voice, male voice（※歌詞欄は空欄または [Instrumental] にする）"
+Suno共通タグ,その他の注意,アーティスト名・曲名は入れない。BPMは数字で明記（例：88 bpm）。長尺動画は同系統プロンプトで複数曲作りクロスフェードでつなぐ。
