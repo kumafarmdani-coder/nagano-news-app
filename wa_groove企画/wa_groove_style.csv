@@ -14,3 +14,6 @@ Suno共通タグ,推奨タグ（質感・場面）,"tape hiss, rain ambience, ni
 Suno共通タグ,避けるタグ（壮大系）,"epic, cinematic, orchestral, trailer, dramatic build, anthem, heroic, choir, EDM drop, dubstep"
 Suno共通タグ,避けるタグ（歌入り誘発）,"vocals, rap, singer, chant, lyrics, female voice, male voice（※歌詞欄は空欄または [Instrumental] にする）"
 Suno共通タグ,その他の注意,アーティスト名・曲名は入れない。BPMは数字で明記（例：88 bpm）。長尺動画は同系統プロンプトで複数曲作りクロスフェードでつなぐ。
+Suno共通タグ（歌入り版）,推奨タグ（歌詞シート用）,"Japanese jazzy hip hop, upbeat groove, 95–105 BPM, punchy boom bap drums, funky bassline, energetic, bright, head nod, Japanese lyrics（祭り系は taiko drums を追加）"
+Suno共通タグ（歌入り版）,声の指定,energetic male vocal または bright female vocal
+Suno共通タグ（歌入り版）,歌入り版で外すタグ,"laid back, mellow, night, calm（※上の「避けるタグ（歌入り誘発）」はインスト版用）"
