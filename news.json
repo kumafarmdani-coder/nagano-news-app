@@ -1,6 +1,6 @@
 {
-  "date": "2026年10月5日（月）",
-  "updated_at": "2026-10-05T10:04:34.429777+09:00",
+  "date": "2026年10月6日（火）",
+  "updated_at": "2026-10-06T11:22:00.332238+09:00",
   "articles": [
     {
       "number": 1,
@@ -12,6 +12,22 @@
     },
     {
       "number": 2,
+      "tag": "education",
+      "tag_label": "📚教育",
+      "title": "楽しく練習したい　伊那市中学校卓球クラブ活動開始",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6635",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "赤ワイン「宮田紫輝」仕込み　良質ワインの完成期待　長野県宮田村",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6634",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "飯島町日曽利に縄文中期の集落跡　11軒の住居跡出土",
@@ -19,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "歴史や文化未来へ紡ぐ　宮田村新村発足70周年祝う",
@@ -27,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "ふるさと納税返礼品「ラブクロム」取り下げ　駒ケ根市",
@@ -35,7 +51,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "マツタケ入荷本格化　伊那のグリーンファーム",
@@ -43,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "地元産マツタケ続々　駒ケ根の農産物直売所",
@@ -51,35 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "映画「鹿の国」弘監督らパネル討論　諏訪の大祝邸",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6629",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「ケヤキフェス」にぎわう　茅野市玉川地区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6628",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "五蔵自慢の日本酒堪能　上諏訪街道呑みあるき",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6622",
+      "title": "ガイドと巡る諏訪湖周　自転車ツアー始まる",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6633",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "信州書道展、755点を審査　来月５日各賞発表",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6627",
+      "title": "６月に続き３件確認　下諏訪町の松くい虫被害",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6632",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
