@@ -1,13 +1,13 @@
 {
-  "date": "2026年10月6日（火）",
-  "updated_at": "2026-10-06T11:22:00.332238+09:00",
+  "date": "2026年10月7日（水）",
+  "updated_at": "2026-10-07T10:41:29.992318+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "森の漫喫「パル大芝」プレオープン　南箕輪村",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6589",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "上伊那そなえフェスタ　災害時の連携や支援考える",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6638",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -30,28 +30,12 @@
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "飯島町日曽利に縄文中期の集落跡　11軒の住居跡出土",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6626",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "歴史や文化未来へ紡ぐ　宮田村新村発足70周年祝う",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6625",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
       "title": "ふるさと納税返礼品「ラブクロム」取り下げ　駒ケ根市",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6592",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "マツタケ入荷本格化　伊那のグリーンファーム",
@@ -59,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "地元産マツタケ続々　駒ケ根の農産物直売所",
@@ -67,19 +51,35 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 7,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "旧岡谷市役所庁舎で床塗装ＷＳ　10日イベント",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6641",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "下諏訪町、通学かばん変更　業者廃業で新仕様に",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6640",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "ガイドと巡る諏訪湖周　自転車ツアー始まる",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6633",
+      "title": "旧岡谷市役所庁舎　３本柱の保全基本方針案",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6639",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "６月に続き３件確認　下諏訪町の松くい虫被害",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6632",
+      "title": "新商品開発へプロジェクト始動　豊南短大",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6637",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
