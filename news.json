@@ -1,6 +1,6 @@
 {
-  "date": "2026年10月7日（水）",
-  "updated_at": "2026-10-07T10:41:29.992318+09:00",
+  "date": "2026年10月8日（木）",
+  "updated_at": "2026-10-08T11:08:11.347871+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,8 +22,8 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "赤ワイン「宮田紫輝」仕込み　良質ワインの完成期待　長野県宮田村",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6634",
+      "title": "障害がある人のアート制作を支援　伊那市社協",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6644",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -52,6 +52,14 @@
     },
     {
       "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "大相撲春巡業諏訪湖場所　岡谷で来年４月７日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6646",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "旧岡谷市役所庁舎で床塗装ＷＳ　10日イベント",
@@ -59,7 +67,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "下諏訪町、通学かばん変更　業者廃業で新仕様に",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "旧岡谷市役所庁舎　３本柱の保全基本方針案",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6639",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "新商品開発へプロジェクト始動　豊南短大",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6637",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "八ケ岳西麓の”長寿ごはん”　横山さん料理講習会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6647",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
