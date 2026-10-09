@@ -1,21 +1,21 @@
 {
-  "date": "2026年10月8日（木）",
-  "updated_at": "2026-10-08T11:08:11.347871+09:00",
+  "date": "2026年10月9日（金）",
+  "updated_at": "2026-10-09T11:21:22.228626+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "上伊那そなえフェスタ　災害時の連携や支援考える",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6638",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "ロケ地に選ばれる地域とは　17日伊那でセミナー",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6650",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "education",
-      "tag_label": "📚教育",
-      "title": "楽しく練習したい　伊那市中学校卓球クラブ活動開始",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6635",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "伊那ソースかつ丼食べ歩き　スタンプラリー10日から",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6649",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -52,6 +52,14 @@
     },
     {
       "number": 7,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "交流拠点「仲町くるも」　茅野にオープン",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6652",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "大相撲春巡業諏訪湖場所　岡谷で来年４月７日",
@@ -59,7 +67,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "旧岡谷市役所庁舎で床塗装ＷＳ　10日イベント",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "下諏訪町、通学かばん変更　業者廃業で新仕様に",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6640",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 10,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "八ケ岳西麓の”長寿ごはん”　横山さん料理講習会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6647",
+      "title": "八島ケ原湿原「草紅葉」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6653",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
