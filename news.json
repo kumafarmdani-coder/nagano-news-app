@@ -1,6 +1,6 @@
 {
-  "date": "2026年10月9日（金）",
-  "updated_at": "2026-10-09T11:21:22.228626+09:00",
+  "date": "2026年10月10日（土）",
+  "updated_at": "2026-10-10T10:50:05.770010+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,24 +22,24 @@
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "障害がある人のアート制作を支援　伊那市社協",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6644",
+      "title": "ふるさと納税返礼品「ラブクロム」取り下げ　駒ケ根市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6592",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "ふるさと納税返礼品「ラブクロム」取り下げ　駒ケ根市",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6592",
+      "title": "マツタケ入荷本格化　伊那のグリーンファーム",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6512",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "マツタケ入荷本格化　伊那のグリーンファーム",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6512",
+      "title": "飯島町日曽利に縄文中期の集落跡　11軒の住居跡出土",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6626",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -52,6 +52,22 @@
     },
     {
       "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "茅野市豊平に県内初のアスファルトパンプトラック",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6657",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "ものづくりフェア来年２月６日　岡谷市内６カ所で開催",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6655",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "交流拠点「仲町くるも」　茅野にオープン",
@@ -59,27 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "大相撲春巡業諏訪湖場所　岡谷で来年４月７日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6646",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "旧岡谷市役所庁舎で床塗装ＷＳ　10日イベント",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6641",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 10,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "八島ケ原湿原「草紅葉」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6653",
+      "title": "池畔に映える紅葉見頃　北八ケ岳の白駒池",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6659",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
