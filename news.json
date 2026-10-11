@@ -1,25 +1,17 @@
 {
-  "date": "2026年10月10日（土）",
-  "updated_at": "2026-10-10T10:50:05.770010+09:00",
+  "date": "2026年10月11日（日）",
+  "updated_at": "2026-10-11T10:05:36.306297+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ロケ地に選ばれる地域とは　17日伊那でセミナー",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6650",
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "箕輪町長選告示まで１カ月　新人三つどもえの公算",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6661",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "伊那ソースかつ丼食べ歩き　スタンプラリー10日から",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6649",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "ふるさと納税返礼品「ラブクロム」取り下げ　駒ケ根市",
@@ -27,7 +19,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "マツタケ入荷本格化　伊那のグリーンファーム",
@@ -35,7 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "飯島町日曽利に縄文中期の集落跡　11軒の住居跡出土",
@@ -43,11 +35,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "今後の地域医療は　富士見高原病院でシンポ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6664",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "地元産マツタケ続々　駒ケ根の農産物直売所",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6595",
+      "title": "児童堂々、諏訪龍神の舞　豊田小６年１組が奉納",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6663",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -60,18 +60,18 @@
     },
     {
       "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ものづくりフェア来年２月６日　岡谷市内６カ所で開催",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6655",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "立石公園の渋滞緩和へ実証開始　シャトルバス運行",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6665",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "交流拠点「仲町くるも」　茅野にオープン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6652",
+      "title": "伊澤修二記念音楽フェス17日　練習熱心に",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6662",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
