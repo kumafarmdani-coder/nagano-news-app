@@ -1,6 +1,6 @@
 {
-  "date": "2026年10月11日（日）",
-  "updated_at": "2026-10-11T10:05:36.306297+09:00",
+  "date": "2026年10月12日（月）",
+  "updated_at": "2026-10-12T10:27:42.716818+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,12 +14,20 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "犯罪被害支援へホンデリング回収箱設置　駒ケ根署",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6667",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "ふるさと納税返礼品「ラブクロム」取り下げ　駒ケ根市",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6592",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "マツタケ入荷本格化　伊那のグリーンファーム",
@@ -27,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "飯島町日曽利に縄文中期の集落跡　11軒の住居跡出土",
@@ -35,7 +43,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "茅野市がポッドキャスト番組　あす正午配信開始",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6671",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "今後の地域医療は　富士見高原病院でシンポ",
@@ -43,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "児童堂々、諏訪龍神の舞　豊田小６年１組が奉納",
@@ -51,35 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "茅野市豊平に県内初のアスファルトパンプトラック",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6657",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "立石公園の渋滞緩和へ実証開始　シャトルバス運行",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6665",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "伊澤修二記念音楽フェス17日　練習熱心に",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6662",
+      "title": "小学生が職業体験　キッズタウンかみすわ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6670",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "池畔に映える紅葉見頃　北八ケ岳の白駒池",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6659",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "平澤さんネイチャーピアノ　みなみみのわ音の環音楽祭",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6669",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
