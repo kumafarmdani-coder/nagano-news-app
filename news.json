@@ -1,6 +1,6 @@
 {
-  "date": "2026年10月13日（火）",
-  "updated_at": "2026-10-13T12:05:21.886368+09:00",
+  "date": "2026年10月14日（水）",
+  "updated_at": "2026-10-14T10:17:58.596676+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,12 +14,20 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "コスモス畑に園児招待　飯島の中野さん",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6673",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "犯罪被害支援へホンデリング回収箱設置　駒ケ根署",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6667",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "ふるさと納税返礼品「ラブクロム」取り下げ　駒ケ根市",
@@ -27,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "マツタケ入荷本格化　伊那のグリーンファーム",
@@ -35,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那ソースかつ丼食べ歩き　スタンプラリー10日から",
@@ -43,7 +51,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "万治の石仏も”静観”稲刈り取り　下諏訪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6677",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "学生オリエンテーリング選手権24、25日　富士見高原",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6676",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "茅野市がポッドキャスト番組　あす正午配信開始",
@@ -51,35 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "今後の地域医療は　富士見高原病院でシンポ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6664",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "児童堂々、諏訪龍神の舞　豊田小６年１組が奉納",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6663",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "小学生が職業体験　キッズタウンかみすわ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6670",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "平澤さんネイチャーピアノ　みなみみのわ音の環音楽祭",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6669",
+      "title": "動き出す２０２７県議選　１・各党派の動き",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6675",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
