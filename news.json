@@ -1,6 +1,6 @@
 {
-  "date": "2026年10月15日（木）",
-  "updated_at": "2026-10-15T09:39:39.712749+09:00",
+  "date": "2026年10月16日（金）",
+  "updated_at": "2026-10-16T09:31:18.229383+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,24 +14,24 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "地域商社設立検討協が初会合　飯島町",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6680",
+      "title": "文化継承へ連携確認　相撲協会事務局長が飯島町訪問",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6684",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "動き出す２０２７県議選　２・伊那市区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6679",
+      "title": "地域商社設立検討協が初会合　飯島町",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6680",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "コスモス畑に園児招待　飯島の中野さん",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6673",
+      "title": "動き出す２０２７県議選　２・伊那市区",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6679",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -60,6 +60,14 @@
     },
     {
       "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "諏訪市長選　伊藤市議が出馬意向",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6688",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "来月お披露目上諏訪芸妓に　「すゞ遥」こと丸山さん",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "動き出す２０２７県議選　２・岡谷市・下諏訪町区",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6682",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "長野グレートサンタラン　31日、岡谷で初開催",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6681",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
