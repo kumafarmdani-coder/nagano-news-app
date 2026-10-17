@@ -1,6 +1,6 @@
 {
-  "date": "2026年10月16日（金）",
-  "updated_at": "2026-10-16T09:31:18.229383+09:00",
+  "date": "2026年10月17日（土）",
+  "updated_at": "2026-10-17T09:38:25.687365+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,28 +14,20 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "文化継承へ連携確認　相撲協会事務局長が飯島町訪問",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6684",
+      "title": "動き出す２０２７県議選　３・駒ケ根市区",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6691",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "地域商社設立検討協が初会合　飯島町",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6680",
+      "title": "文化継承へ連携確認　相撲協会事務局長が飯島町訪問",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6684",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "動き出す２０２７県議選　２・伊那市区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6679",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "ふるさと納税返礼品「ラブクロム」取り下げ　駒ケ根市",
@@ -43,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "マツタケ入荷本格化　伊那のグリーンファーム",
@@ -51,35 +43,43 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "伊那ソースかつ丼食べ歩き　スタンプラリー10日から",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6649",
+      "title": "消化器ヘルニアセンター１１月１日開設　岡谷市民病院",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6694",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "最優秀賞に林さん　下諏訪町温泉熱活用コンペ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6693",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪市長選　伊藤市議が出馬意向",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6688",
+      "title": "動き出す２０２７県議選　３・諏訪市区",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6692",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "来月お披露目上諏訪芸妓に　「すゞ遥」こと丸山さん",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6683",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "地場産のおいしさ届けたい　総菜カフェレストラン「コマラボ」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6695",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "動き出す２０２７県議選　２・岡谷市・下諏訪町区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6682",
+      "title": "学生に応援価格で野菜を　諏理大に無人販売ブース",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6689",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
