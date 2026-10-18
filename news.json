@@ -1,6 +1,6 @@
 {
-  "date": "2026年10月17日（土）",
-  "updated_at": "2026-10-17T09:38:25.687365+09:00",
+  "date": "2026年10月18日（日）",
+  "updated_at": "2026-10-18T09:07:23.373939+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,16 +14,16 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "動き出す２０２７県議選　３・駒ケ根市区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6691",
+      "title": "動き出す２０２７県議選　４・上伊那郡区",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6697",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "文化継承へ連携確認　相撲協会事務局長が飯島町訪問",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6684",
+      "title": "動き出す２０２７県議選　３・駒ケ根市区",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6691",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -46,12 +46,20 @@
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
+      "title": "動き出す２０２７県議選　４・茅野市・富士見町・原村区",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6699",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
       "title": "消化器ヘルニアセンター１１月１日開設　岡谷市民病院",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6694",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 8,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "最優秀賞に林さん　下諏訪町温泉熱活用コンペ",
@@ -59,27 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "動き出す２０２７県議選　３・諏訪市区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6692",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "地場産のおいしさ届けたい　総菜カフェレストラン「コマラボ」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6695",
+      "title": "部員２人の岡工茶華道部　旧林家住宅で「呈茶」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6701",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "学生に応援価格で野菜を　諏理大に無人販売ブース",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6689",
+      "title": "地域の防災考える　諏理大菊地准教授が講話",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6700",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
