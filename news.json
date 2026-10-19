@@ -1,6 +1,6 @@
 {
-  "date": "2026年10月18日（日）",
-  "updated_at": "2026-10-18T09:07:23.373939+09:00",
+  "date": "2026年10月19日（月）",
+  "updated_at": "2026-10-19T09:18:43.127479+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,16 +14,16 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "動き出す２０２７県議選　４・上伊那郡区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6697",
+      "title": "竹林整備と竹の有効活用を　飯島で「竹守衆」発足",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6704",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "動き出す２０２７県議選　３・駒ケ根市区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6691",
+      "title": "動き出す２０２７県議選　４・上伊那郡区",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6697",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -44,6 +44,22 @@
     },
     {
       "number": 6,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "諏訪湖周で初の自転車ロゲイニングイベント",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6707",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "コスプレ面白いね　諏訪でハロウィーンイベント",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6706",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "動き出す２０２７県議選　４・茅野市・富士見町・原村区",
@@ -51,35 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "消化器ヘルニアセンター１１月１日開設　岡谷市民病院",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6694",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "最優秀賞に林さん　下諏訪町温泉熱活用コンペ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6693",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "部員２人の岡工茶華道部　旧林家住宅で「呈茶」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6701",
+      "title": "伝統の「棚入れ」次代に　神宮寺生産森林組合",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6705",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "地域の防災考える　諏理大菊地准教授が講話",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6700",
+      "title": "河川と市民活動考える　ゆめ会議が天竜川シンポ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6703",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
