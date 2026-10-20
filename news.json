@@ -1,6 +1,6 @@
 {
-  "date": "2026年10月19日（月）",
-  "updated_at": "2026-10-19T09:18:43.127479+09:00",
+  "date": "2026年10月20日（火）",
+  "updated_at": "2026-10-20T10:07:36.867695+09:00",
   "articles": [
     {
       "number": 1,
@@ -12,6 +12,22 @@
     },
     {
       "number": 2,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "屋根の銅板すべてない　飯島町の平澤山神社で被害",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6712",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "上伊那で少なくとも２６２枚　グレーチング盗難被害拡大懸念",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6713",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "竹林整備と竹の有効活用を　飯島で「竹守衆」発足",
@@ -19,15 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "動き出す２０２７県議選　４・上伊那郡区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6697",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "ふるさと納税返礼品「ラブクロム」取り下げ　駒ケ根市",
@@ -35,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "マツタケ入荷本格化　伊那のグリーンファーム",
@@ -43,7 +51,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "食で見つめる暮らしや地域　茅野市でパネル討論",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6711",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "カンムリカイツブリ過去最多　諏訪湖でカモ類生息数調査",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6709",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "諏訪湖周で初の自転車ロゲイニングイベント",
@@ -51,35 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "コスプレ面白いね　諏訪でハロウィーンイベント",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6706",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "動き出す２０２７県議選　４・茅野市・富士見町・原村区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6699",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "伝統の「棚入れ」次代に　神宮寺生産森林組合",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6705",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "河川と市民活動考える　ゆめ会議が天竜川シンポ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6703",
+      "title": "地元食材で特製弁当　川岸小６年生が共同開発",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6710",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
