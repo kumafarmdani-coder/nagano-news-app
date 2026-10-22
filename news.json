@@ -1,21 +1,21 @@
 {
-  "date": "2026年10月21日（水）",
-  "updated_at": "2026-10-21T09:42:30.576626+09:00",
+  "date": "2026年10月22日（木）",
+  "updated_at": "2026-10-22T09:46:00.980006+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "箕輪町長選告示まで１カ月　新人三つどもえの公算",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6661",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "屋根の銅板すべてない　飯島町の平澤山神社で被害",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6712",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "おもてなしプリン新商品　辰野高生が共同開発",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6722",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -36,14 +36,22 @@
     },
     {
       "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ふるさと納税返礼品「ラブクロム」取り下げ　駒ケ根市",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6592",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "イオンスタイル諏訪オープン　住民待望「再始動」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6725",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "外周エリアの滞留目立つ　諏訪湖花火大会実行委",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6724",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "中南信のスケート文化発展を　岡谷で考える会",
@@ -51,35 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「イオンスタイル諏訪」きょうオープン　下諏訪",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6718",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "ボディービルWFFで優勝　岡谷の近藤さん",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6717",
+      "title": "スノボ・篠原選手　故郷に活動報告",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6723",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "光前寺ライトアップ　竹灯籠で参道に趣、31日から",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6716",
+      "title": "信州農村歌舞伎祭に支援を　サポーター募集",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6721",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "地元食材で特製弁当　川岸小６年生が共同開発",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6710",
+      "title": "光前寺ライトアップ　竹灯籠で参道に趣、31日から",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6716",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
