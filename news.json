@@ -1,6 +1,6 @@
 {
-  "date": "2026年10月22日（木）",
-  "updated_at": "2026-10-22T09:46:00.980006+09:00",
+  "date": "2026年10月23日（金）",
+  "updated_at": "2026-10-23T09:45:57.856024+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,16 +14,16 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "おもてなしプリン新商品　辰野高生が共同開発",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6722",
+      "title": "そば店開業移住者ら支援　伊那市など",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6727",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "伊那市高遠町でも被害　殿宮神社の銅板屋根盗難",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6715",
+      "title": "おもてなしプリン新商品　辰野高生が共同開発",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6722",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -36,6 +36,22 @@
     },
     {
       "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "公共空間を活用、社会実験24日から　岡谷市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6731",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "是枝監督ら招き「怪物」鑑賞教室　岡谷で来月11日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6730",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "イオンスタイル諏訪オープン　住民待望「再始動」",
@@ -43,43 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "外周エリアの滞留目立つ　諏訪湖花火大会実行委",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6724",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "中南信のスケート文化発展を　岡谷で考える会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6719",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "スノボ・篠原選手　故郷に活動報告",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6723",
+      "title": "「ＰＨＰ」欠陥、サービス停止拡大",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6729",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "信州農村歌舞伎祭に支援を　サポーター募集",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6721",
+      "title": "新しい集いの場を　たかまるナイトマーケット24日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6728",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "光前寺ライトアップ　竹灯籠で参道に趣、31日から",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6716",
+      "title": "スノボ・篠原選手　故郷に活動報告",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6723",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
