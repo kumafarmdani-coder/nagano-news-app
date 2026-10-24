@@ -1,9 +1,17 @@
 {
-  "date": "2026年10月23日（金）",
-  "updated_at": "2026-10-23T09:45:57.856024+09:00",
+  "date": "2026年10月24日（土）",
+  "updated_at": "2026-10-24T09:52:38.542083+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "土岐俊氏が正式出馬表明　箕輪町長選",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6735",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "屋根の銅板すべてない　飯島町の平澤山神社で被害",
@@ -11,7 +19,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "松﨑剛也氏が出馬検討　県議選駒ケ根市区",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6736",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "そば店開業移住者ら支援　伊那市など",
@@ -19,15 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "おもてなしプリン新商品　辰野高生が共同開発",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6722",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "上伊那で少なくとも２６２枚　グレーチング盗難被害拡大懸念",
@@ -35,31 +43,31 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "公共空間を活用、社会実験24日から　岡谷市",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6731",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "是枝監督ら招き「怪物」鑑賞教室　岡谷で来月11日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6730",
+      "title": "あす諏訪湖マラソン　７０８１人エントリー",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6737",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "イオンスタイル諏訪オープン　住民待望「再始動」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6725",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "空き家借り上げ移住希望者へ　茅野市でサブリース事業",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6734",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "太鼓や木やりで開店祝う　イオンスタイル諏訪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6733",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「ＰＨＰ」欠陥、サービス停止拡大",
@@ -67,19 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "新しい集いの場を　たかまるナイトマーケット24日",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6728",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "スノボ・篠原選手　故郷に活動報告",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6723",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
