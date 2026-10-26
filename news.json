@@ -1,17 +1,9 @@
 {
-  "date": "2026年10月25日（日）",
-  "updated_at": "2026-10-25T09:24:58.144267+09:00",
+  "date": "2026年10月26日（月）",
+  "updated_at": "2026-10-26T09:30:28.730400+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "土岐俊氏が正式出馬表明　箕輪町長選",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6735",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "花火とドローン共演　伊那上等！夜空フェス",
@@ -19,7 +11,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "「ソバリエ」３種食べ比べ　伊那新そばまつり",
@@ -27,11 +19,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 3,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "屋根の銅板すべてない　飯島町の平澤山神社で被害",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6712",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "信州室内オーケストラ演奏会11月15日　箕輪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6746",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -54,32 +54,32 @@
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "アート通じ交流　岡谷駅自由通路でハシノウエ市",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6743",
+      "title": "秋深まる湖畔駆ける　諏訪湖マラソン雨中に7000人",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6747",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "諏訪湖マラソンきょう号砲　イベント広場主会場に",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6742",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "諏訪湖マラソン　男子優勝・牧島、女子優勝・嶋田",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6749",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "独身女性、語らいと活動　原村で縁むすびカフェ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6741",
+      "title": "諏訪湖マラソン　ゲスト細田さんランナーに声援",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6748",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "信州農村歌舞伎祭に支援を　サポーター募集",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6721",
+      "title": "高級グランドピアノ楽しんで　来月こまぶんピアノWeek",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6745",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
