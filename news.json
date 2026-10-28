@@ -1,25 +1,41 @@
 {
-  "date": "2026年10月27日（火）",
-  "updated_at": "2026-10-27T10:33:15.456593+09:00",
+  "date": "2026年10月28日（水）",
+  "updated_at": "2026-10-28T10:30:17.739420+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "屋根の銅板すべてない　飯島町の平澤山神社で被害",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6712",
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "土岐俊氏が正式出馬表明　箕輪町長選",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6735",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "信州室内オーケストラ演奏会11月15日　箕輪",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6746",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "伊那谷の紅葉情報一元化　観光局が特設ＨＰ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6758",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "花火とドローン共演　伊那上等！夜空フェス",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6740",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "伊那の郷土料理・そば店「亀」　54年の歴史に幕",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6757",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "松﨑剛也氏が出馬検討　県議選駒ケ根市区",
@@ -27,15 +43,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "上伊那で少なくとも２６２枚　グレーチング盗難被害拡大懸念",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6713",
+      "title": "信州室内オーケストラ演奏会11月15日　箕輪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6746",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "下諏訪駅前通リに多目的スペース　来月開所へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6759",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "諏訪蚕糸学校野球部の黄金期伝える　岡谷蚕糸博物館で特別公開",
@@ -43,7 +67,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "秋深まる湖畔駆ける　諏訪湖マラソン雨中に7000人",
@@ -51,35 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "諏訪湖マラソン　男子優勝・牧島、女子優勝・嶋田",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6749",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "たいまつ手に高台へ　湊の浅間神社１５年ぶり火祭り",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6755",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "鹿肉活用し肉団子　信大生がジビエ総菜商品化",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6754",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "若者目線でにぎわい創出　３１日に１７とりどり祭",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6752",
+      "title": "「令和元年東日本台風」振り返る・上　小林良清さん",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6761",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
