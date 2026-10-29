@@ -1,17 +1,9 @@
 {
-  "date": "2026年10月28日（水）",
-  "updated_at": "2026-10-28T10:30:17.739420+09:00",
+  "date": "2026年10月29日（木）",
+  "updated_at": "2026-10-29T10:53:03.131541+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "土岐俊氏が正式出馬表明　箕輪町長選",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6735",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "伊那谷の紅葉情報一元化　観光局が特設ＨＰ",
@@ -19,15 +11,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "花火とドローン共演　伊那上等！夜空フェス",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6740",
+      "number": 2,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "伊那市の男ら２人再逮捕　神社の屋根から銅板窃盗",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6763",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那の郷土料理・そば店「亀」　54年の歴史に幕",
@@ -35,7 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "松﨑剛也氏が出馬検討　県議選駒ケ根市区",
@@ -43,11 +35,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "信州室内オーケストラ演奏会11月15日　箕輪",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6746",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "統合視野に来月合同花火大会　岡谷南、岡谷東生徒会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6767",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -62,24 +62,24 @@
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪蚕糸学校野球部の黄金期伝える　岡谷蚕糸博物館で特別公開",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6753",
+      "title": "秋深まる湖畔駆ける　諏訪湖マラソン雨中に7000人",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6747",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "秋深まる湖畔駆ける　諏訪湖マラソン雨中に7000人",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6747",
+      "title": "「令和元年東日本台風」振り返る・下　小林良清さん",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6766",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「令和元年東日本台風」振り返る・上　小林良清さん",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6761",
+      "title": "地震時の給水など確認　水道協会が合同防災訓練",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6765",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
