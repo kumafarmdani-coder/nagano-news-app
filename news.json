@@ -1,33 +1,17 @@
 {
-  "date": "2026年10月31日（土）",
-  "updated_at": "2026-10-31T10:42:35.965937+09:00",
+  "date": "2026年11月1日（日）",
+  "updated_at": "2026-11-01T10:18:22.481063+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "土岐俊氏が正式出馬表明　箕輪町長選",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6735",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "花火とドローン共演　伊那上等！夜空フェス",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6740",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "辰野のホタル再生　持続可能な観光事例１００選に",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6770",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「もみじ湖紅葉祭り」あす開幕　箕輪ダム周辺",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6769",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「地元で続けたい」高校生の願い　中川村民吹奏楽団が発足",
@@ -35,7 +19,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "警報機や遮断機のない踏切　上伊那で９カ所",
@@ -43,15 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "信州室内オーケストラ演奏会11月15日　箕輪",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6746",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那の郷土料理・そば店「亀」　54年の歴史に幕",
@@ -59,15 +35,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "松﨑剛也氏が出馬検討　県議選駒ケ根市区",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6736",
+      "title": "伊那市の男ら２人再逮捕　神社の屋根から銅板窃盗",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6763",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "長野グレートサンタラン　10周年、岡谷で初開催",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6785",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "楽しく環境保全「ｅスポーツとごみ拾い」　岡谷で来月１４日",
@@ -75,11 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 10,
+      "number": 8,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "ヒシ堆肥で里山再生　旧岡谷小跡地で植樹開始",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6773",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "新作花火、５人で決戦　チャレンジカップ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6784",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 10,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "八ケ岳山麓の縄文文化語る　八ケ岳美術館でシンポ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6783",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
