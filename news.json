@@ -1,17 +1,33 @@
 {
-  "date": "2026年11月1日（日）",
-  "updated_at": "2026-11-01T10:18:22.481063+09:00",
+  "date": "2026年11月2日（月）",
+  "updated_at": "2026-11-02T10:39:27.454543+09:00",
   "articles": [
     {
       "number": 1,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "花火とドローン共演　伊那上等！夜空フェス",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6740",
+      "title": "先人に感謝、絆未来へ　東伊那１５０周年フェスタ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6787",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "”東伊那愛”満載　150周年フェスタ11月１日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6596",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "議員のなり手不足解消へ　飯島で初の「町民議会」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6788",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "「地元で続けたい」高校生の願い　中川村民吹奏楽団が発足",
@@ -19,15 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "警報機や遮断機のない踏切　上伊那で９カ所",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6778",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那の郷土料理・そば店「亀」　54年の歴史に幕",
@@ -35,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那市の男ら２人再逮捕　神社の屋根から銅板窃盗",
@@ -43,7 +51,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 7,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "旧車・名車170台勢ぞろい　カーフェスタ諏訪湖",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6790",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "長野グレートサンタラン　10周年、岡谷で初開催",
@@ -51,35 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "楽しく環境保全「ｅスポーツとごみ拾い」　岡谷で来月１４日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6776",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "ヒシ堆肥で里山再生　旧岡谷小跡地で植樹開始",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6773",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "新作花火、５人で決戦　チャレンジカップ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6784",
+      "title": "秋深まる湖畔駆ける　諏訪湖マラソン雨中に7000人",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6747",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "八ケ岳山麓の縄文文化語る　八ケ岳美術館でシンポ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6783",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "矢沢弦月生誕１４０年　法光寺で回顧展８日から",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6791",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
