@@ -1,6 +1,6 @@
 {
-  "date": "2026年11月2日（月）",
-  "updated_at": "2026-11-02T10:39:27.454543+09:00",
+  "date": "2026年11月3日（火）",
+  "updated_at": "2026-11-03T12:31:59.744756+09:00",
   "articles": [
     {
       "number": 1,
@@ -30,20 +30,12 @@
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「地元で続けたい」高校生の願い　中川村民吹奏楽団が発足",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6777",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
       "title": "伊那の郷土料理・そば店「亀」　54年の歴史に幕",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6757",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那市の男ら２人再逮捕　神社の屋根から銅板窃盗",
@@ -51,35 +43,43 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "８つのボタニカルでクラフトジン　岡谷市の豊島屋",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6796",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 7,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "旧車・名車170台勢ぞろい　カーフェスタ諏訪湖",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6790",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "太陽光発電設備が稼働　野村ユニソン諏訪南工場",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6794",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "長野グレートサンタラン　10周年、岡谷で初開催",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6785",
+      "title": "農村の原風景今年も再現　原村払沢でわらにょう作り",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6793",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "秋深まる湖畔駆ける　諏訪湖マラソン雨中に7000人",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6747",
+      "title": "あなたが選ぶ「名君保科正之」　夢のキャスト考えて",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6797",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "矢沢弦月生誕１４０年　法光寺で回顧展８日から",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6791",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "おもてなしプリンで松本山雅とツエーゲン応援",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6795",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
