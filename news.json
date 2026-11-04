@@ -1,9 +1,17 @@
 {
-  "date": "2026年11月3日（火）",
-  "updated_at": "2026-11-03T12:31:59.744756+09:00",
+  "date": "2026年11月4日（水）",
+  "updated_at": "2026-11-04T11:30:02.265269+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "三つどもえの公算大きく　箕輪町長選告示まで１週間",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6801",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "先人に感謝、絆未来へ　東伊那１５０周年フェスタ",
@@ -11,7 +19,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "”東伊那愛”満載　150周年フェスタ11月１日",
@@ -19,15 +27,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "議員のなり手不足解消へ　飯島で初の「町民議会」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6788",
+      "number": 4,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "「もみじ湖紅葉祭り」あす開幕　箕輪ダム周辺",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6769",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "伊那市誕生２０年　節目の記念式典",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6803",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那の郷土料理・そば店「亀」　54年の歴史に幕",
@@ -35,7 +51,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那市の男ら２人再逮捕　神社の屋根から銅板窃盗",
@@ -43,43 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "８つのボタニカルでクラフトジン　岡谷市の豊島屋",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6796",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "太陽光発電設備が稼働　野村ユニソン諏訪南工場",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6794",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "農村の原風景今年も再現　原村払沢でわらにょう作り",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6793",
+      "title": "健やかな成長祈り七五三参り　諏訪大社下社秋宮",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6802",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "あなたが選ぶ「名君保科正之」　夢のキャスト考えて",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6797",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "”ちょこっと”防災　気軽に体験　岡谷市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6800",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "おもてなしプリンで松本山雅とツエーゲン応援",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6795",
+      "title": "飲食や体験会でにぎわう　下諏訪まち歩き「三角八丁」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6799",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
