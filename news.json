@@ -1,6 +1,6 @@
 {
-  "date": "2026年11月4日（水）",
-  "updated_at": "2026-11-04T11:30:02.265269+09:00",
+  "date": "2026年11月5日（木）",
+  "updated_at": "2026-11-05T11:37:56.477482+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,20 +14,12 @@
       "number": 2,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "先人に感謝、絆未来へ　東伊那１５０周年フェスタ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6787",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 3,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
       "title": "”東伊那愛”満載　150周年フェスタ11月１日",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6596",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 3,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "「もみじ湖紅葉祭り」あす開幕　箕輪ダム周辺",
@@ -35,7 +27,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "新機軸・箕輪の現場から　町の人口減少対策",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6806",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "牛首峠、悲恋の伝説　語りの劇場７日辰野で上演",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6805",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那市誕生２０年　節目の記念式典",
@@ -43,7 +51,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那の郷土料理・そば店「亀」　54年の歴史に幕",
@@ -51,7 +59,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那市の男ら２人再逮捕　神社の屋根から銅板窃盗",
@@ -59,27 +67,19 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "健やかな成長祈り七五三参り　諏訪大社下社秋宮",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6802",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "”ちょこっと”防災　気軽に体験　岡谷市",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6800",
+      "title": "アカマツ松くい虫「被害市町村」　岡谷市指定見通し",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6809",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "飲食や体験会でにぎわう　下諏訪まち歩き「三角八丁」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6799",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "茅野市陸上競技場　陸連公認更新されない見込み",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6808",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
