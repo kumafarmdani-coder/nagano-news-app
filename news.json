@@ -1,13 +1,13 @@
 {
-  "date": "2026年11月5日（木）",
-  "updated_at": "2026-11-05T11:37:56.477482+09:00",
+  "date": "2026年11月6日（金）",
+  "updated_at": "2026-11-06T11:38:52.514143+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "三つどもえの公算大きく　箕輪町長選告示まで１週間",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6801",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "「もみじ湖紅葉祭り」あす開幕　箕輪ダム周辺",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6769",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -20,10 +20,10 @@
     },
     {
       "number": 3,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「もみじ湖紅葉祭り」あす開幕　箕輪ダム周辺",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6769",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "カラマツの資源活用考える　伊那で「サミット」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6812",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -62,8 +62,8 @@
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "伊那市の男ら２人再逮捕　神社の屋根から銅板窃盗",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6763",
+      "title": "議員のなり手不足解消へ　飯島で初の「町民議会」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6788",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
