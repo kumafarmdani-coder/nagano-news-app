@@ -1,13 +1,13 @@
 {
-  "date": "2026年11月6日（金）",
-  "updated_at": "2026-11-06T11:38:52.514143+09:00",
+  "date": "2026年11月7日（土）",
+  "updated_at": "2026-11-07T11:07:00.587612+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "「もみじ湖紅葉祭り」あす開幕　箕輪ダム周辺",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6769",
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "三つどもえの公算大きく　箕輪町長選告示まで１週間",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6801",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -30,36 +30,12 @@
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "新機軸・箕輪の現場から　町の人口減少対策",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6806",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "牛首峠、悲恋の伝説　語りの劇場７日辰野で上演",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6805",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "伊那市誕生２０年　節目の記念式典",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6803",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
       "title": "伊那の郷土料理・そば店「亀」　54年の歴史に幕",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6757",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "議員のなり手不足解消へ　飯島で初の「町民議会」",
@@ -67,7 +43,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "上社本見立て、下社伐採の日程決まる　諏訪大社御柱祭",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6821",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "アカマツ松くい虫「被害市町村」　岡谷市指定見通し",
@@ -75,11 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "秋深まる湖畔駆ける　諏訪湖マラソン雨中に7000人",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6747",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "１３年間で１億７０２９万円着服　アルプス中央信用金庫で不祥事",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6820",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "茅野市陸上競技場　陸連公認更新されない見込み",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6808",
+      "title": "秀作７５５点を一堂に　信州書道展が開幕",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6819",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
