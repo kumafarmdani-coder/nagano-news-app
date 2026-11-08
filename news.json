@@ -1,9 +1,17 @@
 {
-  "date": "2026年11月7日（土）",
-  "updated_at": "2026-11-07T11:07:00.587612+09:00",
+  "date": "2026年11月8日（日）",
+  "updated_at": "2026-11-08T10:38:50.120883+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "箕輪町長選告示まで１カ月　新人三つどもえの公算",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6661",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "admin",
       "tag_label": "🏛行政",
       "title": "三つどもえの公算大きく　箕輪町長選告示まで１週間",
@@ -11,19 +19,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "”東伊那愛”満載　150周年フェスタ11月１日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6596",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "カラマツの資源活用考える　伊那で「サミット」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6812",
+      "title": "子どもたちポニーと疾走　箕輪で「パカパカ杯」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6824",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -44,42 +44,42 @@
     },
     {
       "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "上社本見立て、下社伐採の日程決まる　諏訪大社御柱祭",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6821",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "石仏越し紅葉と黄葉コラボ　茅野の長円寺",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6827",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "アカマツ松くい虫「被害市町村」　岡谷市指定見通し",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6809",
+      "title": "イオンスタイル諏訪　月一回「よいさ市」始動",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6826",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "秋深まる湖畔駆ける　諏訪湖マラソン雨中に7000人",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6747",
+      "title": "諏訪ナンバー図柄プレート　デザイン住民投票",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6825",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "１３年間で１億７０２９万円着服　アルプス中央信用金庫で不祥事",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6820",
+      "title": "地域医療構想など議論　県自治体病院研究会シンポ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6823",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "秀作７５５点を一堂に　信州書道展が開幕",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6819",
+      "title": "１３年間で１億７０２９万円着服　アルプス中央信用金庫で不祥事",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6820",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
