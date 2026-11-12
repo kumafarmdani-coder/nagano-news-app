@@ -1,6 +1,6 @@
 {
-  "date": "2026年11月11日（水）",
-  "updated_at": "2026-11-11T11:01:24.019435+09:00",
+  "date": "2026年11月12日（木）",
+  "updated_at": "2026-11-12T12:11:14.387317+09:00",
   "articles": [
     {
       "number": 1,
@@ -20,14 +20,22 @@
     },
     {
       "number": 3,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "三つどもえの公算大きく　箕輪町長選告示まで１週間",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6801",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "就任半年　吉田伊那市長に聞く",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6842",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "もみじ湖、鮮やかグラデーション　箕輪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6841",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "県縦断駅伝15日　上伊那２年ぶり40度目の優勝目指す",
@@ -35,23 +43,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "父親の足跡たどり伊那へ　当時の下宿先で思いはせ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6830",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "国スポへ関心高めて　駒ケ根でＪｒホッケー大会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6829",
+      "title": "諏訪圏ＦＣ「怪物」特別鑑賞教室　是枝監督トークも",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6845",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "柳澤寿男下諏訪音楽祭　来年12月５日に第１回",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6844",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "諏訪圏ＦＣ２０周年　岡谷で記念展",
@@ -59,19 +67,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "紅葉盛り、水面にも秋の風情　下諏訪の慈雲寺",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6838",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "元プロ野球選手が基本を指導　茅野市で少年野球教室",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6831",
+      "title": "石川文洋さんの軌跡舞台化　劇団文化座19日から公演",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6843",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
