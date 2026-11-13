@@ -1,17 +1,9 @@
 {
-  "date": "2026年11月12日（木）",
-  "updated_at": "2026-11-12T12:11:14.387317+09:00",
+  "date": "2026年11月13日（金）",
+  "updated_at": "2026-11-13T11:43:52.282787+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "箕輪町長選　12年ぶり選挙戦、３氏が届け出",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6836",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
       "tag": "admin",
       "tag_label": "🏛行政",
       "title": "箕輪町長選告示まで１カ月　新人三つどもえの公算",
@@ -19,7 +11,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 2,
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "箕輪町長選　12年ぶり選挙戦、３氏が届け出",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6836",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 3,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "遊休農地を花畑に　中川丘の上フラワーテラス始動",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6848",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "就任半年　吉田伊那市長に聞く",
@@ -27,7 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "もみじ湖、鮮やかグラデーション　箕輪",
@@ -35,7 +43,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "県縦断駅伝15日　上伊那２年ぶり40度目の優勝目指す",
@@ -43,7 +51,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "60年の節目に彩りと感動を　岡谷市美術会が岡谷展",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6851",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "諏訪圏工業メッセ開幕　自社製品や技術力ＰＲ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6850",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "諏訪圏ＦＣ「怪物」特別鑑賞教室　是枝監督トークも",
@@ -51,35 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "柳澤寿男下諏訪音楽祭　来年12月５日に第１回",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6844",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "諏訪圏ＦＣ２０周年　岡谷で記念展",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6839",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "石川文洋さんの軌跡舞台化　劇団文化座19日から公演",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6843",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "工業メッセあす開幕　25回の節目、344社出展",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6837",
+      "title": "原の阿久遺跡　１９年ぶり整備委”再開”",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6849",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
