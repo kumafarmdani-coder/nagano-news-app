@@ -1,17 +1,9 @@
 {
-  "date": "2026年11月13日（金）",
-  "updated_at": "2026-11-13T11:43:52.282787+09:00",
+  "date": "2026年11月14日（土）",
+  "updated_at": "2026-11-14T11:32:43.466617+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "箕輪町長選告示まで１カ月　新人三つどもえの公算",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6661",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 2,
       "tag": "admin",
       "tag_label": "🏛行政",
       "title": "箕輪町長選　12年ぶり選挙戦、３氏が届け出",
@@ -19,7 +11,23 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 2,
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "箕輪町長選告示まで１カ月　新人三つどもえの公算",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6661",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 3,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "学校の魅力さまざまな視点で　伊那北高で体験型ＷＳ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6853",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 4,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "遊休農地を花畑に　中川丘の上フラワーテラス始動",
@@ -27,23 +35,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "就任半年　吉田伊那市長に聞く",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6842",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "もみじ湖、鮮やかグラデーション　箕輪",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6841",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "県縦断駅伝15日　上伊那２年ぶり40度目の優勝目指す",
@@ -51,27 +43,35 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "下諏訪の御柱古道　むらやしＰと地元団体が協働整備",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6856",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "60年の節目に彩りと感動を　岡谷市美術会が岡谷展",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6851",
+      "title": "ものづくり小中高生も熱心に　諏訪圏工業メッセ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6855",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "諏訪圏工業メッセ開幕　自社製品や技術力ＰＲ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6850",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "紅葉深く色づく　下諏訪宿本陣岩波家",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6854",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "諏訪圏ＦＣ「怪物」特別鑑賞教室　是枝監督トークも",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6845",
+      "title": "本当に許せない　上農高のナシの枝持ち去り被害",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6857",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
