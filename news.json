@@ -1,6 +1,6 @@
 {
-  "date": "2026年11月14日（土）",
-  "updated_at": "2026-11-14T11:32:43.466617+09:00",
+  "date": "2026年11月15日（日）",
+  "updated_at": "2026-11-15T11:00:29.653612+09:00",
   "articles": [
     {
       "number": 1,
@@ -22,20 +22,28 @@
       "number": 3,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "学校の魅力さまざまな視点で　伊那北高で体験型ＷＳ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6853",
+      "title": "伊那市が新事業「フィールドラボ」　19日イベント",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6860",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "tourism",
       "tag_label": "🌿観光",
-      "title": "遊休農地を花畑に　中川丘の上フラワーテラス始動",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6848",
+      "title": "学校の魅力さまざまな視点で　伊那北高で体験型ＷＳ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6853",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "真っ赤に色づき、秋の絶景　駒ケ根高原",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6859",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "県縦断駅伝15日　上伊那２年ぶり40度目の優勝目指す",
@@ -43,43 +51,35 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "下諏訪の御柱古道　むらやしＰと地元団体が協働整備",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6856",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "ものづくり小中高生も熱心に　諏訪圏工業メッセ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6855",
+      "title": "父親の足跡たどり伊那へ　当時の下宿先で思いはせ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6830",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "紅葉深く色づく　下諏訪宿本陣岩波家",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6854",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "ごみ拾い、ゲーム感覚で　岡谷で「ｅスポGOMI」",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6863",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "本当に許せない　上農高のナシの枝持ち去り被害",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6857",
+      "title": "”恐竜”だらけ、初の運動会　岡谷",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6861",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "原の阿久遺跡　１９年ぶり整備委”再開”",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6849",
+      "title": "下諏訪の御柱古道　むらやしＰと地元団体が協働整備",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6856",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
