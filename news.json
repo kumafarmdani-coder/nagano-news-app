@@ -1,9 +1,17 @@
 {
-  "date": "2026年11月15日（日）",
-  "updated_at": "2026-11-15T11:00:29.653612+09:00",
+  "date": "2026年11月16日（月）",
+  "updated_at": "2026-11-16T11:16:31.047658+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "admin",
+      "tag_label": "🏛行政",
+      "title": "箕輪町長に土岐氏　三つどもえ戦制し初当選",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6869",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "admin",
       "tag_label": "🏛行政",
       "title": "箕輪町長選　12年ぶり選挙戦、３氏が届け出",
@@ -11,7 +19,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
       "tag": "admin",
       "tag_label": "🏛行政",
       "title": "箕輪町長選告示まで１カ月　新人三つどもえの公算",
@@ -19,7 +27,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
       "tag": "tourism",
       "tag_label": "🌿観光",
       "title": "伊那市が新事業「フィールドラボ」　19日イベント",
@@ -27,15 +35,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "学校の魅力さまざまな視点で　伊那北高で体験型ＷＳ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6853",
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "県縦断駅伝　上伊那３位、節目Ｖ持ち越し",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6864",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
+      "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "真っ赤に色づき、秋の絶景　駒ケ根高原",
@@ -43,7 +51,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 6,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "県縦断駅伝15日　上伊那２年ぶり40度目の優勝目指す",
@@ -51,7 +59,15 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "県縦断駅伝コース　来年から松本－伊那固定に",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6393",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "父親の足跡たどり伊那へ　当時の下宿先で思いはせ",
@@ -59,27 +75,11 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "ごみ拾い、ゲーム感覚で　岡谷で「ｅスポGOMI」",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6863",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 9,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "”恐竜”だらけ、初の運動会　岡谷",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6861",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "下諏訪の御柱古道　むらやしＰと地元団体が協働整備",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6856",
+      "title": "諏訪市長選　現職金子氏、４選出馬へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6868",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
