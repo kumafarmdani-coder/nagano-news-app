@@ -1,6 +1,6 @@
 {
-  "date": "2026年11月16日（月）",
-  "updated_at": "2026-11-16T11:16:31.047658+09:00",
+  "date": "2026年11月17日（火）",
+  "updated_at": "2026-11-17T13:39:44.367084+09:00",
   "articles": [
     {
       "number": 1,
@@ -28,26 +28,26 @@
     },
     {
       "number": 4,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "伊那市が新事業「フィールドラボ」　19日イベント",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6860",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "高等専門学校を駒ケ根に　誘致に初名乗り",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6874",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "県縦断駅伝　上伊那３位、節目Ｖ持ち越し",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6864",
+      "title": "防災拠点の役割も　パネックスアリーナが完成　伊那市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6871",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "真っ赤に色づき、秋の絶景　駒ケ根高原",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6859",
+      "title": "県縦断駅伝　上伊那３位、節目Ｖ持ち越し",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6864",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -76,10 +76,10 @@
     },
     {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "諏訪市長選　現職金子氏、４選出馬へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6868",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "庭園彩る紅葉のグラデーション　諏訪市岡村の地蔵寺",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6875",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
