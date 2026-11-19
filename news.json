@@ -1,6 +1,6 @@
 {
-  "date": "2026年11月18日（水）",
-  "updated_at": "2026-11-18T12:45:30.531255+09:00",
+  "date": "2026年11月19日（木）",
+  "updated_at": "2026-11-19T12:43:02.799259+09:00",
   "articles": [
     {
       "number": 1,
@@ -30,36 +30,28 @@
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "伊那中央病院　片頭痛特化の新薬処方開始",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6877",
+      "title": "150年前のフルートも　23日飯島さん夫妻演奏会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6885",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "高等専門学校を駒ケ根に　誘致に初名乗り",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6874",
+      "title": "辰野町が熊ゾーニング管理ＷＳ　生態や被害対策学ぶ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6884",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "防災拠点の役割も　パネックスアリーナが完成　伊那市",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6871",
+      "title": "伊那中央病院　片頭痛特化の新薬処方開始",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6877",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "県縦断駅伝15日　上伊那２年ぶり40度目の優勝目指す",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6835",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "県縦断駅伝コース　来年から松本－伊那固定に",
@@ -67,19 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 9,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "静岡産ウナギ諏訪湖に放流　浜名湖漁協が寄贈",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6881",
+      "title": "県縦断駅伝15日　上伊那２年ぶり40度目の優勝目指す",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6835",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 9,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "統合見据え合同花火　岡谷南、岡谷東高",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6887",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "選抜高校野球「21世紀枠」　岡谷南が県推選校に",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6879",
+      "title": "区・集落組合の集金　富士見町、３業務廃止へ",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6886",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
