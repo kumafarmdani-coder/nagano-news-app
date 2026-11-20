@@ -1,6 +1,6 @@
 {
-  "date": "2026年11月19日（木）",
-  "updated_at": "2026-11-19T12:43:02.799259+09:00",
+  "date": "2026年11月20日（金）",
+  "updated_at": "2026-11-20T12:36:36.266622+09:00",
   "articles": [
     {
       "number": 1,
@@ -20,10 +20,10 @@
     },
     {
       "number": 3,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "箕輪町長選告示まで１カ月　新人三つどもえの公算",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6661",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "駒ケ根の鉄塔で救助訓練　上伊那広域消防",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6889",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -46,20 +46,12 @@
       "number": 6,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "伊那中央病院　片頭痛特化の新薬処方開始",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6877",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
       "title": "県縦断駅伝コース　来年から松本－伊那固定に",
       "url": "https://www.nagano-np.co.jp/news/detail.php?id=6393",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 8,
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "県縦断駅伝15日　上伊那２年ぶり40度目の優勝目指す",
@@ -67,19 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 8,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "活動まとめ冊子に　諏訪のたねプロジェクト",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6892",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "統合見据え合同花火　岡谷南、岡谷東高",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6887",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "信州諏訪ふるさと国際映画祭　岡谷と茅野２館で上映",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6891",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "区・集落組合の集金　富士見町、３業務廃止へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6886",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "統合見据え合同花火　岡谷南、岡谷東高",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6887",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
