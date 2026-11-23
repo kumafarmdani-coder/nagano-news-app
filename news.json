@@ -1,6 +1,6 @@
 {
-  "date": "2026年11月21日（土）",
-  "updated_at": "2026-11-21T12:18:55.625903+09:00",
+  "date": "2026年11月23日（月）",
+  "updated_at": "2026-11-23T11:55:52.842122+09:00",
   "articles": [
     {
       "number": 1,
@@ -14,44 +14,36 @@
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "中学生をネパールへ　駒ケ根市が７年ぶりに派遣",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6895",
+      "title": "仮装楽しげ、思い思いに　飯島で米俵マラソン",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6907",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "駒ケ根の鉄塔で救助訓練　上伊那広域消防",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6889",
+      "title": "上農高生の伊那北駅前にぎわい創出　収穫祭28日",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6902",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "150年前のフルートも　23日飯島さん夫妻演奏会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6885",
+      "title": "バスケで先生40チーム熱戦　諏訪郡市大会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6905",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "県縦断駅伝コース　来年から松本－伊那固定に",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6393",
+      "title": "病院間連携と役割分担語る　岡谷でセミナー",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6904",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "県縦断駅伝15日　上伊那２年ぶり40度目の優勝目指す",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6835",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "秋宮駐車場を封鎖　街歩き促進へ実証実験　下諏訪町",
@@ -59,27 +51,35 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
+      "number": 7,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "国際映画祭華やかに　レッドカーペットセレモニー",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6911",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
       "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "一里塚のケヤキ２４、２５日伐採　富士見町御射山神戸",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6896",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "勝野大さんの思い継ぐ　岡工ラグビー部ＯＢ会追悼試合",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6910",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "活動まとめ冊子に　諏訪のたねプロジェクト",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6892",
+      "title": "石川文洋さんモデルに演劇　劇団文化座公演",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6909",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "今季初の雪　子どもが雪だるま作り",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6899",
+      "title": "建築家・伊藤文四郎　備忘録など見つかる",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6908",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
