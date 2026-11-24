@@ -1,17 +1,25 @@
 {
-  "date": "2026年11月23日（月）",
-  "updated_at": "2026-11-23T11:55:52.842122+09:00",
+  "date": "2026年11月24日（火）",
+  "updated_at": "2026-11-24T15:12:05.926010+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "admin",
-      "tag_label": "🏛行政",
-      "title": "箕輪町長に土岐氏　三つどもえ戦制し初当選",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6869",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "地域でレシピ開発　ソルガムを新たな食文化に　伊那市西箕輪",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6917",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "伊那市議会議場で合唱披露　高遠高生が練習に熱",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6913",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "仮装楽しげ、思い思いに　飯島で米俵マラソン",
@@ -19,15 +27,31 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
+      "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "上農高生の伊那北駅前にぎわい創出　収穫祭28日",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6902",
+      "title": "防災拠点の役割も　パネックスアリーナが完成　伊那市",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6871",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 4,
+      "number": 5,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "高等専門学校を駒ケ根に　誘致に初名乗り",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6874",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 6,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "現職の宮下氏が出馬表明　県議選諏訪市区",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6916",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "バスケで先生40チーム熱戦　諏訪郡市大会",
@@ -35,51 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 5,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "病院間連携と役割分担語る　岡谷でセミナー",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6904",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 6,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "秋宮駐車場を封鎖　街歩き促進へ実証実験　下諏訪町",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6898",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 7,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "国際映画祭華やかに　レッドカーペットセレモニー",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6911",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 8,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "勝野大さんの思い継ぐ　岡工ラグビー部ＯＢ会追悼試合",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6910",
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "統合見据え合同花火　岡谷南、岡谷東高",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6887",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "石川文洋さんモデルに演劇　劇団文化座公演",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6909",
+      "title": "スマホやゲームどう付き合う　チラシでメッセージ発信",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6915",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "建築家・伊藤文四郎　備忘録など見つかる",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6908",
+      "title": "「しもすわ豆腐」大豆栽培２年目　６次産業化の定着目指す",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6914",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
