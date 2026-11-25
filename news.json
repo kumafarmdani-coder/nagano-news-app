@@ -1,9 +1,17 @@
 {
-  "date": "2026年11月24日（火）",
-  "updated_at": "2026-11-24T15:12:05.926010+09:00",
+  "date": "2026年11月25日（水）",
+  "updated_at": "2026-11-25T13:57:29.672292+09:00",
   "articles": [
     {
       "number": 1,
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "旧竹村家住宅の特色や歴史学ぶ　駒ケ根市立博物館",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6920",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "地域でレシピ開発　ソルガムを新たな食文化に　伊那市西箕輪",
@@ -11,7 +19,7 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 2,
+      "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "伊那市議会議場で合唱披露　高遠高生が練習に熱",
@@ -19,31 +27,31 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 3,
-      "tag": "general",
-      "tag_label": "📰一般",
-      "title": "仮装楽しげ、思い思いに　飯島で米俵マラソン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6907",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
       "number": 4,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "防災拠点の役割も　パネックスアリーナが完成　伊那市",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6871",
+      "title": "伊那中央病院　片頭痛特化の新薬処方開始",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6877",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 5,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "高等専門学校を駒ケ根に　誘致に初名乗り",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6874",
+      "title": "「糸都岡谷」工女落語に　慶大藤田研究会の学生",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6921",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 6,
+      "tag": "tourism",
+      "tag_label": "🌿観光",
+      "title": "ポケふた×ゴジラ28日イベント　岡谷蚕糸公園・旧庁舎",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6923",
+      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
+    },
+    {
+      "number": 7,
       "tag": "general",
       "tag_label": "📰一般",
       "title": "現職の宮下氏が出馬表明　県議選諏訪市区",
@@ -51,35 +59,27 @@
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
-      "number": 7,
+      "number": 8,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "バスケで先生40チーム熱戦　諏訪郡市大会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6905",
-      "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
-    },
-    {
-      "number": 8,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "統合見据え合同花火　岡谷南、岡谷東高",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6887",
+      "title": "伝統のシクラメン販売　きょうから信大農学部",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6919",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 9,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "スマホやゲームどう付き合う　チラシでメッセージ発信",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6915",
+      "title": "身近な野鳥撮影　中村健三さんカレンダー発行",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6922",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "「しもすわ豆腐」大豆栽培２年目　６次産業化の定着目指す",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6914",
+      "title": "スマホやゲームどう付き合う　チラシでメッセージ発信",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6915",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
