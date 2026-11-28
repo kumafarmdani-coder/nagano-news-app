@@ -1,29 +1,29 @@
 {
-  "date": "2026年11月27日（金）",
-  "updated_at": "2026-11-27T13:22:13.487184+09:00",
+  "date": "2026年11月28日（土）",
+  "updated_at": "2026-11-28T13:02:26.248247+09:00",
   "articles": [
     {
       "number": 1,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "トイレ損壊の駒ケ根市内２公園　防犯カメラ設置へ",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6925",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "２０２８年３月末で運送事業廃止　飯島町唯一のタクシー業社",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6941",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 2,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "企業・食・音楽、飯島の魅力発信　29日博覧会",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6932",
+      "title": "地元２社の技術に触れる　南箕輪小でものづくり学ぶ特別授業",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6937",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 3,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "宮田中の県産物活用学校給食献立　県コンク最優秀賞",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6926",
+      "title": "企業・食・音楽、飯島の魅力発信　29日博覧会",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6932",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
@@ -68,18 +68,18 @@
     },
     {
       "number": 9,
-      "tag": "tourism",
-      "tag_label": "🌿観光",
-      "title": "湯めぐり楽しんで　早太郎温泉宵灯キャンペーン",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6931",
+      "tag": "general",
+      "tag_label": "📰一般",
+      "title": "２７年大会は６月２７日　スワコエイトピークスミドルトライアスロン",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6940",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     },
     {
       "number": 10,
       "tag": "general",
       "tag_label": "📰一般",
-      "title": "スマホやゲームどう付き合う　チラシでメッセージ発信",
-      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6915",
+      "title": "海戸遺跡の土器９０年ぶり里帰り　記念し書籍発刊",
+      "url": "https://www.nagano-np.co.jp/news/detail.php?id=6939",
       "summary": "長野日報の記事です。タイトルをタップして全文をご覧ください。"
     }
   ]
